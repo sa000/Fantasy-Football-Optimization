@@ -1,0 +1,32 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Kirk Cousins,Washington Redskins,1,33,40,317,3,0,3,15,1,Away,Tampa Bay Buccaneers
+Tom Brady,New England Patriots,1,34,54,355,2,0,4,15,1,Away,New York Jets
+Andrew Luck,Indianapolis Colts,1,23,44,333,3,2,3,27,0,Away,New Orleans Saints
+Ryan Tannehill,Miami Dolphins,1,18,19,282,4,0,1,3,0,Away,Houston Texans
+Philip Rivers,San Diego Chargers,1,38,58,336,3,2,0,0,0,Away,Oakland Raiders
+Derek Carr,Oakland Raiders,1,24,31,289,3,0,2,3,0,Home,San Diego Chargers
+EJ Manuel,Buffalo Bills,1,24,42,298,2,2,8,38,0,Home,Jacksonville Jaguars
+Ryan Fitzpatrick,New York Jets,1,22,39,295,2,0,5,29,0,Home,New England Patriots
+Brian Hoyer,Houston Texans,1,23,49,273,3,1,0,0,0,Home,Miami Dolphins
+Teddy Bridgewater,Minnesota Vikings,1,25,35,316,2,0,3,1,0,Home,Detroit Lions
+Jameis Winston,Tampa Bay Buccaneers,1,21,29,297,2,0,1,5,0,Home,Washington Redskins
+Carson Palmer,Arizona Cardinals,1,20,29,275,2,0,2,2,0,Away,Baltimore Ravens
+Cam Newton,Carolina Panthers,1,14,24,197,1,3,4,20,1,Away,Philadelphia Eagles
+Matthew Stafford,Detroit Lions,1,18,26,256,2,0,1,5,0,Away,Minnesota Vikings
+Russell Wilson,Seattle Seahawks,1,18,24,235,1,2,7,20,0,Home,San Francisco 49ers
+Alex Smith,Kansas City Chiefs,1,21,32,251,1,0,3,5,0,Away,Pittsburgh Steelers
+Blake Bortles,Jacksonville Jaguars,1,13,29,182,2,1,5,-3,0,Away,Buffalo Bills
+Joe Flacco,Baltimore Ravens,1,26,40,252,1,1,0,0,0,Home,Arizona Cardinals
+Drew Brees,New Orleans Saints,1,28,44,255,1,1,4,-4,0,Home,Indianapolis Colts
+Matt Ryan,Atlanta Falcons,1,22,38,251,1,2,2,-3,0,Home,Tennessee Titans
+Matt Cassel,Dallas Cowboys,1,17,27,227,1,3,1,4,0,Home,New York Giants
+Josh McCown,Cleveland Browns,1,26,32,270,0,0,4,21,0,Home,St. Louis Rams
+Landry Jones,Pittsburgh Steelers,1,16,29,209,1,2,1,-2,0,Home,Kansas City Chiefs
+Zach Mettenberger,Tennessee Titans,1,22,35,187,1,2,1,0,0,Away,Atlanta Falcons
+Sam Bradford,Philadelphia Eagles,1,26,46,205,0,1,3,6,0,Home,Carolina Panthers
+Eli Manning,New York Giants,1,13,24,170,0,0,4,-4,0,Away,Dallas Cowboys
+Nick Foles,St. Louis Rams,1,15,23,163,0,0,2,-2,0,Away,Cleveland Browns
+Colin Kaepernick,San Francisco 49ers,1,13,24,124,0,0,0,0,0,Away,Seattle Seahawks
+Johnny Manziel,Cleveland Browns,1,4,5,27,0,0,1,5,0,Home,St. Louis Rams
+Luke McCown,New Orleans Saints,1,1,1,25,0,0,0,0,0,Home,Indianapolis Colts
+Matt Moore,Miami Dolphins,1,1,1,14,0,0,3,-2,0,Away,Houston Texans

@@ -1,0 +1,34 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Aaron Rodgers,Green Bay Packers,1,18,27,315,6,0,0,0,0,Away,Chicago Bears
+Peyton Manning,Denver Broncos,1,31,44,340,5,2,0,0,0,Home,Oakland Raiders
+Drew Brees,New Orleans Saints,1,28,47,292,3,2,2,7,0,Away,San Francisco 49ers
+Josh McCown,Tampa Bay Buccaneers,1,27,43,301,2,2,5,39,0,Away,Atlanta Falcons
+Russell Wilson,Seattle Seahawks,1,10,17,172,0,2,14,107,1,Away,New York Giants
+Mark Sanchez,Philadelphia Eagles,1,20,37,332,2,0,2,-1,0,Away,Carolina Panthers
+Tony Romo,Dallas Cowboys,1,20,27,246,3,0,0,0,0,Home,Jacksonville Jaguars
+Cam Newton,Carolina Panthers,1,25,40,306,2,3,2,6,0,Home,Philadelphia Eagles
+Matthew Stafford,Detroit Lions,1,25,40,280,2,1,2,-1,0,Away,Miami Dolphins
+Ben Roethlisberger,Pittsburgh Steelers,1,30,43,343,1,2,1,0,0,Home,New York Jets
+Michael Vick,New York Jets,1,10,18,132,2,0,8,39,0,Away,Pittsburgh Steelers
+Eli Manning,New York Giants,1,29,44,283,1,1,0,0,0,Home,Seattle Seahawks
+Derek Carr,Oakland Raiders,1,30,47,192,2,2,0,0,0,Away,Denver Broncos
+Jay Cutler,Chicago Bears,1,22,37,272,1,2,2,0,0,Home,Green Bay Packers
+Alex Smith,Kansas City Chiefs,1,17,29,177,0,0,4,25,1,Home,Buffalo Bills
+Kyle Orton,Buffalo Bills,1,29,48,259,1,0,2,3,0,Away,Kansas City Chiefs
+Colin Kaepernick,San Francisco 49ers,1,14,32,210,1,0,4,24,0,Home,New Orleans Saints
+Matt Ryan,Atlanta Falcons,1,20,31,219,1,0,3,9,0,Home,Tampa Bay Buccaneers
+Blake Bortles,Jacksonville Jaguars,1,22,37,290,0,1,3,3,0,Away,Dallas Cowboys
+Austin Davis,St. Louis Rams,1,17,30,216,1,2,3,0,0,Home,Arizona Cardinals
+Ryan Tannehill,Miami Dolphins,1,27,38,207,1,1,2,0,0,Home,Detroit Lions
+Zach Mettenberger,Tennessee Titans,1,16,27,179,1,1,0,0,0,Home,Baltimore Ravens
+Joe Flacco,Baltimore Ravens,1,16,27,169,1,0,3,-2,0,Away,Tennessee Titans
+Carson Palmer,Arizona Cardinals,1,25,36,241,0,1,1,1,0,Away,St. Louis Rams
+Brian Hoyer,Cleveland Browns,1,15,23,198,0,0,4,1,0,Home,Cincinnati Bengals
+Drew Stanton,Arizona Cardinals,1,3,5,85,1,0,2,3,0,Away,St. Louis Rams
+Andy Dalton,Cincinnati Bengals,1,10,33,86,0,3,3,8,0,Away,Cleveland Browns
+Brock Osweiler,Denver Broncos,1,2,5,13,0,0,3,2,0,Home,Oakland Raiders
+Jimmy Clausen,Chicago Bears,1,1,3,11,0,0,0,0,0,Home,Green Bay Packers
+Jason Campbell,Cincinnati Bengals,1,3,6,7,0,0,0,0,0,Away,Cleveland Browns
+Matt Flynn,Green Bay Packers,1,1,5,4,0,0,0,0,0,Away,Chicago Bears
+Brandon Weeden,Dallas Cowboys,1,1,1,8,0,0,3,-3,0,Home,Jacksonville Jaguars
+Matt Barkley,Philadelphia Eagles,1,0,1,0,0,0,3,0,0,Away,Carolina Panthers

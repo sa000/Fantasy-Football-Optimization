@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Ziggy Ansah,Detroit Lions,1,3,1,3.5,0,0,1,1,Away,Philadelphia Eagles
+J.J. Watt,Houston Texans,1,3,2,2.0,0,0,0,0,Away,New Orleans Saints
+Derek Wolfe,Denver Broncos,1,6,2,1.0,0,0,0,0,Away,New England Patriots
+Vinny Curry,Philadelphia Eagles,1,2,0,2.0,0,0,0,0,Home,Detroit Lions
+Rob Ninkovich,New England Patriots,1,4,2,1.0,0,0,0,0,Home,Denver Broncos
+Sheldon Richardson,New York Jets,1,1,0,1.0,1,0,1,0,Away,Miami Dolphins
+Tyrone Crawford,Dallas Cowboys,1,4,1,1.0,0,0,0,0,Away,Carolina Panthers
+Roy Miller,Jacksonville Jaguars,1,4,1,1.0,0,0,0,0,Away,San Diego Chargers
+Olivier Vernon,Miami Dolphins,1,4,1,1.0,0,0,0,0,Home,New York Jets
+Muhammad Wilkerson,New York Jets,1,3,1,1.0,1,0,0,0,Away,Miami Dolphins
+Malcom Brown,New England Patriots,1,4,0,1.0,0,0,0,0,Home,Denver Broncos
+Devon Kennard,New York Giants,1,5,5,0.0,0,0,0,0,Home,Washington Redskins
+Shea McClellin,Chicago Bears,1,5,5,0.0,0,0,0,0,Home,Green Bay Packers
+Geno Atkins,Cincinnati Bengals,1,3,0,1.0,0,0,0,0,Away,St. Louis Rams
+Howard Jones,Tampa Bay Buccaneers,1,3,0,1.0,0,0,0,0,Home,Indianapolis Colts
+Cameron Jordan,New Orleans Saints,1,2,2,1.0,0,0,0,0,Home,Houston Texans
+Dontari Poe,Kansas City Chiefs,1,2,0,0.0,0,0,1,1,Away,Buffalo Bills
+Kendall Reyes,San Diego Chargers,1,2,0,1.0,1,0,0,0,Home,Jacksonville Jaguars
+Akeem Spence,Tampa Bay Buccaneers,1,3,0,1.0,0,0,0,0,Home,Indianapolis Colts
+Mike Purcell,San Francisco 49ers,1,2,1,1.0,0,0,0,0,Away,Arizona Cardinals
+Ahtyba Rubin,Seattle Seahawks,1,0,1,0.0,1,1,0,0,Away,Pittsburgh Steelers
+Cliff Avril,Seattle Seahawks,1,2,0,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Alan Branch,New England Patriots,1,4,0,0.0,2,0,0,0,Home,Denver Broncos
+Marcell Dareus,Buffalo Bills,1,6,0,0.0,0,0,0,0,Home,Kansas City Chiefs
+Cameron Heyward,Pittsburgh Steelers,1,1,2,1.0,0,0,0,0,Home,Seattle Seahawks
+Gerald McCoy,Tampa Bay Buccaneers,1,2,0,1.0,0,0,0,0,Home,Indianapolis Colts
+Connor Barwin,Philadelphia Eagles,1,4,1,0.0,1,0,0,0,Home,Detroit Lions
+Devin Taylor,Detroit Lions,1,3,1,0.5,0,0,0,0,Away,Philadelphia Eagles
+Chris Baker,Washington Redskins,1,1,0,1.0,0,0,0,0,Away,New York Giants
+Frank Clark,Seattle Seahawks,1,1,0,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Kony Ealy,Carolina Panthers,1,1,0,1.0,0,0,0,0,Home,Dallas Cowboys
+Everson Griffen,Minnesota Vikings,1,1,0,1.0,0,0,0,0,Home,Atlanta Falcons
+John Jenkins,New Orleans Saints,1,4,2,0.0,0,0,0,0,Home,Houston Texans
+Bennie Logan,Philadelphia Eagles,1,5,0,0.0,0,0,0,0,Home,Detroit Lions
+Jared Odrick,Jacksonville Jaguars,1,1,0,1.0,0,0,0,0,Away,San Diego Chargers
+Vance Walker,Denver Broncos,1,1,0,1.0,0,0,0,0,Away,New England Patriots
+Kroy Biermann,Atlanta Falcons,1,2,5,0.0,0,0,0,0,Away,Minnesota Vikings
+William Gholston,Tampa Bay Buccaneers,1,3,1,0.0,1,0,0,0,Home,Indianapolis Colts
+Timmy Jernigan,Baltimore Ravens,1,2,1,0.5,0,0,0,0,Home,Cleveland Browns
+Ian Williams,San Francisco 49ers,1,4,1,0.0,0,0,0,0,Away,Arizona Cardinals
+Nick Hayden,Dallas Cowboys,1,3,2,0.0,0,0,0,0,Away,Carolina Panthers
+Jaye Howard,Kansas City Chiefs,1,2,0,0.0,0,0,0,1,Away,Buffalo Bills
+Preston Smith,Washington Redskins,1,2,2,0.0,1,0,0,0,Away,New York Giants
+Kerry Wynn,New York Giants,1,2,4,0.0,0,0,0,0,Home,Washington Redskins
+Jonathan Babineaux,Atlanta Falcons,1,3,1,0.0,0,0,0,0,Away,Minnesota Vikings
+Jurrell Casey,Tennessee Titans,1,1,5,0.0,0,0,0,0,Away,Oakland Raiders
+Markus Golden,Arizona Cardinals,1,1,1,0.5,0,0,0,0,Home,San Francisco 49ers
+Tyson Jackson,Atlanta Falcons,1,3,1,0.0,0,0,0,0,Away,Minnesota Vikings
+Aaron Lynch,San Francisco 49ers,1,2,1,0.0,1,0,0,0,Away,Arizona Cardinals
+Brandon Graham,Philadelphia Eagles,1,3,0,0.0,0,0,0,0,Home,Detroit Lions

@@ -1,0 +1,36 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Drew Brees,New Orleans Saints,1,24,31,381,4,0,2,8,1,Away,Tampa Bay Buccaneers
+Andy Dalton,Cincinnati Bengals,1,21,36,281,2,4,6,23,1,Away,Baltimore Ravens
+Peyton Manning,Denver Broncos,1,25,28,266,4,0,0,0,0,Home,Oakland Raiders
+Carson Palmer,Arizona Cardinals,1,28,49,407,2,1,1,-1,0,Away,San Francisco 49ers
+Kyle Orton,Dallas Cowboys,1,30,46,358,2,2,1,8,0,Away,Philadelphia Eagles
+Colin Kaepernick,San Francisco 49ers,1,21,34,310,2,0,4,24,0,Home,Arizona Cardinals
+Aaron Rodgers,Green Bay Packers,1,25,39,318,2,2,1,5,0,Home,Chicago Bears
+Philip Rivers,San Diego Chargers,1,22,33,229,3,1,3,2,0,Away,Kansas City Chiefs
+Cam Newton,Carolina Panthers,1,15,27,149,2,1,12,72,0,Home,Atlanta Falcons
+Matt Ryan,Atlanta Falcons,1,28,40,280,2,1,2,-1,0,Away,Carolina Panthers
+Nick Foles,Philadelphia Eagles,1,17,26,263,2,0,5,-5,0,Home,Dallas Cowboys
+Chad Henne,Jacksonville Jaguars,1,30,51,331,1,1,1,0,0,Home,Indianapolis Colts
+Chase Daniel,Kansas City Chiefs,1,21,30,200,1,0,7,59,0,Home,San Diego Chargers
+Geno Smith,New York Jets,1,17,27,190,0,0,10,44,1,Home,Miami Dolphins
+Jay Cutler,Chicago Bears,1,15,24,226,2,1,0,0,0,Away,Green Bay Packers
+Mike Glennon,Tampa Bay Buccaneers,1,22,41,219,2,1,0,0,0,Home,New Orleans Saints
+Andrew Luck,Indianapolis Colts,1,26,37,282,1,0,2,7,0,Away,Jacksonville Jaguars
+Thaddeus Lewis,Buffalo Bills,1,16,29,247,1,0,2,4,0,Home,New England Patriots
+Jason Campbell,Cleveland Browns,1,23,41,240,1,1,1,6,0,Home,Pittsburgh Steelers
+Ryan Tannehill,Miami Dolphins,1,20,40,204,1,3,2,19,0,Away,New York Jets
+Matthew Stafford,Detroit Lions,1,22,33,217,1,0,0,0,0,Home,Minnesota Vikings
+Matt Cassel,Minnesota Vikings,1,20,33,189,1,1,4,5,0,Away,Detroit Lions
+Ben Roethlisberger,Pittsburgh Steelers,1,19,31,179,1,2,4,9,0,Away,Cleveland Browns
+Joe Flacco,Baltimore Ravens,1,30,50,192,1,3,1,1,0,Home,Cincinnati Bengals
+Russell Wilson,Seattle Seahawks,1,15,23,172,1,0,5,-1,0,Away,St. Louis Rams
+Matt Schaub,Houston Texans,1,22,34,229,0,2,2,7,0,Home,Tennessee Titans
+Kellen Clemens,St. Louis Rams,1,21,30,157,1,2,2,2,0,Home,Seattle Seahawks
+Eli Manning,New York Giants,1,10,24,152,1,1,0,0,0,Away,Washington Redskins
+Tom Brady,New England Patriots,1,14,24,122,1,1,4,-3,0,Away,Buffalo Bills
+Kirk Cousins,Washington Redskins,1,19,49,169,0,2,1,3,0,Home,New York Giants
+Ryan Fitzpatrick,Tennessee Titans,1,15,24,166,0,1,2,-2,0,Away,Houston Texans
+Brock Osweiler,Denver Broncos,1,9,13,85,0,0,1,-1,0,Home,Oakland Raiders
+Matt Hasselbeck,Indianapolis Colts,1,3,4,25,0,0,1,-1,0,Away,Jacksonville Jaguars
+Curtis Painter,New York Giants,1,2,8,11,0,1,3,-2,0,Away,Washington Redskins
+Luke McCown,New Orleans Saints,1,0,0,0,0,0,1,-2,0,Away,Tampa Bay Buccaneers

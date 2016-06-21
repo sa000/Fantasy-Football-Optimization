@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Mario Williams,Buffalo Bills,1,4,1,3.5,0,0,0,0,Home,Miami Dolphins
+Jacquies Smith,Tampa Bay Buccaneers,1,3,0,2.0,0,0,1,0,Home,Washington Redskins
+DeMarcus Ware,Denver Broncos,1,6,1,1.0,0,0,1,0,Home,St. Louis Rams
+J.J. Watt,Houston Texans,1,4,1,1.0,0,0,1,1,Home,Cleveland Browns
+Ray McDonald,San Francisco 49ers,1,5,2,1.0,0,0,1,0,Home,New York Giants
+Gerald McCoy,Tampa Bay Buccaneers,1,3,2,1.5,0,0,0,0,Home,Washington Redskins
+Jared Allen,Chicago Bears,1,5,0,1.0,0,0,0,0,Away,Minnesota Vikings
+Charles Johnson,Carolina Panthers,1,4,2,1.0,0,0,0,0,Away,Atlanta Falcons
+Vinny Curry,Philadelphia Eagles,1,1,1,1.0,0,0,1,0,Home,Green Bay Packers
+Rob Ninkovich,New England Patriots,1,4,1,1.0,0,0,0,0,Home,Indianapolis Colts
+Devon Kennard,New York Giants,1,7,2,0.0,0,0,0,0,Away,San Francisco 49ers
+Letroy Guion,Green Bay Packers,1,3,1,1.0,0,0,0,0,Away,Philadelphia Eagles
+Clinton McDonald,Tampa Bay Buccaneers,1,3,1,1.0,0,0,0,0,Home,Washington Redskins
+Mike Neal,Green Bay Packers,1,3,0,1.0,0,0,0,0,Away,Philadelphia Eagles
+Calais Campbell,Arizona Cardinals,1,3,1,0.0,0,0,1,0,Away,Detroit Lions
+Aaron Donald,St. Louis Rams,1,2,1,1.0,0,0,0,0,Away,Denver Broncos
+Domata Peko,Cincinnati Bengals,1,5,3,0.0,0,0,0,0,Home,New Orleans Saints
+Dontari Poe,Kansas City Chiefs,1,2,1,1.0,0,0,0,0,Away,Seattle Seahawks
+Robert Ayers,New York Giants,1,2,0,1.0,0,0,0,0,Away,San Francisco 49ers
+Jurrell Casey,Tennessee Titans,1,5,2,0.0,0,0,0,0,Away,Pittsburgh Steelers
+Carlos Dunlap,Cincinnati Bengals,1,2,0,0.0,1,0,1,0,Home,New Orleans Saints
+Michael Johnson,Tampa Bay Buccaneers,1,2,0,1.0,0,0,0,0,Home,Washington Redskins
+Aaron Lynch,San Francisco 49ers,1,2,0,1.0,0,0,0,0,Home,New York Giants
+Frostee Rucker,Arizona Cardinals,1,1,2,1.0,0,0,0,0,Away,Detroit Lions
+Antonio Smith,Oakland Raiders,1,2,0,1.0,0,0,0,0,Home,San Diego Chargers
+Derek Wolfe,Denver Broncos,1,2,0,1.0,0,0,0,0,Home,St. Louis Rams
+Mario Addison,Carolina Panthers,1,1,1,1.0,0,0,0,0,Away,Atlanta Falcons
+Kroy Biermann,Atlanta Falcons,1,4,3,0.0,0,0,0,0,Home,Carolina Panthers
+Barry Cofield,Washington Redskins,1,1,1,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Marvin Austin,Denver Broncos,1,5,0,0.0,0,0,0,0,Home,St. Louis Rams
+Desmond Bryant,Cleveland Browns,1,2,6,0.0,0,0,0,0,Away,Houston Texans
+Stefan Charles,Buffalo Bills,1,1,0,1.0,0,0,0,0,Home,Miami Dolphins
+Sharrif Floyd,Minnesota Vikings,1,5,0,0.0,0,0,0,0,Home,Chicago Bears
+Malik Jackson,Denver Broncos,1,5,0,0.0,0,0,0,0,Home,St. Louis Rams
+Earl Mitchell,Miami Dolphins,1,1,0,1.0,0,0,0,0,Away,Buffalo Bills
+Olivier Vernon,Miami Dolphins,1,1,0,1.0,0,0,0,0,Away,Buffalo Bills
+Akiem Hicks,New Orleans Saints,1,4,1,0.0,0,0,0,0,Away,Cincinnati Bengals
+Kyle Williams,Buffalo Bills,1,4,1,0.0,0,0,0,0,Home,Miami Dolphins
+Fletcher Cox,Philadelphia Eagles,1,3,1,0.0,0,0,0,0,Home,Green Bay Packers
+Dwan Edwards,Carolina Panthers,1,2,3,0.0,0,0,0,0,Away,Atlanta Falcons
+Cameron Jordan,New Orleans Saints,1,3,1,0.0,0,0,0,0,Away,Cincinnati Bengals
+Mathias Kiwanuka,New York Giants,1,3,1,0.0,0,0,0,0,Away,San Francisco 49ers
+Josh Boyd,Green Bay Packers,1,3,0,0.0,0,0,0,0,Away,Philadelphia Eagles
+Ryan Carrethers,San Diego Chargers,1,3,0,0.0,0,0,0,0,Away,Oakland Raiders
+Will Clarke,Cincinnati Bengals,1,1,0,0.0,0,0,0,1,Home,New Orleans Saints
+Quinton Dial,San Francisco 49ers,1,2,2,0.0,0,0,0,0,Home,New York Giants
+Larry English,Tampa Bay Buccaneers,1,3,0,0.0,0,0,0,0,Home,Washington Redskins
+Andre Fluellen,Detroit Lions,1,3,0,0.0,0,0,0,0,Home,Arizona Cardinals
+Everson Griffen,Minnesota Vikings,1,2,0,0.0,1,0,0,0,Home,Chicago Bears
+Jordan Hill,Seattle Seahawks,1,1,0,0.0,0,0,0,1,Home,Kansas City Chiefs

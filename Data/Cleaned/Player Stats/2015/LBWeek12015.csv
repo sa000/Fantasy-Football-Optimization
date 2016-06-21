@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Thomas Davis,Carolina Panthers,1,7,0,1.0,0,1,0,0,Home,Jacksonville Jaguars
+Uani Unga,New York Giants,1,10,2,0.0,0,1,0,0,Home,Dallas Cowboys
+C.J. Mosley,Baltimore Ravens,1,5,1,2.0,0,0,0,0,Home,Denver Broncos
+Paul Posluszny,Jacksonville Jaguars,1,8,1,0.0,0,1,0,0,Away,Carolina Panthers
+Derrick Morgan,Tennessee Titans,1,4,1,2.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Alex Okafor,Arizona Cardinals,1,4,1,2.0,0,0,0,0,Away,New Orleans Saints
+Nigel Bradham,Buffalo Bills,1,7,1,1.0,0,0,0,0,Away,Indianapolis Colts
+Kyle Emanuel,San Diego Chargers,1,2,1,1.0,0,1,0,0,Away,Detroit Lions
+Anthony Barr,Minnesota Vikings,1,10,2,0.0,0,0,0,0,Home,San Francisco 49ers
+Navorro Bowman,San Francisco 49ers,1,7,0,1.0,0,0,0,0,Away,Minnesota Vikings
+David Harris,New York Jets,1,6,2,1.0,0,0,0,0,Away,Cleveland Browns
+Dont'a Hightower,New England Patriots,1,6,2,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Derrick Johnson,Kansas City Chiefs,1,6,2,1.0,0,0,0,0,Home,Houston Texans
+Luke Kuechly,Carolina Panthers,1,7,0,1.0,0,0,0,0,Home,Jacksonville Jaguars
+Clay Matthews,Green Bay Packers,1,6,0,0.0,0,1,0,0,Home,Chicago Bears
+Paul Worrilow,Atlanta Falcons,1,9,4,0.0,0,0,0,0,Away,Philadelphia Eagles
+Brandon Marshall,Denver Broncos,1,6,1,1.0,0,0,0,0,Away,Baltimore Ravens
+Julius Peppers,Green Bay Packers,1,4,1,1.5,0,0,0,0,Home,Chicago Bears
+Dan Skuta,Jacksonville Jaguars,1,6,1,1.0,0,0,0,0,Away,Carolina Panthers
+Kiko Alonso,Philadelphia Eagles,1,4,2,0.0,0,1,0,0,Home,Atlanta Falcons
+Justin Houston,Kansas City Chiefs,1,3,0,1.0,0,0,1,0,Home,Houston Texans
+Koa Misi,Miami Dolphins,1,9,2,0.0,0,0,0,0,Home,Washington Redskins
+Jelani Jenkins,Miami Dolphins,1,7,4,0.0,0,0,0,0,Home,Washington Redskins
+Brian Cushing,Houston Texans,1,6,4,0.0,0,0,0,0,Away,Kansas City Chiefs
+Sean Lee,Dallas Cowboys,1,7,2,0.0,0,0,0,0,Away,New York Giants
+Telvin Smith,Jacksonville Jaguars,1,7,2,0.0,0,0,0,0,Away,Carolina Panthers
+Stephen Tulloch,Detroit Lions,1,6,0,0.0,0,0,0,1,Home,San Diego Chargers
+Mychal Kendricks,Philadelphia Eagles,1,5,5,0.0,0,0,0,0,Home,Atlanta Falcons
+Hau'oli Kikaha,New Orleans Saints,1,4,1,0.0,0,0,1,0,Home,Arizona Cardinals
+Vincent Rey,Cincinnati Bengals,1,6,3,0.0,0,0,0,0,Home,Oakland Raiders
+Danny Trevathan,Denver Broncos,1,6,3,0.0,0,0,0,0,Away,Baltimore Ravens
+Josh Bynes,Detroit Lions,1,6,2,0.0,0,0,0,0,Home,San Diego Chargers
+Lavonte David,Tampa Bay Buccaneers,1,3,2,0.0,0,0,1,0,Away,Tennessee Titans
+D'Qwell Jackson,Indianapolis Colts,1,5,4,0.0,0,0,0,0,Home,Buffalo Bills
+Zach Brown,Tennessee Titans,1,6,1,0.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Deone Bucannon,Arizona Cardinals,1,6,1,0.0,0,0,0,0,Away,New Orleans Saints
+Gerald Hodges,Minnesota Vikings,1,5,3,0.0,0,0,0,0,Home,San Francisco 49ers
+Nate Palmer,Green Bay Packers,1,6,1,0.0,0,0,0,0,Home,Chicago Bears
+Malcolm Smith,Oakland Raiders,1,6,1,0.0,0,0,0,0,Away,Cincinnati Bengals
+Bud Dupree,Pittsburgh Steelers,1,2,0,1.0,0,0,0,0,Home,New England Patriots
+Justin Durant,Atlanta Falcons,1,4,4,0.0,0,0,0,0,Away,Philadelphia Eagles
+Anthony Hitchens,Dallas Cowboys,1,4,4,0.0,0,0,0,0,Away,New York Giants
+A.J. Klein,Carolina Panthers,1,6,0,0.0,0,0,0,0,Home,Jacksonville Jaguars
+Kevin Minter,Arizona Cardinals,1,5,2,0.0,0,0,0,0,Away,New Orleans Saints
+Alec Ogletree,St. Louis Rams,1,5,2,0.0,0,0,0,0,Away,Seattle Seahawks
+Ryan Shazier,Pittsburgh Steelers,1,5,2,0.0,0,0,0,0,Home,New England Patriots
+Bobby Wagner,Seattle Seahawks,1,5,2,0.0,0,0,0,0,Home,St. Louis Rams
+Karlos Dansby,Cleveland Browns,1,4,3,0.0,0,0,0,0,Home,New York Jets
+Christian Jones,Chicago Bears,1,4,3,0.0,0,0,0,0,Away,Green Bay Packers
+James Laurinaitis,St. Louis Rams,1,4,3,0.0,0,0,0,0,Away,Seattle Seahawks

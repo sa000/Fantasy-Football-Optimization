@@ -1,0 +1,34 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Tony Romo,Dallas Cowboys,1,25,36,506,5,1,1,7,0,Away,Denver Broncos
+Peyton Manning,Denver Broncos,1,33,42,414,4,1,4,-8,1,Home,Dallas Cowboys
+Russell Wilson,Seattle Seahawks,1,15,31,210,2,1,13,102,0,Home,Indianapolis Colts
+Jay Cutler,Chicago Bears,1,24,33,358,2,0,4,27,0,Away,New Orleans Saints
+Philip Rivers,San Diego Chargers,1,36,49,411,2,3,0,0,0,Home,Oakland Raiders
+Ryan Fitzpatrick,Tennessee Titans,1,21,41,247,1,2,6,50,1,Away,Kansas City Chiefs
+Eli Manning,New York Giants,1,24,52,334,2,3,0,0,0,Away,Philadelphia Eagles
+Geno Smith,New York Jets,1,16,20,199,3,0,3,21,0,Home,Atlanta Falcons
+Matt Ryan,Atlanta Falcons,1,36,45,319,2,0,0,0,0,Away,New York Jets
+Sam Bradford,St. Louis Rams,1,19,34,222,3,0,5,4,0,Away,Jacksonville Jaguars
+Drew Brees,New Orleans Saints,1,29,35,288,2,0,0,0,0,Home,Chicago Bears
+Andrew Luck,Indianapolis Colts,1,16,29,229,2,0,4,9,0,Away,Seattle Seahawks
+Ryan Tannehill,Miami Dolphins,1,21,40,307,1,0,2,6,0,Away,Baltimore Ravens
+Aaron Rodgers,Green Bay Packers,1,20,30,274,1,0,5,8,0,Away,Detroit Lions
+Nick Foles,Philadelphia Eagles,1,16,25,197,2,0,3,1,0,Home,New York Giants
+Cam Newton,Carolina Panthers,1,21,39,308,0,3,4,25,0,Home,Arizona Cardinals
+Matthew Stafford,Detroit Lions,1,25,40,262,1,0,1,-1,0,Home,Green Bay Packers
+Joe Flacco,Baltimore Ravens,1,19,32,269,0,1,2,13,0,Home,Miami Dolphins
+Brandon Weeden,Cleveland Browns,1,13,24,197,1,0,3,0,0,Away,Buffalo Bills
+Blaine Gabbert,Jacksonville Jaguars,1,9,19,181,1,2,3,6,0,Home,St. Louis Rams
+Alex Smith,Kansas City Chiefs,1,20,39,245,0,1,3,10,0,Home,Tennessee Titans
+Michael Vick,Philadelphia Eagles,1,6,14,105,0,0,7,79,0,Home,New York Giants
+Andy Dalton,Cincinnati Bengals,1,20,27,212,0,1,6,25,0,Away,New England Patriots
+Carson Palmer,Arizona Cardinals,1,19,28,175,1,3,3,-3,0,Away,Carolina Panthers
+Colin Kaepernick,San Francisco 49ers,1,6,15,113,1,0,1,14,0,Away,Houston Texans
+Tom Brady,New England Patriots,1,18,38,197,0,1,0,0,0,Home,Cincinnati Bengals
+Chad Henne,Jacksonville Jaguars,1,7,13,89,1,0,1,2,0,Home,St. Louis Rams
+Matt Schaub,Houston Texans,1,19,35,173,0,3,0,0,0,Home,San Francisco 49ers
+EJ Manuel,Buffalo Bills,1,11,20,129,0,0,1,14,0,Home,Cleveland Browns
+Jeff Tuel,Buffalo Bills,1,8,20,80,0,1,0,0,0,Home,Cleveland Browns
+Brian Hoyer,Cleveland Browns,1,2,4,25,0,0,1,11,0,Away,Buffalo Bills
+T.J. Yates,Houston Texans,1,3,5,15,0,0,1,0,0,Home,San Francisco 49ers
+Colt McCoy,San Francisco 49ers,1,0,0,0,0,0,3,-3,0,Away,Houston Texans

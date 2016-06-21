@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Derrick Shelby,Miami Dolphins,1,2,1,0.5,1,1,0,0,Away,Baltimore Ravens
+Demarcus Lawrence,Dallas Cowboys,1,4,0,2.0,0,0,1,0,Home,Washington Redskins
+Olivier Vernon,Miami Dolphins,1,4,2,2.5,0,0,0,0,Away,Baltimore Ravens
+Devin Taylor,Detroit Lions,1,3,0,2.0,0,0,1,0,Away,Green Bay Packers
+Connor Barwin,Philadelphia Eagles,1,4,3,2.0,0,0,0,0,Home,New England Patriots
+Robert Ayers,New York Giants,1,3,2,2.0,1,0,0,0,Away,New York Jets
+Frank Clark,Seattle Seahawks,1,2,0,2.0,2,0,0,0,Home,Minnesota Vikings
+Brandon Graham,Philadelphia Eagles,1,3,1,2.0,0,0,0,0,Home,New England Patriots
+Eddie Goldman,Chicago Bears,1,3,0,2.0,0,0,0,0,Away,San Francisco 49ers
+Brian Robison,Minnesota Vikings,1,3,0,2.0,0,0,0,0,Away,Seattle Seahawks
+William Gholston,Tampa Bay Buccaneers,1,2,1,2.0,0,0,0,0,Away,Atlanta Falcons
+Aaron Donald,St. Louis Rams,1,5,2,1.0,0,0,0,0,Away,Arizona Cardinals
+Carlos Dunlap,Cincinnati Bengals,1,3,0,1.0,0,0,1,0,Home,Cleveland Browns
+Bruce Irvin,Seattle Seahawks,1,3,0,1.0,0,0,1,0,Home,Minnesota Vikings
+Shea McClellin,Chicago Bears,1,9,0,0.0,1,0,0,0,Away,San Francisco 49ers
+Quinton Dial,San Francisco 49ers,1,7,2,0.0,1,0,0,0,Home,Chicago Bears
+Cameron Jordan,New Orleans Saints,1,3,3,1.0,0,0,0,0,Away,Carolina Panthers
+Jason Pierre-Paul,New York Giants,1,5,1,0.0,1,0,0,1,Away,New York Jets
+Leonard Williams,New York Jets,1,4,1,1.0,0,0,0,0,Home,New York Giants
+Grady Jarrett,Atlanta Falcons,1,4,0,1.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Michael Bennett,Seattle Seahawks,1,3,1,1.0,0,0,0,0,Home,Minnesota Vikings
+Shane Ray,Denver Broncos,1,3,1,1.0,0,0,0,0,Home,San Diego Chargers
+Ziggy Ansah,Detroit Lions,1,3,0,1.0,0,0,0,0,Away,Green Bay Packers
+Chris Baker,Washington Redskins,1,4,0,0.0,0,0,1,0,Away,Dallas Cowboys
+Jadeveon Clowney,Houston Texans,1,3,0,1.0,0,0,0,0,Home,Buffalo Bills
+Mike Catapano,New York Jets,1,2,1,1.0,0,0,0,0,Home,New York Giants
+Sharrif Floyd,Minnesota Vikings,1,6,1,0.0,0,0,0,0,Away,Seattle Seahawks
+Muhammad Wilkerson,New York Jets,1,2,1,1.0,0,0,0,0,Home,New York Giants
+Tyson Alualu,Jacksonville Jaguars,1,2,0,1.0,0,0,0,0,Home,Tennessee Titans
+Jurrell Casey,Tennessee Titans,1,1,2,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Michael Johnson,Cincinnati Bengals,1,2,0,1.0,0,0,0,0,Home,Cleveland Browns
+Domata Peko,Cincinnati Bengals,1,2,0,1.0,0,0,0,0,Home,Cleveland Browns
+Kawann Short,Carolina Panthers,1,2,0,1.0,0,0,0,0,Home,New Orleans Saints
+Corbin Bryant,Buffalo Bills,1,5,1,0.0,0,0,0,0,Away,Houston Texans
+Damon Harrison,New York Jets,1,5,1,0.0,0,0,0,0,Home,New York Giants
+Cullen Jenkins,New York Giants,1,1,1,1.0,0,0,0,0,Away,New York Jets
+Dan Williams,Oakland Raiders,1,3,1,0.5,0,0,0,0,Away,Kansas City Chiefs
+"Mario Edwards, Jr.",Oakland Raiders,1,1,0,1.0,0,0,0,0,Away,Kansas City Chiefs
+Jason Hatcher,Washington Redskins,1,2,0,0.0,0,0,1,0,Away,Dallas Cowboys
+Damontre Moore,New York Giants,1,4,2,0.0,0,0,0,0,Away,New York Jets
+Ian Williams,San Francisco 49ers,1,4,1,0.0,0,0,0,0,Home,Chicago Bears
+Malcom Brown,New England Patriots,1,2,0,0.0,0,0,0,1,Away,Philadelphia Eagles
+Malik Jackson,Denver Broncos,1,2,0,0.0,2,0,0,0,Home,San Diego Chargers
+Cassius Marsh,Seattle Seahawks,1,4,0,0.0,0,0,0,0,Home,Minnesota Vikings
+Ed Stinson,Arizona Cardinals,1,4,0,0.0,0,0,0,0,Home,St. Louis Rams
+Will Sutton,Chicago Bears,1,4,0,0.0,0,0,0,0,Away,San Francisco 49ers
+Vance Walker,Denver Broncos,1,1,0,0.0,0,0,1,0,Home,San Diego Chargers
+Vince Wilfork,Houston Texans,1,4,0,0.0,0,0,0,0,Home,Buffalo Bills
+Derek Wolfe,Denver Broncos,1,3,2,0.0,0,0,0,0,Home,San Diego Chargers
+David Bass,Tennessee Titans,1,2,1,0.0,1,0,0,0,Away,Jacksonville Jaguars

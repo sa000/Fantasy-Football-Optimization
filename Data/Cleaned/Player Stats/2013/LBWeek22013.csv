@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Kiko Alonso,Buffalo Bills,1,9,1,1.0,1,1,0,0,Away,Carolina Panthers
+Brian Cushing,Houston Texans,1,11,0,2.0,0,0,0,0,Away,Tennessee Titans
+Mason Foster,Tampa Bay Buccaneers,1,3,4,0.0,2,1,0,0,Away,New Orleans Saints
+Jerrell Freeman,Indianapolis Colts,1,6,2,2.0,0,0,1,0,Away,Miami Dolphins
+DeAndre Levy,Detroit Lions,1,5,0,0.0,1,1,0,0,Home,Arizona Cardinals
+Luke Kuechly,Carolina Panthers,1,7,7,0.0,1,1,0,0,Home,Buffalo Bills
+Philip Wheeler,Miami Dolphins,1,8,4,1.0,2,0,0,0,Home,Indianapolis Colts
+Daryl Smith,Baltimore Ravens,1,3,8,1.5,2,0,0,0,Away,Cleveland Browns
+Aldon Smith,San Francisco 49ers,1,6,1,2.0,0,0,0,0,Home,Seattle Seahawks
+Ryan Kerrigan,Washington Redskins,1,5,0,2.0,0,0,0,0,Home,Green Bay Packers
+Danny Trevathan,Denver Broncos,1,8,2,1.0,0,0,0,0,Home,New York Giants
+Lance Briggs,Chicago Bears,1,8,2,0.0,3,0,0,0,Away,Minnesota Vikings
+Ahmad Brooks,San Francisco 49ers,1,7,2,1.0,0,0,0,0,Home,Seattle Seahawks
+Lavonte David,Tampa Bay Buccaneers,1,4,2,1.5,1,0,0,0,Away,New Orleans Saints
+Chandler Jones,New England Patriots,1,3,2,2.0,0,0,0,0,Away,New York Jets
+Zach Brown,Tennessee Titans,1,11,1,0.0,0,0,0,0,Home,Houston Texans
+Paul Posluszny,Jacksonville Jaguars,1,4,5,1.0,1,0,0,0,Home,Oakland Raiders
+K.J. Wright,Seattle Seahawks,1,3,3,1.0,1,0,0,1,Away,San Francisco 49ers
+Bruce Carter,Dallas Cowboys,1,6,0,1.0,1,0,0,0,Home,Kansas City Chiefs
+Thomas Davis,Carolina Panthers,1,7,4,0.0,1,0,0,0,Home,Buffalo Bills
+Dannell Ellerbe,Miami Dolphins,1,6,8,0.0,0,0,0,0,Home,Indianapolis Colts
+Alec Ogletree,St. Louis Rams,1,8,0,0.0,2,0,0,0,Home,Atlanta Falcons
+James Anderson,Chicago Bears,1,8,1,0.0,1,0,0,0,Away,Minnesota Vikings
+Chad Greenway,Minnesota Vikings,1,8,3,0.0,0,0,0,0,Home,Chicago Bears
+Pat Angerer,Indianapolis Colts,1,3,8,0.5,0,0,0,0,Away,Miami Dolphins
+Karlos Dansby,Arizona Cardinals,1,8,0,0.0,1,0,0,0,Away,Detroit Lions
+Mychal Kendricks,Philadelphia Eagles,1,6,2,0.0,0,0,0,1,Away,San Diego Chargers
+Brian Orakpo,Washington Redskins,1,5,0,1.0,0,0,0,0,Home,Green Bay Packers
+Geno Hayes,Jacksonville Jaguars,1,7,3,0.0,0,0,0,0,Home,Oakland Raiders
+Trent Cole,Philadelphia Eagles,1,4,0,0.0,1,0,1,0,Away,San Diego Chargers
+D'Qwell Jackson,Cleveland Browns,1,4,4,0.0,0,0,0,1,Home,Baltimore Ravens
+Spencer Paysinger,New York Giants,1,8,0,0.0,0,0,0,0,Away,Denver Broncos
+Craig Robertson,Cleveland Browns,1,3,4,0.0,0,0,1,0,Home,Baltimore Ravens
+Terrell Suggs,Baltimore Ravens,1,2,4,1.0,0,0,0,0,Away,Cleveland Browns
+Navorro Bowman,San Francisco 49ers,1,4,7,0.0,0,0,0,0,Home,Seattle Seahawks
+Jarvis Jones,Pittsburgh Steelers,1,7,1,0.0,0,0,0,0,Home,Cincinnati Bengals
+Akeem Jordan,Kansas City Chiefs,1,4,1,0.0,0,0,1,0,Away,Dallas Cowboys
+Arthur Moats,Buffalo Bills,1,7,1,0.0,0,0,0,0,Away,Carolina Panthers
+DeMeco Ryans,Philadelphia Eagles,1,6,3,0.0,0,0,0,0,Away,San Diego Chargers
+Vontaze Burfict,Cincinnati Bengals,1,5,4,0.0,0,0,0,0,Away,Pittsburgh Steelers
+Elvis Dumervil,Baltimore Ravens,1,2,2,1.0,0,0,0,0,Away,Cleveland Browns
+Derrick Morgan,Tennessee Titans,1,3,0,1.0,0,0,0,0,Home,Houston Texans
+Dekoda Watson,Tampa Bay Buccaneers,1,0,2,0.0,1,1,0,0,Away,New Orleans Saints
+Rey Maualuga,Cincinnati Bengals,1,5,3,0.0,0,0,0,0,Away,Pittsburgh Steelers
+Jacquian Williams,New York Giants,1,4,3,0.0,1,0,0,0,Away,Denver Broncos
+Wesley Woodyard,Denver Broncos,1,4,3,0.0,1,0,0,0,Home,New York Giants
+Dont'a Hightower,New England Patriots,1,4,4,0.0,0,0,0,0,Away,New York Jets
+Curtis Lofton,New Orleans Saints,1,5,2,0.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Barkevious Mingo,Cleveland Browns,1,2,0,1.0,0,0,0,0,Home,Baltimore Ravens
+Lawrence Timmons,Pittsburgh Steelers,1,4,4,0.0,0,0,0,0,Home,Cincinnati Bengals

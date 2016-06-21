@@ -1,0 +1,35 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Drew Brees,New Orleans Saints,1,34,41,392,4,0,0,0,0,Away,Dallas Cowboys
+Peyton Manning,Denver Broncos,1,25,36,330,4,0,2,-1,0,Home,San Diego Chargers
+Robert Griffin III,Washington Redskins,1,24,37,281,3,0,7,44,0,Home,Minnesota Vikings
+Ryan Fitzpatrick,Tennessee Titans,1,22,33,264,2,0,3,13,1,Away,Jacksonville Jaguars
+Nick Foles,Philadelphia Eagles,1,12,18,228,3,0,8,38,0,Home,Green Bay Packers
+Russell Wilson,Seattle Seahawks,1,19,26,287,2,0,3,20,0,Home,Atlanta Falcons
+Andy Dalton,Cincinnati Bengals,1,24,51,274,2,3,6,22,0,Home,Baltimore Ravens
+Case Keenum,Houston Texans,1,22,43,201,3,0,2,13,0,Home,Arizona Cardinals
+Andrew Luck,Indianapolis Colts,1,29,47,353,1,3,4,17,0,Away,St. Louis Rams
+Matthew Stafford,Detroit Lions,1,18,35,219,3,1,2,-1,0,Home,Chicago Bears
+Kellen Clemens,St. Louis Rams,1,9,16,247,2,0,3,2,0,Home,Indianapolis Colts
+Scott Tolzien,Green Bay Packers,1,24,39,280,1,2,1,19,0,Away,Philadelphia Eagles
+Carson Palmer,Arizona Cardinals,1,20,32,241,2,1,2,-2,0,Away,Houston Texans
+Ryan Tannehill,Miami Dolphins,1,27,42,229,2,1,1,2,0,Home,Tampa Bay Buccaneers
+Christian Ponder,Minnesota Vikings,1,17,21,174,2,1,2,13,0,Away,Washington Redskins
+Jay Cutler,Chicago Bears,1,21,40,250,1,1,0,0,0,Away,Detroit Lions
+Philip Rivers,San Diego Chargers,1,19,29,218,1,0,5,7,0,Away,Denver Broncos
+Joe Flacco,Baltimore Ravens,1,20,36,140,2,2,1,4,0,Away,Cincinnati Bengals
+Ben Roethlisberger,Pittsburgh Steelers,1,18,30,204,1,1,0,0,0,Away,Buffalo Bills
+Matt Ryan,Atlanta Falcons,1,23,36,172,1,0,3,15,0,Away,Seattle Seahawks
+EJ Manuel,Buffalo Bills,1,22,39,155,1,1,2,17,0,Home,Pittsburgh Steelers
+Eli Manning,New York Giants,1,12,22,140,1,1,3,-3,0,Away,Oakland Raiders
+Mike Glennon,Tampa Bay Buccaneers,1,11,21,139,1,1,4,-3,0,Away,Miami Dolphins
+Tony Romo,Dallas Cowboys,1,10,24,128,1,0,0,0,0,Home,New Orleans Saints
+Cam Newton,Carolina Panthers,1,16,32,169,0,1,7,17,0,Home,San Francisco 49ers
+Chad Henne,Jacksonville Jaguars,1,14,23,180,0,2,1,-1,0,Home,Tennessee Titans
+Josh McCown,Chicago Bears,1,6,9,62,1,0,0,0,0,Away,Detroit Lions
+Colin Kaepernick,San Francisco 49ers,1,11,22,91,0,1,4,16,0,Away,Carolina Panthers
+Matt Hasselbeck,Indianapolis Colts,1,2,5,68,0,1,1,-1,0,Away,St. Louis Rams
+Jake Locker,Tennessee Titans,1,4,9,24,0,1,3,18,0,Away,Jacksonville Jaguars
+Matt Cassel,Minnesota Vikings,1,4,6,47,0,0,1,-1,0,Away,Washington Redskins
+Tyrod Taylor,Baltimore Ravens,1,0,0,0,0,0,1,18,0,Away,Cincinnati Bengals
+Seneca Wallace,Green Bay Packers,1,5,5,25,0,0,0,0,0,Away,Philadelphia Eagles
+Luke McCown,New Orleans Saints,1,0,0,0,0,0,2,-2,0,Away,Dallas Cowboys

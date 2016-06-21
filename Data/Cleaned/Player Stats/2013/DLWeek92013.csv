@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Cameron Wake,Miami Dolphins,1,5,0,3.0,0,0,1,1,Away,Cincinnati Bengals
+Jurrell Casey,Tennessee Titans,1,6,0,2.0,0,0,1,0,Home,St. Louis Rams
+Shea McClellin,Chicago Bears,1,3,2,3.0,0,0,0,0,Home,Green Bay Packers
+Kendall Langford,St. Louis Rams,1,6,0,2.0,0,0,0,0,Away,Tennessee Titans
+Sean Lissemore,San Diego Chargers,1,1,0,0.0,1,1,0,0,Home,Washington Redskins
+Rob Ninkovich,New England Patriots,1,3,2,1.0,0,0,1,0,Away,Pittsburgh Steelers
+Antonio Smith,Houston Texans,1,3,0,2.0,0,0,0,0,Away,Indianapolis Colts
+Brian Robison,Minnesota Vikings,1,2,0,2.0,0,0,0,0,Home,Dallas Cowboys
+George Selvie,Dallas Cowboys,1,2,1,1.0,0,0,1,0,Away,Minnesota Vikings
+J.J. Watt,Houston Texans,1,3,1,1.0,1,0,0,0,Away,Indianapolis Colts
+Connor Barwin,Philadelphia Eagles,1,0,2,0.0,2,1,0,0,Home,Oakland Raiders
+Michael Johnson,Cincinnati Bengals,1,4,0,1.0,0,0,0,0,Home,Miami Dolphins
+Paul Soliai,Miami Dolphins,1,3,0,1.0,1,0,0,0,Away,Cincinnati Bengals
+Cameron Heyward,Pittsburgh Steelers,1,2,3,1.0,0,0,0,0,Home,New England Patriots
+Corey Wootton,Chicago Bears,1,3,1,1.0,0,0,0,0,Home,Green Bay Packers
+Armonty Bryant,Cleveland Browns,1,3,0,1.0,0,0,0,0,Away,Baltimore Ravens
+Nick Hayden,Dallas Cowboys,1,4,2,0.0,0,0,0,1,Away,Minnesota Vikings
+Dontari Poe,Kansas City Chiefs,1,5,4,0.0,0,0,0,0,Home,Buffalo Bills
+Vinny Curry,Philadelphia Eagles,1,2,1,1.0,0,0,0,0,Home,Oakland Raiders
+Jabaal Sheard,Cleveland Browns,1,2,1,1.0,0,0,0,0,Away,Baltimore Ravens
+Randy Starks,Miami Dolphins,1,6,1,0.0,0,0,0,0,Away,Cincinnati Bengals
+Geno Atkins,Cincinnati Bengals,1,2,0,1.0,0,0,0,0,Home,Miami Dolphins
+Michael Bennett,Seattle Seahawks,1,1,2,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Wallace Gilberry,Cincinnati Bengals,1,2,0,1.0,0,0,0,0,Home,Miami Dolphins
+Everson Griffen,Minnesota Vikings,1,2,0,1.0,0,0,0,0,Home,Dallas Cowboys
+William Hayes,St. Louis Rams,1,2,0,1.0,0,0,0,0,Away,Tennessee Titans
+Mike Neal,Green Bay Packers,1,5,2,0.0,0,0,0,0,Away,Chicago Bears
+Jack Crawford,Oakland Raiders,1,1,1,1.0,0,0,0,0,Away,Philadelphia Eagles
+Mike Devito,Kansas City Chiefs,1,2,7,0.0,0,0,0,0,Home,Buffalo Bills
+Datone Jones,Green Bay Packers,1,1,1,1.0,0,0,0,0,Away,Chicago Bears
+Mario Addison,Carolina Panthers,1,2,0,0.0,0,0,1,0,Away,Atlanta Falcons
+Cliff Avril,Seattle Seahawks,1,2,2,0.5,0,0,0,0,Away,Tampa Bay Buccaneers
+Andre Carter,New England Patriots,1,1,0,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Carlos Dunlap,Cincinnati Bengals,1,2,0,0.0,0,0,1,0,Home,Miami Dolphins
+Charles Johnson,Carolina Panthers,1,1,0,1.0,0,0,0,0,Away,Atlanta Falcons
+Osi Umenyiora,Atlanta Falcons,1,2,2,0.5,0,0,0,0,Home,Carolina Panthers
+Muhammad Wilkerson,New York Jets,1,1,0,1.0,0,0,0,0,Away,New Orleans Saints
+Marcell Dareus,Buffalo Bills,1,4,1,0.0,0,0,0,0,Away,Kansas City Chiefs
+Frank Alexander,Carolina Panthers,1,1,0,0.0,1,0,0,1,Away,Atlanta Falcons
+Derek Landri,Tampa Bay Buccaneers,1,3,2,0.0,0,0,0,0,Home,Seattle Seahawks
+Corey Liuget,San Diego Chargers,1,1,2,0.0,2,0,0,0,Home,Washington Redskins
+Gerald McCoy,Tampa Bay Buccaneers,1,2,4,0.0,0,0,0,0,Home,Seattle Seahawks
+Tony McDaniel,Seattle Seahawks,1,1,6,0.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Ropati Pitoitua,Tennessee Titans,1,4,0,0.0,0,0,0,0,Home,St. Louis Rams
+Larry English,San Diego Chargers,1,2,1,0.0,1,0,0,0,Home,Washington Redskins
+Akiem Hicks,New Orleans Saints,1,1,5,0.0,0,0,0,0,Home,New York Jets
+Tyson Jackson,Kansas City Chiefs,1,3,1,0.0,0,0,0,0,Home,Buffalo Bills
+Earl Mitchell,Houston Texans,1,3,1,0.0,0,0,0,0,Away,Indianapolis Colts
+Olivier Vernon,Miami Dolphins,1,3,1,0.0,0,0,0,0,Away,Cincinnati Bengals
+Michael Brockers,St. Louis Rams,1,3,0,0.0,0,0,0,0,Away,Tennessee Titans

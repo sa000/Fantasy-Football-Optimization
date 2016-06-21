@@ -1,0 +1,32 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Cam Newton,Carolina Panthers,1,15,30,297,3,1,9,57,1,Away,Green Bay Packers
+Drew Brees,New Orleans Saints,1,28,39,389,3,1,3,-1,1,Away,Tennessee Titans
+Aaron Rodgers,Green Bay Packers,1,25,48,369,4,1,4,22,0,Home,Carolina Panthers
+Marcus Mariota,Tennessee Titans,1,28,39,371,4,0,1,5,0,Home,New Orleans Saints
+Derek Carr,Oakland Raiders,1,24,44,301,4,1,2,3,0,Home,Pittsburgh Steelers
+Blake Bortles,Jacksonville Jaguars,1,24,40,381,2,2,4,32,0,Home,New York Jets
+Matt Cassel,Dallas Cowboys,1,25,38,299,3,1,2,17,0,Away,Philadelphia Eagles
+Jay Cutler,Chicago Bears,1,27,40,345,2,1,3,-2,0,Home,San Diego Chargers
+Ben Roethlisberger,Pittsburgh Steelers,1,24,44,334,2,1,0,0,0,Away,Oakland Raiders
+Andy Dalton,Cincinnati Bengals,1,21,27,234,3,0,6,5,0,Away,Cleveland Browns
+Andrew Luck,Indianapolis Colts,1,21,36,252,2,0,6,34,0,Away,Denver Broncos
+Tom Brady,New England Patriots,1,26,39,299,2,1,1,-1,0,Away,Washington Redskins
+Peyton Manning,Denver Broncos,1,21,36,281,2,2,0,0,0,Home,Indianapolis Colts
+Ryan Fitzpatrick,New York Jets,1,21,34,272,2,0,4,0,0,Away,Jacksonville Jaguars
+Jameis Winston,Tampa Bay Buccaneers,1,19,36,249,0,0,3,24,1,Away,New York Giants
+Blaine Gabbert,San Francisco 49ers,1,15,25,185,2,2,8,32,0,Away,Atlanta Falcons
+Matt Ryan,Atlanta Falcons,1,30,45,303,1,0,1,2,0,Home,San Francisco 49ers
+Sam Bradford,Philadelphia Eagles,1,25,36,295,1,0,1,-1,0,Home,Dallas Cowboys
+Eli Manning,New York Giants,1,26,40,213,2,2,1,-1,0,Home,Tampa Bay Buccaneers
+Philip Rivers,San Diego Chargers,1,26,42,280,1,0,0,0,0,Away,Chicago Bears
+Tyrod Taylor,Buffalo Bills,1,11,12,181,1,0,10,44,0,Away,Miami Dolphins
+Ryan Tannehill,Miami Dolphins,1,27,36,309,0,0,2,3,0,Home,Buffalo Bills
+Johnny Manziel,Cleveland Browns,1,15,33,168,1,0,4,31,0,Home,Cincinnati Bengals
+Teddy Bridgewater,Minnesota Vikings,1,13,21,144,0,1,3,17,1,Away,St. Louis Rams
+Kirk Cousins,Washington Redskins,1,22,40,217,1,1,0,0,0,Home,New England Patriots
+Nick Foles,St. Louis Rams,1,18,33,168,0,0,1,2,0,Home,Minnesota Vikings
+Landry Jones,Pittsburgh Steelers,1,4,6,79,0,0,0,0,0,Away,Oakland Raiders
+Shaun Hill,Minnesota Vikings,1,2,6,15,0,0,1,-1,0,Away,St. Louis Rams
+Colin Kaepernick,San Francisco 49ers,1,0,1,0,0,0,0,0,0,Away,Atlanta Falcons
+Jimmy Garoppolo,New England Patriots,1,0,0,0,0,0,1,-1,0,Away,Washington Redskins
+AJ McCarron,Cincinnati Bengals,1,0,0,0,0,0,2,-2,0,Away,Cleveland Browns

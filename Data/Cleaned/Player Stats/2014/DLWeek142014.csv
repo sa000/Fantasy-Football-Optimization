@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Sheldon Richardson,New York Jets,1,5,2,3.0,0,0,0,0,Home,Minnesota Vikings
+Devon Kennard,New York Giants,1,6,0,2.0,0,0,1,0,Home,Tennessee Titans
+J.J. Watt,Houston Texans,1,4,0,3.0,1,0,0,0,Home,Jacksonville Jaguars
+Jason Pierre-Paul,New York Giants,1,4,3,2.0,0,0,1,0,Home,Tennessee Titans
+Robert Quinn,St. Louis Rams,1,3,2,1.5,1,0,1,0,Home,Washington Redskins
+Frostee Rucker,Arizona Cardinals,1,3,0,2.0,1,0,0,0,Away,Kansas City Chiefs
+Jacquies Smith,Tampa Bay Buccaneers,1,3,1,2.0,0,0,0,0,Home,Detroit Lions
+Calais Campbell,Arizona Cardinals,1,5,1,1.0,1,0,0,0,Away,Kansas City Chiefs
+Malik Jackson,Denver Broncos,1,6,0,1.0,0,0,0,0,Away,Buffalo Bills
+Damontre Moore,New York Giants,1,2,0,2.0,0,0,0,0,Home,Tennessee Titans
+Antonio Smith,Oakland Raiders,1,2,0,2.0,0,0,0,0,Away,San Francisco 49ers
+Connor Barwin,Philadelphia Eagles,1,5,1,1.0,0,0,0,0,Away,Seattle Seahawks
+Fletcher Cox,Philadelphia Eagles,1,8,3,0.0,0,0,0,0,Away,Seattle Seahawks
+Ndamukong Suh,Detroit Lions,1,5,1,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Rob Ninkovich,New England Patriots,1,5,0,1.0,0,0,0,0,Home,San Diego Chargers
+Chris Baker,Washington Redskins,1,4,1,1.0,0,0,0,0,Away,St. Louis Rams
+Kawann Short,Carolina Panthers,1,4,1,1.0,0,0,0,0,Home,New Orleans Saints
+Larry English,Tampa Bay Buccaneers,1,1,0,1.0,0,0,1,0,Home,Detroit Lions
+William Gholston,Tampa Bay Buccaneers,1,3,2,1.0,0,0,0,0,Home,Detroit Lions
+William Hayes,St. Louis Rams,1,4,0,1.0,0,0,0,0,Home,Washington Redskins
+Jordan Hill,Seattle Seahawks,1,4,0,1.0,0,0,0,0,Home,Philadelphia Eagles
+Sen'Derrick Marks,Jacksonville Jaguars,1,1,2,1.5,0,0,0,0,Away,Houston Texans
+Everson Griffen,Minnesota Vikings,1,2,1,1.0,1,0,0,0,Away,New York Jets
+Michael Bennett,Seattle Seahawks,1,3,0,1.0,0,0,0,0,Home,Philadelphia Eagles
+Kroy Biermann,Atlanta Falcons,1,2,2,1.0,0,0,0,0,Home,Green Bay Packers
+Aaron Donald,St. Louis Rams,1,2,2,1.0,0,0,0,0,Home,Washington Redskins
+Andre Fluellen,Detroit Lions,1,1,0,1.0,0,0,0,1,Away,Tampa Bay Buccaneers
+Jared Allen,Chicago Bears,1,4,1,0.5,0,0,0,0,Away,Dallas Cowboys
+Cameron Heyward,Pittsburgh Steelers,1,1,3,1.0,0,0,0,0,Home,Cincinnati Bengals
+Vinny Curry,Philadelphia Eagles,1,2,0,1.0,0,0,0,0,Away,Seattle Seahawks
+Brian Robison,Minnesota Vikings,1,1,0,1.0,1,0,0,0,Away,New York Jets
+Eugene Sims,St. Louis Rams,1,2,0,1.0,0,0,0,0,Home,Washington Redskins
+Olivier Vernon,Miami Dolphins,1,2,0,1.0,0,0,0,0,Away,Baltimore Ravens
+Jason Babin,New York Jets,1,5,1,0.0,0,0,0,0,Home,Minnesota Vikings
+Corey Liuget,San Diego Chargers,1,4,3,0.0,0,0,0,0,Away,New England Patriots
+Shea McClellin,Chicago Bears,1,5,1,0.0,0,0,0,0,Away,Dallas Cowboys
+Mario Addison,Carolina Panthers,1,1,0,1.0,0,0,0,0,Home,New Orleans Saints
+Ziggy Ansah,Detroit Lions,1,1,0,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+George Johnson,Detroit Lions,1,1,0,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Benson Mayowa,Oakland Raiders,1,1,0,1.0,0,0,0,0,Away,San Francisco 49ers
+Stephen Paea,Chicago Bears,1,5,0,0.0,0,0,0,0,Away,Dallas Cowboys
+Chris Jones,New England Patriots,1,2,1,0.5,0,0,0,0,Home,San Diego Chargers
+Chris Canty,Baltimore Ravens,1,4,0,0.0,0,0,0,0,Home,Miami Dolphins
+Geno Atkins,Cincinnati Bengals,1,3,1,0.0,0,0,0,0,Away,Pittsburgh Steelers
+Jonathan Babineaux,Atlanta Falcons,1,2,3,0.0,0,0,0,0,Home,Green Bay Packers
+Jared Crick,Houston Texans,1,2,1,0.0,1,0,0,0,Home,Jacksonville Jaguars
+Quinton Dial,San Francisco 49ers,1,3,1,0.0,0,0,0,0,Home,Oakland Raiders
+Jaye Howard,Kansas City Chiefs,1,3,1,0.0,0,0,0,0,Home,Arizona Cardinals
+Abry Jones,Jacksonville Jaguars,1,3,1,0.0,0,0,0,0,Away,Houston Texans
+Datone Jones,Green Bay Packers,1,2,1,0.0,1,0,0,0,Away,Atlanta Falcons

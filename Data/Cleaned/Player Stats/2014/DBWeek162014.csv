@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Antoine Bethea,San Francisco 49ers,1,7,1,0.0,2,1,0,0,Away,San Diego Chargers
+Dre Kirkpatrick,Cincinnati Bengals,1,2,0,0.0,2,2,0,0,Away,Denver Broncos
+Aqib Talib,Denver Broncos,1,3,1,0.0,3,1,0,0,Home,Cincinnati Bengals
+Ryan Clark,Washington Redskins,1,13,2,0.0,1,0,0,0,Away,Philadelphia Eagles
+Perrish Cox,San Francisco 49ers,1,5,0,0.0,4,1,0,0,Away,San Diego Chargers
+T.J. McDonald,St. Louis Rams,1,9,2,1.0,0,0,0,0,Away,New York Giants
+Marcus Williams,New York Jets,1,5,2,0.0,3,1,0,0,Away,New England Patriots
+Kareem Jackson,Houston Texans,1,1,0,0.0,2,2,0,0,Away,Baltimore Ravens
+Orlando Scandrick,Dallas Cowboys,1,5,1,1.0,0,0,1,0,Away,Indianapolis Colts
+Eric Weddle,San Diego Chargers,1,8,2,0.0,0,0,1,0,Home,San Francisco 49ers
+Morgan Burnett,Green Bay Packers,1,9,1,0.5,0,0,0,0,Home,Tampa Bay Buccaneers
+Leonard Johnson,Tampa Bay Buccaneers,1,7,1,0.0,1,0,1,0,Away,Green Bay Packers
+Dwight Lowery,Atlanta Falcons,1,4,1,1.0,0,0,1,0,Home,New Orleans Saints
+Robert McClain,Atlanta Falcons,1,4,1,0.0,2,1,0,0,Home,New Orleans Saints
+A.J. Bouye,Houston Texans,1,3,0,0.0,3,1,0,0,Away,Baltimore Ravens
+Reggie Nelson,Cincinnati Bengals,1,5,0,0.0,1,1,0,0,Away,Denver Broncos
+Harrison Smith,Minnesota Vikings,1,5,0,0.0,1,1,0,0,Home,Miami Dolphins
+Josh Norman,Carolina Panthers,1,4,1,0.0,1,1,0,0,Away,Cleveland Browns
+Brandian Ross,Oakland Raiders,1,4,1,0.0,1,1,0,0,Away,Buffalo Bills
+Desmond Trufant,Atlanta Falcons,1,4,1,0.0,1,1,0,0,Home,New Orleans Saints
+Brock Vereen,Chicago Bears,1,4,1,0.0,1,1,0,0,Away,Detroit Lions
+Robert Blanton,Minnesota Vikings,1,9,2,0.0,0,0,0,0,Home,Miami Dolphins
+Bashaud Breeland,Washington Redskins,1,3,2,0.0,1,1,0,0,Away,Philadelphia Eagles
+Chris Culliver,San Francisco 49ers,1,3,0,0.0,2,1,0,0,Away,San Diego Chargers
+Tony Jefferson,Arizona Cardinals,1,7,0,0.0,0,0,1,0,Away,Seattle Seahawks
+Adam Jones,Cincinnati Bengals,1,4,0,0.0,1,1,0,0,Away,Denver Broncos
+Rashaan Melvin,Baltimore Ravens,1,6,2,0.0,0,0,1,0,Home,Houston Texans
+Ryan Mundy,Chicago Bears,1,3,0,0.0,2,1,0,0,Away,Detroit Lions
+Da'Norris Searcy,Buffalo Bills,1,9,2,0.0,0,0,0,0,Home,Oakland Raiders
+Charles Woodson,Oakland Raiders,1,2,4,0.0,1,1,0,0,Away,Buffalo Bills
+Bradley McDougald,Tampa Bay Buccaneers,1,8,1,0.0,1,0,0,0,Away,Green Bay Packers
+Richard Sherman,Seattle Seahawks,1,3,1,0.0,1,1,0,0,Home,Arizona Cardinals
+Darian Stewart,Baltimore Ravens,1,3,1,0.0,1,1,0,0,Home,Houston Texans
+Pierre Desir,Cleveland Browns,1,7,0,0.0,2,0,0,0,Home,Carolina Panthers
+Marcus Gilchrist,San Diego Chargers,1,5,1,0.0,0,0,1,0,Home,San Francisco 49ers
+Kemal Ishmael,Atlanta Falcons,1,3,1,0.0,0,0,1,1,Home,New Orleans Saints
+Malcolm Jenkins,Philadelphia Eagles,1,3,3,0.0,1,0,1,0,Home,Washington Redskins
+Ron Brooks,Buffalo Bills,1,8,0,0.0,0,0,0,0,Home,Oakland Raiders
+Aaron Colvin,Jacksonville Jaguars,1,7,0,0.0,1,0,0,0,Away,Tennessee Titans
+Rashean Mathis,Detroit Lions,1,6,0,0.0,2,0,0,0,Home,Chicago Bears
+Mike Adams,Indianapolis Colts,1,6,3,0.0,0,0,0,0,Home,Dallas Cowboys
+Nate Allen,Philadelphia Eagles,1,1,1,0.0,1,1,0,0,Home,Washington Redskins
+Antwon Blake,Pittsburgh Steelers,1,6,1,0.0,1,0,0,0,Away,Kansas City Chiefs
+David Bruton,Denver Broncos,1,2,3,0.0,1,0,1,0,Home,Cincinnati Bengals
+Rashad Johnson,Arizona Cardinals,1,7,1,0.0,0,0,0,0,Away,Seattle Seahawks
+Terence Newman,Cincinnati Bengals,1,6,1,0.0,1,0,0,0,Away,Denver Broncos
+Glover Quin,Detroit Lions,1,1,1,0.0,1,1,0,0,Home,Chicago Bears
+Alterraun Verner,Tampa Bay Buccaneers,1,6,3,0.0,0,0,0,0,Away,Green Bay Packers
+D.J. Hayden,Oakland Raiders,1,6,0,0.0,1,0,0,0,Away,Buffalo Bills
+Will Hill,Baltimore Ravens,1,6,2,0.0,0,0,0,0,Home,Houston Texans

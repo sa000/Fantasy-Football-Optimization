@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Brandon Meriweather,Washington Redskins,1,7,0,2.0,0,0,2,1,Home,Dallas Cowboys
+William Gay,Pittsburgh Steelers,1,6,2,0.0,1,1,0,0,Away,Indianapolis Colts
+Antonio Cromartie,Arizona Cardinals,1,5,0,0.0,3,2,0,0,Away,Philadelphia Eagles
+Louis Delmas,Miami Dolphins,1,0,2,0.0,1,1,0,1,Home,Jacksonville Jaguars
+Brent Grimes,Miami Dolphins,1,2,1,0.0,1,1,0,0,Home,Jacksonville Jaguars
+Rashad Johnson,Arizona Cardinals,1,10,1,0.0,4,0,0,0,Away,Philadelphia Eagles
+Ron Parker,Kansas City Chiefs,1,4,0,1.0,1,1,0,0,Away,St. Louis Rams
+Bashaud Breeland,Washington Redskins,1,6,0,0.0,4,0,1,0,Home,Dallas Cowboys
+Eric Weddle,San Diego Chargers,1,9,2,0.0,0,0,1,0,Home,Denver Broncos
+J.J. Wilcox,Dallas Cowboys,1,7,0,0.0,1,1,0,0,Away,Washington Redskins
+Joe Haden,Cleveland Browns,1,8,1,0.0,2,0,0,1,Away,Oakland Raiders
+Tony Jefferson,Arizona Cardinals,1,11,1,0.0,1,0,0,0,Away,Philadelphia Eagles
+Troy Polamalu,Pittsburgh Steelers,1,5,1,1.0,0,0,1,0,Away,Indianapolis Colts
+Michael Griffin,Tennessee Titans,1,8,0,1.0,0,0,0,0,Away,Houston Texans
+Mike Adams,Indianapolis Colts,1,8,3,0.0,0,0,0,1,Home,Pittsburgh Steelers
+Josh Norman,Carolina Panthers,1,3,3,0.0,2,1,0,0,Away,Seattle Seahawks
+Reshad Jones,Miami Dolphins,1,6,2,1.0,0,0,0,0,Home,Jacksonville Jaguars
+Darrelle Revis,New England Patriots,1,4,0,0.0,2,1,0,0,Away,Chicago Bears
+Corey White,New Orleans Saints,1,4,0,0.0,2,1,0,0,Away,Green Bay Packers
+Stephon Gilmore,Buffalo Bills,1,4,1,0.0,1,1,0,0,Home,New York Jets
+John Cyprien,Jacksonville Jaguars,1,10,0,0.0,0,0,0,0,Away,Miami Dolphins
+Captain Munnerlyn,Minnesota Vikings,1,4,0,0.0,1,1,0,0,Home,Tampa Bay Buccaneers
+Donte Whitner,Cleveland Browns,1,6,2,0.0,0,0,1,0,Away,Oakland Raiders
+Chris Harris,Denver Broncos,1,3,1,0.0,1,1,0,0,Away,San Diego Chargers
+Lamarcus Joyner,St. Louis Rams,1,9,1,0.0,0,0,0,0,Home,Kansas City Chiefs
+D.J. Swearinger,Houston Texans,1,2,1,0.0,2,1,0,0,Home,Tennessee Titans
+Alterraun Verner,Tampa Bay Buccaneers,1,7,1,0.0,2,0,0,0,Away,Minnesota Vikings
+Darius Butler,Indianapolis Colts,1,5,2,0.0,0,0,1,0,Home,Pittsburgh Steelers
+Kenny Vaccaro,New Orleans Saints,1,8,2,0.0,0,0,0,0,Away,Green Bay Packers
+Blidi Wreh-Wilson,Tennessee Titans,1,7,0,0.0,2,0,0,0,Away,Houston Texans
+Nate Allen,Philadelphia Eagles,1,3,1,0.0,0,0,1,1,Home,Arizona Cardinals
+Marcus Burley,Seattle Seahawks,1,2,1,0.0,1,1,0,0,Home,Carolina Panthers
+Aqib Talib,Denver Broncos,1,6,1,0.0,2,0,0,0,Away,San Diego Chargers
+Antwon Blake,Pittsburgh Steelers,1,1,2,0.0,1,1,0,0,Away,Indianapolis Colts
+Rafael Bush,New Orleans Saints,1,6,2,0.0,1,0,0,0,Away,Green Bay Packers
+Tashaun Gipson,Cleveland Browns,1,2,0,0.0,1,1,0,0,Away,Oakland Raiders
+Davon House,Green Bay Packers,1,7,0,0.0,1,0,0,0,Home,New Orleans Saints
+Rahim Moore,Denver Broncos,1,1,0,0.0,2,1,0,0,Away,San Diego Chargers
+Glover Quin,Detroit Lions,1,8,0,0.0,0,0,0,0,Home,Atlanta Falcons
+Da'Norris Searcy,Buffalo Bills,1,1,2,0.0,1,1,0,0,Home,New York Jets
+Greg Toler,Indianapolis Colts,1,8,0,0.0,0,0,0,0,Home,Pittsburgh Steelers
+E.J. Gaines,St. Louis Rams,1,7,1,0.0,0,0,0,0,Home,Kansas City Chiefs
+Dashon Goldson,Tampa Bay Buccaneers,1,7,1,0.0,0,0,0,0,Away,Minnesota Vikings
+James Ihedigbo,Detroit Lions,1,7,0,0.0,0,0,0,0,Home,Atlanta Falcons
+Dwight Lowery,Atlanta Falcons,1,5,0,0.0,2,0,0,0,Away,Detroit Lions
+Cassius Vaughn,Detroit Lions,1,1,0,0.0,1,1,0,0,Home,Atlanta Falcons
+Aaron Williams,Buffalo Bills,1,1,0,0.0,1,1,0,0,Home,New York Jets
+Kyle Wilson,New York Jets,1,3,0,1.0,0,0,0,0,Away,Buffalo Bills
+Chris Conte,Chicago Bears,1,5,3,0.0,0,0,0,0,Home,New England Patriots
+T.J. McDonald,St. Louis Rams,1,6,1,0.0,0,0,0,0,Home,Kansas City Chiefs

@@ -1,0 +1,34 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Philip Rivers,San Diego Chargers,1,23,38,358,3,0,1,-1,0,Away,Cleveland Browns
+Sam Bradford,Philadelphia Eagles,1,15,28,270,3,0,1,14,0,Home,Washington Redskins
+Drew Brees,New Orleans Saints,1,33,41,359,2,0,0,0,0,Away,Dallas Cowboys
+Josh McCown,Cleveland Browns,1,32,41,356,2,0,0,0,0,Home,San Diego Chargers
+Kirk Cousins,Washington Redskins,1,31,46,290,1,0,1,1,1,Away,Philadelphia Eagles
+Jameis Winston,Tampa Bay Buccaneers,1,26,43,287,2,4,4,12,0,Away,Carolina Panthers
+Eli Manning,New York Giants,1,20,35,212,3,1,3,-2,0,Home,Buffalo Bills
+Russell Wilson,Seattle Seahawks,1,20,26,287,1,0,10,40,0,Away,Detroit Lions
+Jay Cutler,Chicago Bears,1,28,43,281,2,1,1,0,0,Away,Oakland Raiders
+Blake Bortles,Jacksonville Jaguars,1,28,50,298,1,0,4,31,0,Home,Indianapolis Colts
+Alex Smith,Kansas City Chiefs,1,31,45,386,0,0,5,25,0,Home,Cincinnati Bengals
+Andy Dalton,Cincinnati Bengals,1,17,24,321,1,0,3,16,0,Away,Kansas City Chiefs
+Carson Palmer,Arizona Cardinals,1,29,46,352,1,1,1,-1,0,Away,St. Louis Rams
+Nick Foles,St. Louis Rams,1,16,24,171,3,0,1,-1,0,Home,Arizona Cardinals
+Teddy Bridgewater,Minnesota Vikings,1,27,41,269,1,0,3,23,0,Home,Denver Broncos
+Brian Hoyer,Houston Texans,1,17,30,232,2,0,0,0,0,Home,Atlanta Falcons
+Cam Newton,Carolina Panthers,1,11,22,124,2,0,12,51,0,Home,Tampa Bay Buccaneers
+Tyrod Taylor,Buffalo Bills,1,28,42,274,1,1,6,15,0,Away,New York Giants
+Aaron Rodgers,Green Bay Packers,1,22,32,224,1,0,3,33,0,Home,San Francisco 49ers
+Ryan Fitzpatrick,New York Jets,1,16,29,218,1,1,9,34,0,Home,Miami Dolphins
+Ryan Tannehill,Miami Dolphins,1,19,44,198,2,2,1,4,0,Away,New York Jets
+Matt Hasselbeck,Indianapolis Colts,1,30,47,282,1,0,3,1,0,Away,Jacksonville Jaguars
+Derek Carr,Oakland Raiders,1,20,33,196,2,1,0,0,0,Home,Chicago Bears
+Brandon Weeden,Dallas Cowboys,1,16,26,246,1,0,3,5,0,Home,New Orleans Saints
+Matt Ryan,Atlanta Falcons,1,19,27,256,1,0,1,-1,0,Away,Houston Texans
+Peyton Manning,Denver Broncos,1,17,27,213,1,2,2,-2,0,Away,Minnesota Vikings
+Colin Kaepernick,San Francisco 49ers,1,13,25,160,0,1,10,57,0,Away,Green Bay Packers
+Michael Vick,Pittsburgh Steelers,1,19,26,124,1,0,9,33,0,Away,Baltimore Ravens
+Joe Flacco,Baltimore Ravens,1,20,33,189,1,1,3,0,0,Home,Pittsburgh Steelers
+Matthew Stafford,Detroit Lions,1,24,35,203,0,0,0,0,0,Home,Seattle Seahawks
+Ryan Mallett,Houston Texans,1,12,27,150,0,1,0,0,0,Home,Atlanta Falcons
+B.J. Daniels,Seattle Seahawks,1,0,0,0,0,0,0,0,0,Away,Detroit Lions
+Sean Renfree,Atlanta Falcons,1,0,0,0,0,0,1,-4,0,Away,Houston Texans

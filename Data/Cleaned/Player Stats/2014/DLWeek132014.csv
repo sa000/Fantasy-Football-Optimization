@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Robert Quinn,St. Louis Rams,1,5,0,3.0,0,0,2,0,Away,Oakland Raiders
+Jared Allen,Chicago Bears,1,4,0,2.0,0,0,1,1,Home,Detroit Lions
+J.J. Watt,Houston Texans,1,3,0,2.0,0,0,1,1,Away,Tennessee Titans
+Cameron Jordan,New Orleans Saints,1,1,5,1.0,2,1,0,0,Home,Pittsburgh Steelers
+Sen'Derrick Marks,Jacksonville Jaguars,1,3,0,2.0,0,0,1,0,Away,New York Giants
+William Hayes,St. Louis Rams,1,6,0,1.0,0,0,1,0,Away,Oakland Raiders
+DeMarcus Ware,Denver Broncos,1,3,0,1.0,1,1,0,0,Home,Kansas City Chiefs
+Everson Griffen,Minnesota Vikings,1,3,2,2.0,0,0,0,0,Away,Carolina Panthers
+Charles Johnson,Carolina Panthers,1,4,0,1.0,0,0,1,0,Home,Minnesota Vikings
+Devon Kennard,New York Giants,1,3,0,2.0,0,0,0,0,Home,Jacksonville Jaguars
+Desmond Bryant,Cleveland Browns,1,6,1,1.0,0,0,0,0,Home,Buffalo Bills
+Tyrone Crawford,Dallas Cowboys,1,3,0,1.0,0,0,1,0,Away,Philadelphia Eagles
+Tony Jerod-Eddie,San Francisco 49ers,1,2,1,1.0,0,0,1,0,Away,Seattle Seahawks
+Jason Pierre-Paul,New York Giants,1,3,1,1.5,0,0,0,0,Home,Jacksonville Jaguars
+Carlos Dunlap,Cincinnati Bengals,1,5,2,0.5,1,0,0,0,Home,Tampa Bay Buccaneers
+Aaron Lynch,San Francisco 49ers,1,5,0,1.0,0,0,0,0,Away,Seattle Seahawks
+Michael Bennett,Seattle Seahawks,1,4,0,1.0,0,0,0,0,Home,San Francisco 49ers
+Fletcher Cox,Philadelphia Eagles,1,4,0,1.0,0,0,0,0,Home,Dallas Cowboys
+Brandon Graham,Philadelphia Eagles,1,4,0,1.0,0,0,0,0,Home,Dallas Cowboys
+Chris Long,St. Louis Rams,1,2,0,1.0,0,0,0,1,Away,Oakland Raiders
+Kyle Williams,Buffalo Bills,1,2,1,1.0,1,0,0,0,Away,Cleveland Browns
+Gerald McCoy,Tampa Bay Buccaneers,1,2,0,1.0,1,0,0,0,Away,Cincinnati Bengals
+Akeem Spence,Tampa Bay Buccaneers,1,3,4,0.5,0,0,0,0,Away,Cincinnati Bengals
+Justin Tuck,Oakland Raiders,1,2,0,1.0,1,0,0,0,Home,St. Louis Rams
+Michael Brockers,St. Louis Rams,1,6,1,0.0,0,0,0,0,Away,Oakland Raiders
+Bruce Irvin,Seattle Seahawks,1,2,1,1.0,0,0,0,0,Home,San Francisco 49ers
+Justin Smith,San Francisco 49ers,1,2,1,1.0,0,0,0,0,Away,Seattle Seahawks
+Cameron Wake,Miami Dolphins,1,2,1,1.0,0,0,0,0,Home,New York Jets
+Ziggy Ansah,Detroit Lions,1,2,0,1.0,0,0,0,0,Away,Chicago Bears
+Chris Canty,Baltimore Ravens,1,1,4,0.0,0,0,1,0,Away,San Diego Chargers
+Jurrell Casey,Tennessee Titans,1,5,2,0.0,0,0,0,0,Home,Houston Texans
+Chris Clemons,Jacksonville Jaguars,1,3,0,0.0,1,0,0,1,Away,New York Giants
+Aaron Donald,St. Louis Rams,1,1,0,1.0,1,0,0,0,Away,Oakland Raiders
+Tim Jamison,Houston Texans,1,2,0,1.0,0,0,0,0,Away,Tennessee Titans
+Chris Jones,New England Patriots,1,2,0,1.0,0,0,0,0,Home,Green Bay Packers
+Jason Jones,Detroit Lions,1,1,0,1.0,1,0,0,0,Away,Chicago Bears
+Kenrick Ellis,New York Jets,1,1,1,1.0,0,0,0,0,Away,Miami Dolphins
+Johnathan Hankins,New York Giants,1,1,1,1.0,0,0,0,0,Home,Jacksonville Jaguars
+Ishmaa'ily Kitchen,Cleveland Browns,1,3,5,0.0,0,0,0,0,Home,Buffalo Bills
+Corey Liuget,San Diego Chargers,1,5,1,0.0,0,0,0,0,Home,Baltimore Ravens
+Olivier Vernon,Miami Dolphins,1,4,3,0.0,0,0,0,0,Home,New York Jets
+Tyson Alualu,Jacksonville Jaguars,1,1,0,1.0,0,0,0,0,Away,New York Giants
+Cliff Avril,Seattle Seahawks,1,1,0,1.0,0,0,0,0,Home,San Francisco 49ers
+Vinny Curry,Philadelphia Eagles,1,1,0,1.0,0,0,0,0,Home,Dallas Cowboys
+Quinton Dial,San Francisco 49ers,1,4,2,0.0,0,0,0,0,Away,Seattle Seahawks
+Sharrif Floyd,Minnesota Vikings,1,1,0,1.0,0,0,0,0,Away,Carolina Panthers
+Andre Fluellen,Detroit Lions,1,1,0,1.0,0,0,0,0,Away,Chicago Bears
+Jaye Howard,Kansas City Chiefs,1,5,0,0.0,0,0,0,0,Away,Denver Broncos
+Timmy Jernigan,Baltimore Ravens,1,1,0,1.0,0,0,0,0,Away,San Diego Chargers
+Jeremy Mincey,Dallas Cowboys,1,3,0,0.0,0,0,0,1,Away,Philadelphia Eagles

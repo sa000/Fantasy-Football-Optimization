@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Calais Campbell,Arizona Cardinals,1,10,0,1.0,0,0,0,0,Home,New York Giants
+Mario Addison,Carolina Panthers,1,2,1,2.5,0,0,0,0,Away,Detroit Lions
+Jason Pierre-Paul,New York Giants,1,2,2,1.5,2,0,0,0,Away,Arizona Cardinals
+Dwan Edwards,Carolina Panthers,1,3,3,1.5,0,0,0,0,Away,Detroit Lions
+Clinton McDonald,Tampa Bay Buccaneers,1,6,1,1.0,0,0,0,0,Away,St. Louis Rams
+Jurrell Casey,Tennessee Titans,1,2,0,2.0,0,0,0,0,Away,Dallas Cowboys
+C.J. Mosley,Detroit Lions,1,2,0,2.0,0,0,0,0,Home,Carolina Panthers
+Mike Daniels,Green Bay Packers,1,5,0,1.0,0,0,0,0,Away,New York Jets
+William Gholston,Tampa Bay Buccaneers,1,4,2,1.0,0,0,0,0,Away,St. Louis Rams
+Ropati Pitoitua,Tennessee Titans,1,3,0,1.0,0,0,0,1,Away,Dallas Cowboys
+Michael Bennett,Seattle Seahawks,1,3,2,1.0,0,0,0,0,Home,San Diego Chargers
+Johnathan Hankins,New York Giants,1,2,4,1.0,0,0,0,0,Away,Arizona Cardinals
+Jason Hatcher,Washington Redskins,1,1,2,1.5,0,0,0,0,Away,Jacksonville Jaguars
+Kyle Williams,Buffalo Bills,1,3,1,1.0,0,0,0,0,Away,Miami Dolphins
+Fletcher Cox,Philadelphia Eagles,1,4,0,0.0,0,0,1,0,Home,Indianapolis Colts
+Shea McClellin,Chicago Bears,1,3,0,1.0,0,0,0,0,Home,San Francisco 49ers
+Rob Ninkovich,New England Patriots,1,3,0,1.0,0,0,0,0,Home,Minnesota Vikings
+Robert Ayers,New York Giants,1,2,1,1.0,0,0,0,0,Away,Arizona Cardinals
+Bennie Logan,Philadelphia Eagles,1,6,1,0.0,0,0,0,0,Home,Indianapolis Colts
+Jared Allen,Chicago Bears,1,3,0,0.0,0,0,1,0,Home,San Francisco 49ers
+Ryan Davis,Jacksonville Jaguars,1,1,0,1.0,1,0,0,0,Home,Washington Redskins
+Dominique Easley,New England Patriots,1,0,0,0.0,1,1,0,0,Home,Minnesota Vikings
+Haloti Ngata,Baltimore Ravens,1,0,0,0.0,1,1,0,0,Away,Pittsburgh Steelers
+Eugene Sims,St. Louis Rams,1,3,2,0.5,0,0,0,0,Home,Tampa Bay Buccaneers
+Kamerion Wimbley,Tennessee Titans,1,4,2,0.0,1,0,0,0,Away,Dallas Cowboys
+Quinton Coples,New York Jets,1,1,1,1.0,0,0,0,0,Home,Green Bay Packers
+Carlos Dunlap,Cincinnati Bengals,1,1,1,1.0,0,0,0,0,Away,Atlanta Falcons
+Sheldon Richardson,New York Jets,1,3,1,0.0,0,0,0,1,Home,Green Bay Packers
+Jabaal Sheard,Cleveland Browns,1,3,3,0.0,1,0,0,0,Away,New Orleans Saints
+Justin Smith,San Francisco 49ers,1,1,1,1.0,0,0,0,0,Away,Chicago Bears
+Tyson Alualu,Jacksonville Jaguars,1,3,4,0.0,0,0,0,0,Home,Washington Redskins
+Ziggy Ansah,Detroit Lions,1,2,2,0.5,0,0,0,0,Home,Carolina Panthers
+Stefan Charles,Buffalo Bills,1,1,0,1.0,0,0,0,0,Away,Miami Dolphins
+Akiem Hicks,New Orleans Saints,1,5,0,0.0,0,0,0,0,Home,Cleveland Browns
+Thomas Johnson,Minnesota Vikings,1,1,0,1.0,0,0,0,0,Away,New England Patriots
+Frank Kearse,Washington Redskins,1,1,0,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Sen'Derrick Marks,Jacksonville Jaguars,1,4,2,0.0,0,0,0,0,Home,Washington Redskins
+Stephen Paea,Chicago Bears,1,1,0,1.0,0,0,0,0,Home,San Francisco 49ers
+Pat Sims,Oakland Raiders,1,5,0,0.0,0,0,0,0,Away,Houston Texans
+Paul Soliai,Atlanta Falcons,1,4,2,0.0,0,0,0,0,Home,Cincinnati Bengals
+Mario Williams,Buffalo Bills,1,1,0,1.0,0,0,0,0,Away,Miami Dolphins
+Kroy Biermann,Atlanta Falcons,1,3,3,0.0,0,0,0,0,Home,Cincinnati Bengals
+Cameron Heyward,Pittsburgh Steelers,1,2,5,0.0,0,0,0,0,Home,Baltimore Ravens
+Cedric Thornton,Philadelphia Eagles,1,4,1,0.0,0,0,0,0,Home,Indianapolis Colts
+Olivier Vernon,Miami Dolphins,1,3,3,0.0,0,0,0,0,Home,Buffalo Bills
+Ricky Jean-Francois,Indianapolis Colts,1,3,0,0.0,1,0,0,0,Away,Philadelphia Eagles
+Tommy Kelly,Arizona Cardinals,1,3,0,0.0,1,0,0,0,Home,New York Giants
+Mathias Kiwanuka,New York Giants,1,2,0,0.5,0,0,0,0,Away,Arizona Cardinals
+Terrance Knighton,Denver Broncos,1,2,0,0.0,2,0,0,0,Away,Kansas City Chiefs
+Tony McDaniel,Seattle Seahawks,1,3,2,0.0,0,0,0,0,Home,San Diego Chargers

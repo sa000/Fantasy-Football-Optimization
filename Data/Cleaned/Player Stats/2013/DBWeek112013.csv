@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Jairus Byrd,Buffalo Bills,1,3,1,1.0,2,2,0,0,Away,New York Jets
+Joe Haden,Cleveland Browns,1,0,2,0.0,2,2,0,0,Home,Cincinnati Bengals
+Will Allen,Pittsburgh Steelers,1,7,2,0.0,1,1,1,0,Away,Detroit Lions
+Walter Thurmond,Seattle Seahawks,1,2,1,0.0,1,1,0,0,Away,Minnesota Vikings
+Brandon Boykin,Philadelphia Eagles,1,4,0,0.0,2,1,1,0,Away,Washington Redskins
+Corey Graham,Baltimore Ravens,1,9,0,1.0,1,0,0,0,Home,Chicago Bears
+Reggie Nelson,Cincinnati Bengals,1,5,4,0.0,2,1,0,0,Away,Cleveland Browns
+Tramon Williams,Green Bay Packers,1,8,0,0.0,1,1,0,0,Home,New York Giants
+Jerraud Powers,Arizona Cardinals,1,6,0,0.0,2,1,0,0,Home,Jacksonville Jaguars
+Charles Woodson,Oakland Raiders,1,5,2,0.0,1,0,2,0,Home,Houston Texans
+Dashon Goldson,Tampa Bay Buccaneers,1,2,0,0.0,2,1,1,0,Away,Atlanta Falcons
+Da'Norris Searcy,Buffalo Bills,1,0,0,0.0,1,1,0,0,Away,New York Jets
+Eric Weddle,San Diego Chargers,1,7,0,1.0,1,0,0,0,Home,Miami Dolphins
+Brent Grimes,Miami Dolphins,1,4,1,0.0,2,1,0,0,Away,San Diego Chargers
+Yeremiah Bell,Arizona Cardinals,1,5,0,0.0,1,1,0,0,Home,Jacksonville Jaguars
+Mike Jenkins,Oakland Raiders,1,10,2,0.0,0,0,0,0,Home,Houston Texans
+Ryan Clark,Pittsburgh Steelers,1,5,3,0.0,1,0,0,1,Away,Detroit Lions
+Zackary Bowman,Chicago Bears,1,9,0,0.0,0,0,0,0,Away,Baltimore Ravens
+Morgan Burnett,Green Bay Packers,1,6,6,0.0,0,0,0,0,Home,New York Giants
+Dee Milliner,New York Jets,1,8,0,0.0,1,0,0,0,Home,Buffalo Bills
+Johnny Patrick,San Diego Chargers,1,3,0,0.0,1,1,0,0,Home,Miami Dolphins
+Antrel Rolle,New York Giants,1,3,0,0.0,1,1,0,0,Away,Green Bay Packers
+Aaron Williams,Buffalo Bills,1,6,4,0.0,1,0,0,0,Away,New York Jets
+Robert Lester,Carolina Panthers,1,2,1,0.0,1,1,0,0,Away,New England Patriots
+Andrew Sendejo,Minnesota Vikings,1,6,5,0.0,0,0,0,0,Home,Seattle Seahawks
+Mark Barron,Tampa Bay Buccaneers,1,5,0,0.0,1,0,0,1,Away,Atlanta Falcons
+Don Carey,Detroit Lions,1,7,2,0.0,0,0,0,0,Home,Pittsburgh Steelers
+John Cyprien,Jacksonville Jaguars,1,8,0,0.0,0,0,0,0,Away,Arizona Cardinals
+Louis Delmas,Detroit Lions,1,6,1,0.0,1,0,0,0,Home,Pittsburgh Steelers
+Terrell Thomas,New York Giants,1,7,1,0.0,0,0,0,0,Away,Green Bay Packers
+Cassius Vaughn,Indianapolis Colts,1,5,1,0.0,2,0,0,0,Home,Tennessee Titans
+Corey White,New Orleans Saints,1,1,1,0.0,1,1,0,0,Away,San Francisco 49ers
+Prince Amukamara,New York Giants,1,6,0,0.0,1,0,0,0,Away,Green Bay Packers
+Alan Ball,Jacksonville Jaguars,1,3,0,0.0,4,0,0,0,Away,Arizona Cardinals
+Johnthan Banks,Tampa Bay Buccaneers,1,6,0,0.0,1,0,0,0,Away,Atlanta Falcons
+Antonio Cromartie,New York Jets,1,5,0,0.0,2,0,0,0,Home,Buffalo Bills
+Dre Kirkpatrick,Cincinnati Bengals,1,2,0,1.0,1,0,0,0,Away,Cleveland Browns
+Robert McClain,Atlanta Falcons,1,5,2,0.0,1,0,0,0,Home,Tampa Bay Buccaneers
+Brandon Meriweather,Washington Redskins,1,7,0,0.0,0,0,0,0,Home,Philadelphia Eagles
+William Moore,Atlanta Falcons,1,7,0,0.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Eric Reid,San Francisco 49ers,1,6,0,0.0,1,0,0,0,Home,New Orleans Saints
+Aqib Talib,New England Patriots,1,5,0,0.0,2,0,0,0,Home,Carolina Panthers
+Kam Chancellor,Seattle Seahawks,1,4,5,0.0,0,0,0,0,Away,Minnesota Vikings
+Michael Griffin,Tennessee Titans,1,6,1,0.0,0,0,0,0,Away,Indianapolis Colts
+Dawan Landry,New York Jets,1,5,3,0.0,0,0,0,0,Home,Buffalo Bills
+Melvin White,Carolina Panthers,1,4,3,0.0,1,0,0,0,Away,New England Patriots
+Eric Berry,Kansas City Chiefs,1,6,0,0.0,0,0,0,0,Home,Denver Broncos
+Will Hill,New York Giants,1,5,2,0.0,0,0,0,0,Away,Green Bay Packers
+Alterraun Verner,Tennessee Titans,1,4,0,0.0,2,0,0,0,Away,Indianapolis Colts
+Josh Wilson,Washington Redskins,1,6,0,0.0,0,0,0,0,Home,Philadelphia Eagles

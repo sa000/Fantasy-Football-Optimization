@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Jerrell Freeman,Indianapolis Colts,1,4,1,1.0,3,2,1,0,Home,Kansas City Chiefs
+Luke Kuechly,Carolina Panthers,1,9,15,0.0,1,1,0,0,Away,New Orleans Saints
+Navorro Bowman,San Francisco 49ers,1,9,2,0.0,1,1,0,0,Away,Atlanta Falcons
+Vincent Rey,Cincinnati Bengals,1,1,0,1.0,1,1,1,0,Away,Minnesota Vikings
+Thomas Davis,Carolina Panthers,1,9,5,0.0,1,1,0,0,Away,New Orleans Saints
+Patrick Willis,San Francisco 49ers,1,15,3,0.0,1,0,0,0,Away,Atlanta Falcons
+Mychal Kendricks,Philadelphia Eagles,1,4,1,2.0,0,0,1,0,Away,Chicago Bears
+Stephen Nicholas,Atlanta Falcons,1,10,1,1.0,1,0,0,0,Home,San Francisco 49ers
+Trent Cole,Philadelphia Eagles,1,3,0,3.0,0,0,0,0,Away,Chicago Bears
+Alec Ogletree,St. Louis Rams,1,5,3,0.5,0,0,2,0,Away,Tampa Bay Buccaneers
+Vontaze Burfict,Cincinnati Bengals,1,5,1,2.0,0,0,0,0,Away,Minnesota Vikings
+Paul Posluszny,Jacksonville Jaguars,1,10,3,0.5,0,0,0,0,Away,Tennessee Titans
+Lawrence Timmons,Pittsburgh Steelers,1,8,2,1.0,0,0,0,0,Home,Green Bay Packers
+Danny Trevathan,Denver Broncos,1,7,2,1.0,1,0,0,0,Home,Houston Texans
+Lavonte David,Tampa Bay Buccaneers,1,10,1,0.0,0,0,0,1,Home,St. Louis Rams
+Erin Henderson,Minnesota Vikings,1,7,5,0.0,0,0,1,0,Home,Cincinnati Bengals
+James Laurinaitis,St. Louis Rams,1,5,1,1.5,0,0,0,0,Away,Tampa Bay Buccaneers
+Bobby Wagner,Seattle Seahawks,1,4,5,1.0,1,0,0,0,Away,Arizona Cardinals
+Karlos Dansby,Arizona Cardinals,1,4,2,0.0,1,1,0,0,Home,Seattle Seahawks
+A.J. Hawk,Green Bay Packers,1,4,2,0.0,1,1,0,0,Away,Pittsburgh Steelers
+Malcolm Smith,Seattle Seahawks,1,2,6,0.0,1,1,0,0,Away,Arizona Cardinals
+Philip Wheeler,Miami Dolphins,1,8,6,0.0,0,0,0,0,Home,Buffalo Bills
+Joplo Bartu,Atlanta Falcons,1,10,1,0.0,0,0,0,0,Home,San Francisco 49ers
+Daryl Smith,Baltimore Ravens,1,4,7,0.5,1,0,0,0,Away,New England Patriots
+Melvin Ingram,San Diego Chargers,1,3,0,1.0,0,0,1,0,Away,Oakland Raiders
+D'Qwell Jackson,Cleveland Browns,1,7,4,0.0,1,0,0,0,Home,New York Jets
+Derrick Johnson,Kansas City Chiefs,1,5,0,1.0,1,0,0,0,Away,Indianapolis Colts
+Daryl Washington,Arizona Cardinals,1,4,3,1.0,0,0,0,0,Home,Seattle Seahawks
+Bruce Carter,Dallas Cowboys,1,7,4,0.0,0,0,0,0,Home,Washington Redskins
+Derrick Morgan,Tennessee Titans,1,5,0,1.0,0,0,0,0,Home,Jacksonville Jaguars
+Jon Beason,New York Giants,1,6,5,0.0,0,0,0,0,Home,Detroit Lions
+Akeem Jordan,Kansas City Chiefs,1,8,1,0.0,0,0,0,0,Away,Indianapolis Colts
+Kevin Burnett,Oakland Raiders,1,8,0,0.0,0,0,0,0,Home,San Diego Chargers
+Rey Maualuga,Cincinnati Bengals,1,1,2,0.0,1,1,0,0,Away,Minnesota Vikings
+Dekoda Watson,Tampa Bay Buccaneers,1,5,0,0.0,0,0,1,0,Home,St. Louis Rams
+Dannell Ellerbe,Miami Dolphins,1,5,5,0.0,0,0,0,0,Home,Buffalo Bills
+Ryan Kerrigan,Washington Redskins,1,2,3,1.0,0,0,0,0,Away,Dallas Cowboys
+DeAndre Levy,Detroit Lions,1,6,1,0.0,1,0,0,0,Away,New York Giants
+Curtis Lofton,New Orleans Saints,1,3,1,1.0,0,0,0,0,Home,Carolina Panthers
+Terrell Suggs,Baltimore Ravens,1,2,3,1.0,0,0,0,0,Away,New England Patriots
+Clay Matthews,Green Bay Packers,1,3,0,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Jason Worilds,Pittsburgh Steelers,1,3,0,1.0,0,0,0,0,Home,Green Bay Packers
+Craig Robertson,Cleveland Browns,1,5,1,0.0,1,0,0,0,Home,New York Jets
+Darryl Sharpton,Houston Texans,1,5,3,0.0,0,0,0,0,Away,Denver Broncos
+Stephen Tulloch,Detroit Lions,1,5,3,0.0,0,0,0,0,Away,New York Giants
+Moise Fokou,Tennessee Titans,1,6,0,0.0,0,0,0,0,Home,Jacksonville Jaguars
+Mason Foster,Tampa Bay Buccaneers,1,5,2,0.0,0,0,0,0,Home,St. Louis Rams
+Junior Galette,New Orleans Saints,1,2,0,1.0,0,0,0,0,Home,Carolina Panthers
+Chad Greenway,Minnesota Vikings,1,4,4,0.0,0,0,0,0,Home,Cincinnati Bengals
+Jamari Lattimore,Green Bay Packers,1,3,0,0.0,0,0,1,0,Away,Pittsburgh Steelers

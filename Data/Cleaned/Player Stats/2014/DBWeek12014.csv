@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Harrison Smith,Minnesota Vikings,1,2,0,1.0,1,1,0,0,Home,St. Louis Rams
+Antoine Cason,Carolina Panthers,1,9,0,0.0,2,1,0,0,Home,Tampa Bay Buccaneers
+Leodis McKelvin,Buffalo Bills,1,13,0,0.0,0,0,1,0,Home,Chicago Bears
+Eric Berry,Kansas City Chiefs,1,14,1,0.0,1,0,0,0,Away,Tennessee Titans
+Jason McCourty,Tennessee Titans,1,3,0,0.0,2,2,0,0,Home,Kansas City Chiefs
+Rahim Moore,Denver Broncos,1,3,0,0.0,2,2,0,0,Away,Indianapolis Colts
+D.J. Swearinger,Houston Texans,1,6,2,1.0,0,0,1,0,Away,Washington Redskins
+Charles Woodson,Oakland Raiders,1,5,4,0.0,1,1,0,0,Home,New York Jets
+Donte Whitner,Cleveland Browns,1,12,1,0.0,0,0,0,0,Home,Pittsburgh Steelers
+Tyvon Branch,Oakland Raiders,1,6,1,1.0,1,0,0,0,Home,New York Jets
+Chris Conte,Chicago Bears,1,5,1,0.0,1,1,0,0,Away,Buffalo Bills
+Byron Maxwell,Seattle Seahawks,1,4,1,0.0,2,1,0,0,Away,Green Bay Packers
+Glover Quin,Detroit Lions,1,4,1,0.0,2,1,0,0,Away,New York Giants
+Corey Graham,Buffalo Bills,1,3,0,0.0,3,1,0,0,Home,Chicago Bears
+Johnathan Joseph,Houston Texans,1,11,0,0.0,0,0,0,0,Away,Washington Redskins
+Robert McClain,Atlanta Falcons,1,4,1,0.0,1,1,0,0,Away,New Orleans Saints
+Reggie Nelson,Cincinnati Bengals,1,7,3,0.5,0,0,0,0,Home,Baltimore Ravens
+Dawan Landry,New York Jets,1,5,2,1.0,0,0,0,0,Away,Oakland Raiders
+Eric Reid,San Francisco 49ers,1,4,0,0.0,1,1,0,0,Home,Dallas Cowboys
+Bradley Roby,Denver Broncos,1,7,0,0.0,3,0,0,0,Away,Indianapolis Colts
+Quinton Carter,Denver Broncos,1,6,1,0.0,0,0,1,0,Away,Indianapolis Colts
+Kam Chancellor,Seattle Seahawks,1,8,3,0.0,0,0,0,0,Away,Green Bay Packers
+Michael Griffin,Tennessee Titans,1,3,1,0.0,1,1,0,0,Home,Kansas City Chiefs
+Alan Ball,Jacksonville Jaguars,1,3,0,0.0,1,1,0,0,Home,Philadelphia Eagles
+Ha'Sean Clinton-Dix,Green Bay Packers,1,3,2,1.0,1,0,0,0,Home,Seattle Seahawks
+Perrish Cox,San Francisco 49ers,1,3,0,0.0,1,1,0,0,Home,Dallas Cowboys
+Dwight Lowery,Atlanta Falcons,1,7,4,0.0,0,0,0,0,Away,New Orleans Saints
+Jerraud Powers,Arizona Cardinals,1,2,0,0.0,2,1,0,0,Away,San Diego Chargers
+Troy Polamalu,Pittsburgh Steelers,1,6,5,0.0,0,0,0,0,Away,Cleveland Browns
+Prince Amukamara,New York Giants,1,4,4,0.0,2,0,0,0,Home,Detroit Lions
+Jairus Byrd,New Orleans Saints,1,5,0,0.0,0,0,1,0,Home,Atlanta Falcons
+Alfonzo Dennard,New England Patriots,1,2,0,0.0,1,1,0,0,Home,Miami Dolphins
+Dashon Goldson,Tampa Bay Buccaneers,1,7,2,0.0,0,0,0,0,Away,Carolina Panthers
+William Moore,Atlanta Falcons,1,4,2,0.0,0,0,1,0,Away,New Orleans Saints
+Corey White,New Orleans Saints,1,6,0,0.0,0,0,0,1,Home,Atlanta Falcons
+Shareece Wright,San Diego Chargers,1,8,0,0.0,0,0,0,0,Home,Arizona Cardinals
+Stevie Brown,New York Giants,1,6,3,0.0,0,0,0,0,Home,Detroit Lions
+DeAngelo Hall,Washington Redskins,1,7,1,0.0,0,0,0,0,Home,Houston Texans
+Roman Harper,Carolina Panthers,1,1,1,0.0,1,1,0,0,Home,Tampa Bay Buccaneers
+Tony Jefferson,Arizona Cardinals,1,7,1,0.0,0,0,0,0,Away,San Diego Chargers
+LaRon Landry,Indianapolis Colts,1,7,1,0.0,0,0,0,0,Home,Denver Broncos
+Cortez Allen,Pittsburgh Steelers,1,6,0,0.0,1,0,0,0,Away,Cleveland Browns
+Antoine Bethea,San Francisco 49ers,1,6,0,0.0,1,0,0,0,Home,Dallas Cowboys
+Robert Blanton,Minnesota Vikings,1,7,0,0.0,0,0,0,0,Home,St. Louis Rams
+Rafael Bush,New Orleans Saints,1,7,0,0.0,0,0,0,0,Home,Atlanta Falcons
+Kareem Jackson,Houston Texans,1,6,2,0.0,0,0,0,0,Away,Washington Redskins
+Ron Parker,Kansas City Chiefs,1,6,0,0.0,1,0,0,0,Away,Tennessee Titans
+Antrel Rolle,New York Giants,1,4,0,0.0,0,0,1,0,Home,Detroit Lions
+Coty Sensabaugh,Tennessee Titans,1,1,0,1.0,0,0,0,1,Home,Kansas City Chiefs
+Aqib Talib,Denver Broncos,1,4,0,0.0,3,0,0,0,Away,Indianapolis Colts

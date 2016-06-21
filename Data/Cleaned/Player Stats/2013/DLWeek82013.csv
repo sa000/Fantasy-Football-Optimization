@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Bruce Irvin,Seattle Seahawks,1,8,1,1.0,1,1,1,0,Home,St. Louis Rams
+Robert Quinn,St. Louis Rams,1,5,0,3.0,0,0,0,0,Away,Seattle Seahawks
+Chris Long,St. Louis Rams,1,4,0,3.0,0,0,0,0,Away,Seattle Seahawks
+Jonathan Babineaux,Atlanta Falcons,1,7,0,1.0,0,0,1,0,Home,Arizona Cardinals
+Kyle Williams,Buffalo Bills,1,6,3,1.5,0,0,0,0,Home,New Orleans Saints
+Muhammad Wilkerson,New York Jets,1,2,2,1.0,1,1,0,0,Home,Cincinnati Bengals
+Calais Campbell,Arizona Cardinals,1,5,0,1.0,2,0,0,0,Away,Atlanta Falcons
+Mike Daniels,Green Bay Packers,1,3,0,2.0,0,0,0,0,Home,Minnesota Vikings
+Jared Odrick,Miami Dolphins,1,2,2,2.0,0,0,0,0,Home,New England Patriots
+Charles Johnson,Carolina Panthers,1,2,0,2.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Cameron Jordan,New Orleans Saints,1,1,0,1.0,0,0,1,1,Away,Buffalo Bills
+Brett Keisel,Pittsburgh Steelers,1,3,2,1.0,0,0,0,1,Home,Oakland Raiders
+Rob Ninkovich,New England Patriots,1,2,3,1.0,0,0,0,1,Away,Miami Dolphins
+Letroy Guion,Minnesota Vikings,1,3,3,1.0,0,0,0,0,Away,Green Bay Packers
+Adrian Clayborn,Tampa Bay Buccaneers,1,4,0,1.0,0,0,0,0,Away,Carolina Panthers
+Greg Hardy,Carolina Panthers,1,4,0,1.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Linval Joseph,New York Giants,1,4,0,1.0,0,0,0,0,Home,Philadelphia Eagles
+Olivier Vernon,Miami Dolphins,1,2,4,1.0,0,0,0,0,Home,New England Patriots
+Vance Walker,Oakland Raiders,1,4,0,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Fletcher Cox,Philadelphia Eagles,1,3,1,1.0,0,0,0,0,Away,New York Giants
+Derek Wolfe,Denver Broncos,1,1,1,1.0,0,0,0,1,Away,Washington Redskins
+John Abraham,Arizona Cardinals,1,2,0,1.0,1,0,0,0,Away,Atlanta Falcons
+Corey Peters,Atlanta Falcons,1,3,0,1.0,0,0,0,0,Home,Arizona Cardinals
+Phil Taylor,Cleveland Browns,1,3,0,1.0,0,0,0,0,Home,Kansas City Chiefs
+Brandon Thompson,Cincinnati Bengals,1,1,3,1.0,0,0,0,0,Away,New York Jets
+William Hayes,St. Louis Rams,1,2,0,1.0,0,0,0,0,Away,Seattle Seahawks
+Mathias Kiwanuka,New York Giants,1,2,0,1.0,0,0,0,0,Home,Philadelphia Eagles
+Terrance Knighton,Denver Broncos,1,2,0,1.0,0,0,0,0,Away,Washington Redskins
+Cedric Thornton,Philadelphia Eagles,1,6,0,0.0,0,0,0,0,Away,New York Giants
+Cameron Heyward,Pittsburgh Steelers,1,3,3,0.0,1,0,0,0,Home,Oakland Raiders
+Akiem Hicks,New Orleans Saints,1,5,1,0.0,0,0,0,0,Away,Buffalo Bills
+Mario Williams,Buffalo Bills,1,1,1,1.0,0,0,0,0,Home,New Orleans Saints
+Geno Atkins,Cincinnati Bengals,1,1,0,1.0,0,0,0,0,Away,New York Jets
+Cliff Avril,Seattle Seahawks,1,1,0,1.0,0,0,0,0,Home,St. Louis Rams
+Jason Babin,Jacksonville Jaguars,1,2,0,0.0,0,0,1,0,Away,San Francisco 49ers
+Glenn Foster,New Orleans Saints,1,1,0,1.0,0,0,0,0,Away,Buffalo Bills
+Jason Hatcher,Dallas Cowboys,1,1,0,1.0,0,0,0,0,Home,Detroit Lions
+Tony McDaniel,Seattle Seahawks,1,5,0,0.0,0,0,0,0,Home,St. Louis Rams
+Brandon Mebane,Seattle Seahawks,1,4,0,0.0,1,0,0,0,Home,St. Louis Rams
+Frostee Rucker,Arizona Cardinals,1,1,0,1.0,0,0,0,0,Away,Atlanta Falcons
+Tyson Alualu,Jacksonville Jaguars,1,3,0,0.0,1,0,0,0,Away,San Francisco 49ers
+Marcell Dareus,Buffalo Bills,1,4,0,0.0,0,0,0,0,Home,New Orleans Saints
+Darnell Dockett,Arizona Cardinals,1,4,0,0.0,0,0,0,0,Away,Atlanta Falcons
+Steve McLendon,Pittsburgh Steelers,1,4,0,0.0,0,0,0,0,Home,Oakland Raiders
+Connor Barwin,Philadelphia Eagles,1,0,1,0.0,3,0,0,0,Away,New York Giants
+Quinton Coples,New York Jets,1,2,3,0.0,0,0,0,0,Home,Cincinnati Bengals
+Robert Ayers,Denver Broncos,1,3,0,0.0,0,0,0,0,Away,Washington Redskins
+Stephen Bowen,Washington Redskins,1,3,0,0.0,0,0,0,0,Home,Denver Broncos
+Michael Johnson,Cincinnati Bengals,1,1,2,0.0,1,0,0,0,Away,New York Jets
+Star Lotulelei,Carolina Panthers,1,3,0,0.0,0,0,0,0,Home,Tampa Bay Buccaneers

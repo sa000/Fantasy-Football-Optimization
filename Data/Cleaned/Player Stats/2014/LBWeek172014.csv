@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Justin Houston,Kansas City Chiefs,1,5,0,4.0,1,0,1,0,Away,San Diego Chargers
+David Harris,New York Jets,1,7,2,2.5,1,0,1,0,Home,Miami Dolphins
+Bruce Carter,Dallas Cowboys,1,7,4,0.0,2,2,0,0,Home,Washington Redskins
+Jonathan Newsome,Indianapolis Colts,1,6,0,2.0,0,0,1,0,Home,Tennessee Titans
+Michael Wilhoite,San Francisco 49ers,1,8,1,0.0,1,1,0,0,Away,Arizona Cardinals
+Audie Cole,Minnesota Vikings,1,11,3,0.0,1,0,0,0,Away,Chicago Bears
+Pernell McPhee,Baltimore Ravens,1,4,1,2.0,1,0,0,0,Away,Cleveland Browns
+Keenan Robinson,Washington Redskins,1,7,3,1.0,1,0,0,0,Away,Dallas Cowboys
+Telvin Smith,Jacksonville Jaguars,1,11,5,0.0,0,0,0,0,Home,Houston Texans
+Jamie Collins,New England Patriots,1,1,4,1.0,0,0,1,1,Away,Buffalo Bills
+Paul Kruger,Cleveland Browns,1,3,2,1.0,0,0,1,0,Home,Baltimore Ravens
+Manti Te'o,San Diego Chargers,1,9,4,0.0,0,0,0,0,Home,Kansas City Chiefs
+Gerald Hodges,Minnesota Vikings,1,6,5,0.5,0,0,0,0,Away,Chicago Bears
+Christian Jones,Chicago Bears,1,6,1,1.0,0,0,0,0,Home,Minnesota Vikings
+Ray Ray Armstrong,Oakland Raiders,1,6,2,0.0,0,0,1,0,Home,Denver Broncos
+DeMario Davis,New York Jets,1,4,0,1.0,0,0,0,1,Home,Miami Dolphins
+Mark Herzlich,New York Giants,1,5,2,1.0,0,0,0,0,Away,Philadelphia Eagles
+Terrell Suggs,Baltimore Ravens,1,2,1,1.0,1,0,0,1,Away,Cleveland Browns
+Ramon Humber,New Orleans Saints,1,9,0,0.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Andrew Jackson,Indianapolis Colts,1,5,0,1.0,0,0,0,0,Home,Tennessee Titans
+Luke Kuechly,Carolina Panthers,1,6,2,0.0,2,0,0,0,Home,Atlanta Falcons
+DeAndre Levy,Detroit Lions,1,8,2,0.0,0,0,0,0,Home,Green Bay Packers
+Lawrence Timmons,Pittsburgh Steelers,1,7,4,0.0,0,0,0,0,Away,Cincinnati Bengals
+Jason Worilds,Pittsburgh Steelers,1,5,0,1.0,0,0,0,0,Away,Cincinnati Bengals
+Curtis Lofton,New Orleans Saints,1,7,3,0.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Lerentee McCray,Denver Broncos,1,1,1,1.0,0,0,1,0,Away,Oakland Raiders
+Alec Ogletree,St. Louis Rams,1,3,5,0.0,0,0,1,0,Home,Seattle Seahawks
+Bobby Wagner,Seattle Seahawks,1,5,5,0.0,1,0,0,0,Away,St. Louis Rams
+Jon Bostic,Chicago Bears,1,6,4,0.0,0,0,0,0,Home,Minnesota Vikings
+Thomas Davis,Carolina Panthers,1,2,2,0.5,1,0,0,1,Home,Atlanta Falcons
+Clay Matthews,Green Bay Packers,1,3,0,1.0,1,0,0,0,Away,Detroit Lions
+Josh Mauga,Kansas City Chiefs,1,4,4,0.5,0,0,0,0,Away,San Diego Chargers
+Jameel McClain,New York Giants,1,6,2,0.0,1,0,0,0,Away,Philadelphia Eagles
+Glenn Carson,Arizona Cardinals,1,6,3,0.0,0,0,0,0,Home,San Francisco 49ers
+Todd Davis,Denver Broncos,1,5,1,0.0,2,0,0,0,Away,Oakland Raiders
+Adarius Glanton,Carolina Panthers,1,4,1,0.0,0,0,1,0,Home,Atlanta Falcons
+D'Qwell Jackson,Indianapolis Colts,1,6,3,0.0,0,0,0,0,Home,Tennessee Titans
+Von Miller,Denver Broncos,1,3,1,1.0,0,0,0,0,Away,Oakland Raiders
+Craig Robertson,Cleveland Browns,1,6,3,0.0,0,0,0,0,Home,Baltimore Ravens
+J.T. Thomas,Jacksonville Jaguars,1,7,1,0.0,0,0,0,0,Home,Houston Texans
+Joplo Bartu,Atlanta Falcons,1,2,2,1.0,0,0,0,0,Away,Carolina Panthers
+Karlos Dansby,Cleveland Browns,1,6,2,0.0,0,0,0,0,Home,Baltimore Ravens
+Lavonte David,Tampa Bay Buccaneers,1,3,2,0.0,0,0,1,0,Away,New Orleans Saints
+Whitney Mercilus,Houston Texans,1,3,0,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Sean Spence,Pittsburgh Steelers,1,2,2,1.0,0,0,0,0,Away,Cincinnati Bengals
+Sam Acho,Arizona Cardinals,1,2,1,1.0,0,0,0,0,Home,San Francisco 49ers
+Jonathan Casillas,New England Patriots,1,4,5,0.0,0,0,0,0,Away,Buffalo Bills
+Junior Galette,New Orleans Saints,1,2,1,1.0,0,0,0,0,Home,Tampa Bay Buccaneers
+James Laurinaitis,St. Louis Rams,1,4,5,0.0,0,0,0,0,Home,Seattle Seahawks
+Rey Maualuga,Cincinnati Bengals,1,5,1,0.0,1,0,0,0,Home,Pittsburgh Steelers

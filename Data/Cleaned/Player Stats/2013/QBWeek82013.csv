@@ -1,0 +1,31 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Drew Brees,New Orleans Saints,1,26,34,332,5,0,4,-1,0,Away,Buffalo Bills
+Andy Dalton,Cincinnati Bengals,1,19,30,325,5,1,0,0,0,Away,New York Jets
+Matthew Stafford,Detroit Lions,1,33,48,488,1,2,3,12,1,Away,Dallas Cowboys
+Peyton Manning,Denver Broncos,1,30,44,354,4,3,4,-3,0,Away,Washington Redskins
+Cam Newton,Carolina Panthers,1,23,32,221,2,0,11,50,1,Home,Tampa Bay Buccaneers
+Colin Kaepernick,San Francisco 49ers,1,10,16,164,1,0,7,54,2,Home,Jacksonville Jaguars
+Aaron Rodgers,Green Bay Packers,1,24,29,285,2,0,6,31,0,Home,Minnesota Vikings
+Jason Campbell,Cleveland Browns,1,22,36,293,2,0,3,17,0,Home,Kansas City Chiefs
+Alex Smith,Kansas City Chiefs,1,24,36,225,2,0,6,40,0,Away,Cleveland Browns
+Tony Romo,Dallas Cowboys,1,14,30,206,3,0,3,6,0,Home,Detroit Lions
+Matt Ryan,Atlanta Falcons,1,34,61,301,1,4,1,13,0,Home,Arizona Cardinals
+Ryan Tannehill,Miami Dolphins,1,22,42,192,2,2,1,12,0,Home,New England Patriots
+Mike Glennon,Tampa Bay Buccaneers,1,30,51,275,1,0,3,2,0,Away,Carolina Panthers
+Ben Roethlisberger,Pittsburgh Steelers,1,29,45,275,1,2,1,1,0,Home,Oakland Raiders
+Carson Palmer,Arizona Cardinals,1,13,18,172,2,1,1,9,0,Away,Atlanta Falcons
+Christian Ponder,Minnesota Vikings,1,14,21,145,0,0,5,38,1,Away,Green Bay Packers
+Russell Wilson,Seattle Seahawks,1,10,18,139,2,0,3,16,0,Home,St. Louis Rams
+Thaddeus Lewis,Buffalo Bills,1,22,39,234,1,1,2,5,0,Home,New Orleans Saints
+Chad Henne,Jacksonville Jaguars,1,29,45,228,1,0,1,1,0,Away,San Francisco 49ers
+Eli Manning,New York Giants,1,25,39,246,0,0,1,-1,0,Home,Philadelphia Eagles
+Robert Griffin III,Washington Redskins,1,15,30,132,1,2,5,7,0,Home,Denver Broncos
+Tom Brady,New England Patriots,1,13,22,116,1,1,4,5,0,Away,Miami Dolphins
+Kellen Clemens,St. Louis Rams,1,15,31,158,0,2,2,11,0,Away,Seattle Seahawks
+Geno Smith,New York Jets,1,20,30,159,0,2,2,8,0,Home,Cincinnati Bengals
+Matt Barkley,Philadelphia Eagles,1,17,26,158,0,1,0,0,0,Away,New York Giants
+Matt Simms,New York Jets,1,3,7,17,0,0,3,35,0,Home,Cincinnati Bengals
+Kirk Cousins,Washington Redskins,1,5,9,48,0,2,1,1,0,Home,Denver Broncos
+Josh Johnson,Cincinnati Bengals,1,0,0,0,0,0,3,17,0,Away,New York Jets
+Michael Vick,Philadelphia Eagles,1,6,9,31,0,1,1,1,0,Away,New York Giants
+Colt McCoy,San Francisco 49ers,1,1,1,13,0,0,0,0,0,Home,Jacksonville Jaguars

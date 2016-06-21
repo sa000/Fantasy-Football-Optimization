@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Jarvis Jenkins,Chicago Bears,1,4,6,2.0,0,0,0,0,Home,Seattle Seahawks
+Mike Daniels,Green Bay Packers,1,2,2,1.5,0,0,1,0,Away,Kansas City Chiefs
+Everson Griffen,Minnesota Vikings,1,4,2,1.5,1,0,0,0,Away,San Diego Chargers
+Karl Klug,Tennessee Titans,1,3,0,1.0,0,0,1,0,Away,Indianapolis Colts
+Stephon Tuitt,Pittsburgh Steelers,1,5,1,1.0,0,0,0,0,Home,St. Louis Rams
+Muhammad Wilkerson,New York Jets,1,4,7,0.5,0,0,0,0,Away,Philadelphia Eagles
+Robert Quinn,St. Louis Rams,1,1,0,1.0,1,0,1,0,Away,Pittsburgh Steelers
+DeMarcus Ware,Denver Broncos,1,2,2,1.5,0,0,0,0,Home,Detroit Lions
+Connor Barwin,Philadelphia Eagles,1,4,0,1.0,0,0,0,0,Home,New York Jets
+Stefan Charles,Buffalo Bills,1,1,0,1.0,0,0,1,0,Home,Miami Dolphins
+Marcell Dareus,Buffalo Bills,1,4,0,1.0,0,0,0,0,Home,Miami Dolphins
+Aaron Donald,St. Louis Rams,1,3,1,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Cliff Avril,Seattle Seahawks,1,1,2,1.0,1,0,0,0,Away,Chicago Bears
+Jurrell Casey,Tennessee Titans,1,3,0,1.0,0,0,0,0,Away,Indianapolis Colts
+Nick Hayden,Dallas Cowboys,1,5,0,0.0,2,0,0,0,Away,Atlanta Falcons
+Frostee Rucker,Arizona Cardinals,1,3,0,1.0,0,0,0,0,Away,San Francisco 49ers
+Arik Armstead,San Francisco 49ers,1,2,1,1.0,0,0,0,0,Home,Arizona Cardinals
+Brandon Bair,Philadelphia Eagles,1,3,1,0.0,3,0,0,0,Home,New York Jets
+Jaye Howard,Kansas City Chiefs,1,5,3,0.0,0,0,0,0,Home,Green Bay Packers
+Sylvester Williams,Denver Broncos,1,2,1,1.0,0,0,0,0,Home,Detroit Lions
+Vic Beasley,Atlanta Falcons,1,2,0,1.0,0,0,0,0,Home,Dallas Cowboys
+Adrian Clayborn,Atlanta Falcons,1,2,0,1.0,0,0,0,0,Home,Dallas Cowboys
+Malik Jackson,Denver Broncos,1,1,2,0.5,0,0,0,1,Home,Detroit Lions
+Clinton McDonald,Tampa Bay Buccaneers,1,4,4,0.0,0,0,0,0,Home,Houston Texans
+Henry Melton,Tampa Bay Buccaneers,1,1,2,1.0,0,0,0,0,Home,Houston Texans
+David Parry,Indianapolis Colts,1,2,0,1.0,0,0,0,0,Home,Tennessee Titans
+Jabaal Sheard,New England Patriots,1,2,0,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Devin Taylor,Detroit Lions,1,2,0,1.0,0,0,0,0,Away,Denver Broncos
+Brandon Williams,Baltimore Ravens,1,4,4,0.0,0,0,0,0,Away,Cincinnati Bengals
+Chris Baker,Washington Redskins,1,5,1,0.0,0,0,0,0,Home,New York Giants
+Thomas Johnson,Minnesota Vikings,1,1,1,1.0,0,0,0,0,Away,San Diego Chargers
+Devon Kennard,New York Giants,1,4,1,0.0,1,0,0,0,Away,Washington Redskins
+Leonard Williams,New York Jets,1,1,5,0.5,0,0,0,0,Away,Philadelphia Eagles
+Kerry Wynn,New York Giants,1,3,5,0.0,0,0,0,0,Away,Washington Redskins
+Ryan Davis,Jacksonville Jaguars,1,1,0,1.0,0,0,0,0,Home,New England Patriots
+Robert Mathis,Indianapolis Colts,1,1,0,1.0,0,0,0,0,Home,Tennessee Titans
+Cornellius Carradine,San Francisco 49ers,1,1,1,0.0,0,0,1,0,Home,Arizona Cardinals
+Lawrence Guy,Baltimore Ravens,1,2,5,0.0,0,0,0,0,Away,Cincinnati Bengals
+Bruce Irvin,Seattle Seahawks,1,0,5,0.5,0,0,0,0,Away,Chicago Bears
+Terrance Knighton,Washington Redskins,1,3,3,0.0,0,0,0,0,Home,New York Giants
+Shea McClellin,Chicago Bears,1,3,3,0.0,0,0,0,0,Home,Seattle Seahawks
+Jacquies Smith,Tampa Bay Buccaneers,1,4,1,0.0,0,0,0,0,Home,Houston Texans
+Carlos Dunlap,Cincinnati Bengals,1,3,2,0.0,0,0,0,0,Home,Baltimore Ravens
+Sharrif Floyd,Minnesota Vikings,1,1,2,0.5,0,0,0,0,Away,San Diego Chargers
+Rodney Gunter,Arizona Cardinals,1,4,0,0.0,0,0,0,0,Away,San Francisco 49ers
+Roy Miller,Jacksonville Jaguars,1,1,2,0.5,0,0,0,0,Home,New England Patriots
+Ndamukong Suh,Miami Dolphins,1,4,0,0.0,0,0,0,0,Away,Buffalo Bills
+Aaron Lynch,San Francisco 49ers,1,3,1,0.0,0,0,0,0,Home,Arizona Cardinals
+J.J. Watt,Houston Texans,1,2,3,0.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Mario Addison,Carolina Panthers,1,2,2,0.0,0,0,0,0,Away,New Orleans Saints

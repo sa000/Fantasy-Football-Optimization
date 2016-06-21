@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Telvin Smith,Jacksonville Jaguars,1,10,3,0.0,0,0,0,2,Home,Indianapolis Colts
+D'Qwell Jackson,Indianapolis Colts,1,5,8,1.0,0,0,0,1,Away,Jacksonville Jaguars
+Jelani Jenkins,Miami Dolphins,1,9,2,1.0,0,0,0,0,Home,Denver Broncos
+Paul Kruger,Cleveland Browns,1,3,0,2.0,0,0,1,0,Home,Atlanta Falcons
+Sio Moore,Oakland Raiders,1,7,5,1.0,0,0,0,0,Away,Kansas City Chiefs
+C.J. Mosley,Baltimore Ravens,1,9,0,1.0,0,0,0,0,Home,New Orleans Saints
+Jerry Hughes,Buffalo Bills,1,4,1,2.0,0,0,0,0,Away,New York Jets
+Trent Cole,Philadelphia Eagles,1,4,0,2.0,0,0,0,0,Away,Tennessee Titans
+Derrick Morgan,Tennessee Titans,1,6,4,1.0,0,0,0,0,Home,Philadelphia Eagles
+Elvis Dumervil,Baltimore Ravens,1,3,0,2.0,0,0,0,0,Home,New Orleans Saints
+Rey Maualuga,Cincinnati Bengals,1,4,2,0.0,1,1,0,0,Home,Houston Texans
+Aldon Smith,San Francisco 49ers,1,3,0,2.0,0,0,0,0,Away,Washington Redskins
+Rolando McClain,Dallas Cowboys,1,10,1,0.0,0,0,0,0,Home,New York Giants
+Mychal Kendricks,Philadelphia Eagles,1,7,0,0.0,0,0,1,0,Away,Tennessee Titans
+DeAndre Levy,Detroit Lions,1,9,1,0.0,0,0,0,0,Home,New England Patriots
+Nigel Bradham,Buffalo Bills,1,6,4,0.0,1,0,0,0,Away,New York Jets
+Junior Galette,New Orleans Saints,1,4,0,1.0,1,0,0,0,Away,Baltimore Ravens
+Josh Mauga,Kansas City Chiefs,1,6,4,0.0,1,0,0,0,Home,Oakland Raiders
+Terrell Suggs,Baltimore Ravens,1,4,2,1.0,0,0,0,0,Home,New Orleans Saints
+Deone Bucannon,Arizona Cardinals,1,3,3,1.0,0,0,0,0,Home,Seattle Seahawks
+Miles Burris,Oakland Raiders,1,8,1,0.0,0,0,0,0,Away,Kansas City Chiefs
+Mason Foster,Tampa Bay Buccaneers,1,7,1,0.0,1,0,0,0,Home,Chicago Bears
+Jerrell Freeman,Indianapolis Colts,1,4,5,0.5,0,0,0,0,Away,Jacksonville Jaguars
+Kevin Minter,Arizona Cardinals,1,4,1,1.0,0,0,0,0,Home,Seattle Seahawks
+Alec Ogletree,St. Louis Rams,1,8,1,0.0,0,0,0,0,Home,San Diego Chargers
+Justin Houston,Kansas City Chiefs,1,4,0,1.0,0,0,0,0,Home,Oakland Raiders
+Alex Okafor,Arizona Cardinals,1,3,0,1.0,1,0,0,0,Home,Seattle Seahawks
+Craig Robertson,Cleveland Browns,1,7,2,0.0,0,0,0,0,Home,Atlanta Falcons
+J.T. Thomas,Jacksonville Jaguars,1,4,6,0.0,1,0,0,0,Home,Indianapolis Colts
+Trent Murphy,Washington Redskins,1,4,1,0.0,0,0,1,0,Home,San Francisco 49ers
+Keenan Robinson,Washington Redskins,1,7,1,0.0,0,0,0,0,Home,San Francisco 49ers
+Akeem Ayers,New England Patriots,1,3,0,1.0,0,0,0,0,Away,Detroit Lions
+Chris Borland,San Francisco 49ers,1,6,2,0.0,0,0,0,0,Away,Washington Redskins
+DeMario Davis,New York Jets,1,6,2,0.0,0,0,0,0,Home,Buffalo Bills
+Chad Greenway,Minnesota Vikings,1,5,4,0.0,0,0,0,0,Away,Green Bay Packers
+James Laurinaitis,St. Louis Rams,1,6,2,0.0,0,0,0,0,Home,San Diego Chargers
+Ty Powell,Buffalo Bills,1,2,0,1.0,1,0,0,0,Away,New York Jets
+Vincent Rey,Cincinnati Bengals,1,4,6,0.0,0,0,0,0,Home,Houston Texans
+Tahir Whitehead,Detroit Lions,1,7,0,0.0,0,0,0,0,Home,New England Patriots
+Joplo Bartu,Atlanta Falcons,1,5,3,0.0,0,0,0,0,Away,Cleveland Browns
+Dont'a Hightower,New England Patriots,1,5,3,0.0,0,0,0,0,Away,Detroit Lions
+Christian Jones,Chicago Bears,1,4,1,0.0,0,0,0,1,Away,Tampa Bay Buccaneers
+Ryan Kerrigan,Washington Redskins,1,2,1,1.0,0,0,0,0,Home,San Francisco 49ers
+Danny Lansanah,Tampa Bay Buccaneers,1,6,1,0.0,0,0,0,0,Home,Chicago Bears
+Curtis Lofton,New Orleans Saints,1,6,1,0.0,0,0,0,0,Away,Baltimore Ravens
+Brandon Marshall,Denver Broncos,1,3,1,0.0,0,0,1,0,Away,Miami Dolphins
+Koa Misi,Miami Dolphins,1,6,1,0.0,0,0,0,0,Home,Denver Broncos
+Cornelius Washington,Chicago Bears,1,2,1,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Wesley Woodyard,Tennessee Titans,1,5,3,0.0,0,0,0,0,Home,Philadelphia Eagles
+Anthony Barr,Minnesota Vikings,1,2,2,0.0,0,0,1,0,Away,Green Bay Packers

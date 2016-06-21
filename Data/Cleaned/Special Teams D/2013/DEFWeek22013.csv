@@ -1,0 +1,33 @@
+Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent
+Minnesota Vikings,1,1,2,2,1,31,282.0,129.0,0,1,Home,Chicago Bears
+Tampa Bay Buccaneers,1,4,0,2,1,16,296.0,75.0,0,0,Away,New Orleans Saints
+Tennessee Titans,1,2,0,2,1,30,280.0,172.0,1,0,Home,Houston Texans
+Denver Broncos,1,1,0,4,0,23,353.0,23.0,0,1,Home,New York Giants
+Chicago Bears,1,1,2,1,1,30,227.0,123.0,0,0,Away,Minnesota Vikings
+Seattle Seahawks,1,3,2,3,0,3,107.0,100.0,0,0,Away,San Francisco 49ers
+New England Patriots,1,4,1,3,0,10,189.0,129.0,0,0,Away,New York Jets
+Detroit Lions,1,1,0,1,1,25,261.0,87.0,0,0,Home,Arizona Cardinals
+Atlanta Falcons,1,0,0,1,1,24,352.0,69.0,0,0,Away,St. Louis Rams
+Buffalo Bills,1,6,0,1,0,23,183.0,125.0,0,0,Away,Carolina Panthers
+San Francisco 49ers,1,4,0,1,0,29,118.0,172.0,1,0,Home,Seattle Seahawks
+Indianapolis Colts,1,5,1,0,0,24,297.0,101.0,0,0,Away,Miami Dolphins
+Oakland Raiders,1,5,0,0,0,9,214.0,34.0,0,0,Away,Jacksonville Jaguars
+Baltimore Ravens,1,5,0,0,0,6,194.0,65.0,0,0,Away,Cleveland Browns
+Kansas City Chiefs,1,3,2,0,0,16,281.0,37.0,0,0,Away,Dallas Cowboys
+Washington Redskins,1,4,1,0,0,38,441.0,139.0,0,0,Home,Green Bay Packers
+Houston Texans,1,4,0,0,0,24,129.0,119.0,0,0,Away,Tennessee Titans
+Jacksonville Jaguars,1,3,1,0,0,19,114.0,226.0,0,0,Home,Oakland Raiders
+Miami Dolphins,1,3,0,1,0,20,315.0,133.0,0,0,Home,Indianapolis Colts
+Cincinnati Bengals,1,2,1,1,0,10,234.0,44.0,0,0,Away,Pittsburgh Steelers
+Dallas Cowboys,1,4,0,0,0,17,199.0,114.0,0,0,Home,Kansas City Chiefs
+Philadelphia Eagles,1,1,2,0,0,33,413.0,126.0,0,0,Away,San Diego Chargers
+Carolina Panthers,1,1,1,1,0,24,287.0,149.0,0,0,Home,Buffalo Bills
+Cleveland Browns,1,2,1,0,0,14,197.0,99.0,0,0,Home,Baltimore Ravens
+New Orleans Saints,1,1,1,1,0,14,113.0,160.0,0,0,Home,Tampa Bay Buccaneers
+Arizona Cardinals,1,1,1,0,0,21,273.0,49.0,0,0,Away,Detroit Lions
+Green Bay Packers,1,1,0,1,0,20,314.0,108.0,0,0,Away,Washington Redskins
+San Diego Chargers,1,1,1,0,0,30,422.0,89.0,0,0,Home,Philadelphia Eagles
+St. Louis Rams,1,2,0,0,0,31,357.0,36.0,0,0,Home,Atlanta Falcons
+New York Jets,1,1,0,0,0,13,178.0,54.0,0,0,Home,New England Patriots
+New York Giants,1,0,1,0,0,41,307.0,109.0,0,0,Away,Denver Broncos
+Pittsburgh Steelers,1,0,0,0,0,20,280.0,127.0,0,0,Home,Cincinnati Bengals

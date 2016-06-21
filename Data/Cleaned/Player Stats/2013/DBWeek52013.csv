@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Tramaine Brock,San Francisco 49ers,1,1,1,0.0,2,2,0,0,Away,Houston Texans
+Matt Giordano,St. Louis Rams,1,5,1,0.0,1,1,0,0,Away,Jacksonville Jaguars
+T.J. Ward,Cleveland Browns,1,4,1,0.0,1,1,0,0,Away,Buffalo Bills
+Cary Williams,Philadelphia Eagles,1,9,2,0.0,1,1,0,0,Home,New York Giants
+Reshad Jones,Miami Dolphins,1,3,0,0.0,1,1,0,0,Away,Baltimore Ravens
+Barry Church,Dallas Cowboys,1,10,1,0.0,1,0,1,0,Away,Denver Broncos
+Bradley Fletcher,Philadelphia Eagles,1,9,0,0.0,5,0,0,0,Home,New York Giants
+Bernard Pollard,Tennessee Titans,1,6,1,0.0,2,1,0,0,Away,Kansas City Chiefs
+John Cyprien,Jacksonville Jaguars,1,13,0,0.0,0,0,0,0,Home,St. Louis Rams
+Devin McCourty,New England Patriots,1,8,4,0.0,0,0,1,0,Home,Cincinnati Bengals
+D.J. Hayden,Oakland Raiders,1,5,3,0.0,1,1,0,0,Away,San Diego Chargers
+Ryan Mundy,New York Giants,1,10,5,0.0,0,0,0,0,Away,Philadelphia Eagles
+Mike Mitchell,Carolina Panthers,1,5,0,0.0,2,1,0,0,Home,Arizona Cardinals
+Buster Skrine,Cleveland Browns,1,6,0,1.0,2,0,0,0,Away,Buffalo Bills
+Charles Woodson,Oakland Raiders,1,4,0,0.0,1,1,0,1,Away,San Diego Chargers
+Will Hill,New York Giants,1,11,0,0.0,0,0,0,0,Away,Philadelphia Eagles
+Kenny Vaccaro,New Orleans Saints,1,6,0,1.0,1,0,0,0,Home,Chicago Bears
+Malcolm Jenkins,New Orleans Saints,1,3,0,1.0,0,0,1,0,Home,Chicago Bears
+Adam Jones,Cincinnati Bengals,1,3,0,0.0,2,1,0,0,Away,New England Patriots
+Quintin Demps,Kansas City Chiefs,1,3,1,0.0,1,1,0,0,Home,Tennessee Titans
+Earl Thomas,Seattle Seahawks,1,9,1,0.0,0,0,0,0,Home,Indianapolis Colts
+Darius Butler,Indianapolis Colts,1,2,0,0.0,2,1,0,0,Away,Seattle Seahawks
+Morris Claiborne,Dallas Cowboys,1,1,0,0.0,1,1,0,1,Away,Denver Broncos
+Brandon Flowers,Kansas City Chiefs,1,6,2,0.0,2,0,0,0,Home,Tennessee Titans
+Michael Griffin,Tennessee Titans,1,4,2,0.0,1,0,1,0,Away,Kansas City Chiefs
+Robert Lester,Carolina Panthers,1,3,0,0.0,1,1,0,0,Home,Arizona Cardinals
+Tyrann Mathieu,Arizona Cardinals,1,5,0,1.0,0,0,0,0,Away,Carolina Panthers
+Patrick Peterson,Arizona Cardinals,1,1,0,0.0,3,1,0,0,Away,Carolina Panthers
+Eric Reid,San Francisco 49ers,1,8,0,0.0,1,0,0,0,Away,Houston Texans
+Darian Stewart,St. Louis Rams,1,4,2,0.0,0,0,1,0,Away,Jacksonville Jaguars
+Donte Whitner,San Francisco 49ers,1,3,0,0.0,0,0,1,1,Away,Houston Texans
+Usama Young,Oakland Raiders,1,0,0,0.0,1,1,0,1,Away,San Diego Chargers
+Chris Crocker,Cincinnati Bengals,1,4,3,0.0,2,0,0,0,Away,New England Patriots
+Duke Ihenacho,Denver Broncos,1,3,1,0.0,2,0,0,1,Home,Dallas Cowboys
+Trumaine McBride,New York Giants,1,5,1,0.0,2,0,0,0,Away,Philadelphia Eagles
+Tracy Porter,Oakland Raiders,1,3,5,0.0,2,0,0,0,Away,San Diego Chargers
+Brandon Boykin,Philadelphia Eagles,1,1,0,0.0,1,1,0,0,Home,New York Giants
+Chris Clemons,Miami Dolphins,1,7,0,0.0,0,0,0,0,Away,Baltimore Ravens
+Chris Conte,Chicago Bears,1,6,1,0.0,0,0,0,0,Away,New Orleans Saints
+Steve Gregory,New England Patriots,1,6,1,0.0,0,0,0,0,Home,Cincinnati Bengals
+Richard Marshall,San Diego Chargers,1,5,1,0.0,1,0,0,0,Home,Oakland Raiders
+Josh Thomas,Carolina Panthers,1,6,1,0.0,0,0,0,0,Home,Arizona Cardinals
+Greg Toler,Indianapolis Colts,1,2,5,0.0,2,0,0,0,Away,Seattle Seahawks
+Alterraun Verner,Tennessee Titans,1,3,1,0.0,3,0,0,0,Away,Kansas City Chiefs
+Tarell Brown,San Francisco 49ers,1,2,0,0.0,2,0,0,1,Away,Houston Texans
+Josh Bush,New York Jets,1,3,0,0.0,0,0,1,0,Home,Atlanta Falcons
+Brent Grimes,Miami Dolphins,1,5,0,0.0,1,0,0,0,Away,Baltimore Ravens
+Davon House,Green Bay Packers,1,6,0,0.0,0,0,0,0,Away,Detroit Lions
+Danieal Manning,Houston Texans,1,5,0,0.0,1,0,0,0,Home,San Francisco 49ers
+Rashean Mathis,Detroit Lions,1,6,0,0.0,0,0,0,0,Home,Green Bay Packers

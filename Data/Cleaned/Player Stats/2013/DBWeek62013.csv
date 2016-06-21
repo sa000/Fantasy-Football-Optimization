@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Mike Mitchell,Carolina Panthers,1,6,1,1.0,2,2,0,0,Home,Minnesota Vikings
+Tim Jennings,Chicago Bears,1,1,0,0.0,4,2,0,0,Away,New York Giants
+Da'Norris Searcy,Buffalo Bills,1,13,3,1.0,0,0,0,0,Away,Cincinnati Bengals
+Husain Abdullah,Kansas City Chiefs,1,2,1,0.5,1,1,0,0,Away,Oakland Raiders
+Carlos Rogers,San Francisco 49ers,1,7,1,0.0,2,1,0,0,Away,Arizona Cardinals
+Micah Hyde,Green Bay Packers,1,6,2,1.0,0,0,1,0,Home,Baltimore Ravens
+Ryan Clark,Pittsburgh Steelers,1,5,3,0.0,2,1,0,0,Home,New York Jets
+Keenan Lewis,New Orleans Saints,1,5,2,0.0,2,1,0,0,Home,New England Patriots
+Jason McCourty,Tennessee Titans,1,7,2,0.0,0,0,1,1,Home,Seattle Seahawks
+Janoris Jenkins,St. Louis Rams,1,2,1,1.0,1,1,0,0,Home,Houston Texans
+Yeremiah Bell,Arizona Cardinals,1,4,2,0.0,2,1,0,0,Home,San Francisco 49ers
+Tashaun Gipson,Cleveland Browns,1,4,3,0.0,1,1,0,0,Away,Detroit Lions
+Michael Griffin,Tennessee Titans,1,5,3,0.0,0,0,1,1,Home,Seattle Seahawks
+Malcolm Jenkins,New Orleans Saints,1,3,5,1.5,0,0,0,0,Home,New England Patriots
+Bernard Pollard,Tennessee Titans,1,6,3,1.0,0,0,0,0,Home,Seattle Seahawks
+Earl Thomas,Seattle Seahawks,1,5,1,0.0,1,1,0,0,Away,Tennessee Titans
+T.J. Ward,Cleveland Browns,1,8,3,0.0,2,0,0,0,Away,Detroit Lions
+Derek Cox,San Diego Chargers,1,5,0,0.0,1,1,0,0,Away,Indianapolis Colts
+Orlando Scandrick,Dallas Cowboys,1,4,0,0.0,2,1,0,0,Away,Washington Redskins
+Major Wright,Chicago Bears,1,11,0,0.0,0,0,0,0,Away,New York Giants
+Chris Harris,Denver Broncos,1,10,1,0.0,0,0,0,0,Away,Jacksonville Jaguars
+Eric Reid,San Francisco 49ers,1,2,1,0.0,1,1,0,1,Away,Arizona Cardinals
+Eric Berry,Kansas City Chiefs,1,6,0,1.0,0,0,0,0,Away,Oakland Raiders
+Rafael Bush,New Orleans Saints,1,9,2,0.0,0,0,0,0,Home,New England Patriots
+Barry Church,Dallas Cowboys,1,8,1,0.0,1,0,0,0,Away,Washington Redskins
+Mike Harris,Jacksonville Jaguars,1,7,1,0.0,0,0,0,1,Home,Denver Broncos
+Prince Amukamara,New York Giants,1,9,0,0.0,0,0,0,0,Home,Chicago Bears
+Kyle Arrington,New England Patriots,1,1,2,0.0,2,1,0,0,Away,New Orleans Saints
+Zackary Bowman,Chicago Bears,1,3,0,0.0,1,1,0,0,Away,New York Giants
+Brandon Carr,Dallas Cowboys,1,6,0,0.0,3,0,0,0,Away,Washington Redskins
+Bradley Fletcher,Philadelphia Eagles,1,1,0,0.0,3,1,0,0,Home,Tampa Bay Buccaneers
+Dashon Goldson,Tampa Bay Buccaneers,1,8,2,0.0,0,0,0,0,Away,Philadelphia Eagles
+Duke Ihenacho,Denver Broncos,1,6,0,0.0,0,0,1,0,Away,Jacksonville Jaguars
+Trumaine Johnson,St. Louis Rams,1,7,2,0.0,1,0,0,0,Home,Houston Texans
+Rodney McLeod,St. Louis Rams,1,5,2,0.0,0,0,1,0,Home,Houston Texans
+Darrelle Revis,Tampa Bay Buccaneers,1,4,0,0.0,0,0,1,1,Away,Philadelphia Eagles
+Champ Bailey,Denver Broncos,1,5,1,0.0,3,0,0,0,Away,Jacksonville Jaguars
+Leodis McKelvin,Buffalo Bills,1,7,1,0.0,1,0,0,0,Away,Cincinnati Bengals
+Richard Sherman,Seattle Seahawks,1,1,3,0.0,1,1,0,0,Away,Tennessee Titans
+Jimmy Smith,Baltimore Ravens,1,2,1,0.0,1,1,0,0,Away,Green Bay Packers
+Kayvon Webster,Denver Broncos,1,2,1,0.0,1,1,0,0,Away,Jacksonville Jaguars
+Nate Allen,Philadelphia Eagles,1,7,2,0.0,0,0,0,0,Home,Tampa Bay Buccaneers
+John Cyprien,Jacksonville Jaguars,1,5,0,0.0,0,0,1,0,Home,Denver Broncos
+Quintin Demps,Kansas City Chiefs,1,2,0,0.0,1,1,0,0,Away,Oakland Raiders
+Charles Woodson,Oakland Raiders,1,3,0,0.0,0,0,1,1,Home,Kansas City Chiefs
+Antoine Bethea,Indianapolis Colts,1,7,1,0.0,0,0,0,0,Home,San Diego Chargers
+James Ihedigbo,Baltimore Ravens,1,5,5,0.0,0,0,0,0,Away,Green Bay Packers
+Antrel Rolle,New York Giants,1,7,1,0.0,0,0,0,0,Home,Chicago Bears
+Jamarca Sanford,Minnesota Vikings,1,7,1,0.0,0,0,0,0,Away,Carolina Panthers
+DeAngelo Hall,Washington Redskins,1,5,2,0.0,1,0,0,0,Home,Dallas Cowboys

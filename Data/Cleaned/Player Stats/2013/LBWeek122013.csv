@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Von Miller,Denver Broncos,1,6,2,2.0,0,0,1,1,Home,New England Patriots
+Lavonte David,Tampa Bay Buccaneers,1,9,3,0.0,1,1,1,0,Home,Detroit Lions
+Nick Roach,Oakland Raiders,1,7,3,1.5,0,0,1,0,Away,Tennessee Titans
+Karlos Dansby,Arizona Cardinals,1,5,0,0.0,1,1,0,0,Away,Indianapolis Colts
+A.J. Hawk,Green Bay Packers,1,9,2,1.0,0,0,1,0,Away,Minnesota Vikings
+Audie Cole,Minnesota Vikings,1,11,2,1.0,0,0,0,0,Home,Green Bay Packers
+Ahmad Brooks,San Francisco 49ers,1,6,1,2.0,1,0,0,0,Home,Washington Redskins
+Danny Trevathan,Denver Broncos,1,6,7,0.0,0,0,1,1,Home,New England Patriots
+Paul Posluszny,Jacksonville Jaguars,1,11,4,0.0,1,0,0,0,Home,Houston Texans
+Wesley Woodyard,Denver Broncos,1,7,8,0.0,0,0,1,0,Home,New England Patriots
+Zach Brown,Tennessee Titans,1,5,3,0.0,2,1,0,0,Home,Oakland Raiders
+Brad Jones,Green Bay Packers,1,6,4,1.0,0,0,0,0,Away,Minnesota Vikings
+Geno Hayes,Jacksonville Jaguars,1,6,3,1.0,0,0,0,0,Home,Houston Texans
+Clay Matthews,Green Bay Packers,1,3,1,2.0,0,0,0,0,Away,Minnesota Vikings
+Alec Ogletree,St. Louis Rams,1,10,1,0.0,1,0,0,0,Away,Chicago Bears
+Philip Wheeler,Miami Dolphins,1,8,1,0.0,3,0,0,0,Away,Carolina Panthers
+Thomas Davis,Carolina Panthers,1,6,0,1.0,1,0,0,0,Home,Miami Dolphins
+Kevin Burnett,Oakland Raiders,1,4,7,0.5,1,0,0,0,Away,Tennessee Titans
+Aldon Smith,San Francisco 49ers,1,2,1,2.0,0,0,0,0,Home,Washington Redskins
+Whitney Mercilus,Houston Texans,1,6,0,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Derrick Johnson,Kansas City Chiefs,1,9,1,0.0,0,0,0,0,Away,San Diego Chargers
+James Laurinaitis,St. Louis Rams,1,6,1,0.0,1,0,0,1,Away,Chicago Bears
+Daryl Smith,Baltimore Ravens,1,2,1,1.0,3,0,0,0,Away,New York Jets
+Ernie Sims,Dallas Cowboys,1,8,2,0.0,0,0,0,0,Home,New York Giants
+Patrick Willis,San Francisco 49ers,1,7,4,0.0,0,0,0,0,Home,Washington Redskins
+Dane Fletcher,New England Patriots,1,4,3,0.0,0,0,1,0,Away,Denver Broncos
+Chad Greenway,Minnesota Vikings,1,8,1,0.0,0,0,0,0,Home,Green Bay Packers
+DeAndre Levy,Detroit Lions,1,6,3,0.0,1,0,0,0,Away,Tampa Bay Buccaneers
+Donald Butler,San Diego Chargers,1,7,0,0.0,1,0,0,0,Home,Kansas City Chiefs
+Jamie Collins,New England Patriots,1,6,4,0.0,0,0,0,0,Away,Denver Broncos
+Chandler Jones,New England Patriots,1,2,4,1.0,0,0,0,0,Away,Denver Broncos
+Akeem Jordan,Kansas City Chiefs,1,5,0,0.0,0,0,1,0,Away,San Diego Chargers
+Calvin Pace,New York Jets,1,4,0,1.0,0,0,0,0,Home,Baltimore Ravens
+Brandon Spikes,New England Patriots,1,3,6,0.0,0,0,0,1,Away,Denver Broncos
+Stephen Tulloch,Detroit Lions,1,6,4,0.0,0,0,0,0,Away,Tampa Bay Buccaneers
+DeMario Davis,New York Jets,1,6,3,0.0,0,0,0,0,Home,Baltimore Ravens
+Pernell McPhee,Baltimore Ravens,1,3,1,1.0,0,0,0,0,Away,New York Jets
+James Anderson,Chicago Bears,1,3,0,1.0,0,0,0,0,Home,St. Louis Rams
+Navorro Bowman,San Francisco 49ers,1,5,4,0.0,0,0,0,0,Home,Washington Redskins
+Jerrell Freeman,Indianapolis Colts,1,6,2,0.0,0,0,0,0,Home,Arizona Cardinals
+D'Qwell Jackson,Cleveland Browns,1,3,6,0.0,1,0,0,0,Away,Pittsburgh Steelers
+Luke Kuechly,Carolina Panthers,1,6,0,0.0,1,0,0,0,Home,Miami Dolphins
+Paul Worrilow,Atlanta Falcons,1,5,4,0.0,0,0,0,0,Away,New Orleans Saints
+Bruce Carter,Dallas Cowboys,1,6,1,0.0,0,0,0,0,Home,New York Giants
+London Fletcher,Washington Redskins,1,5,3,0.0,0,0,0,0,Away,San Francisco 49ers
+David Harris,New York Jets,1,5,3,0.0,0,0,0,0,Home,Baltimore Ravens
+Sio Moore,Oakland Raiders,1,6,1,0.0,0,0,0,0,Away,Tennessee Titans
+Brian Orakpo,Washington Redskins,1,2,1,1.0,0,0,0,0,Away,San Francisco 49ers
+Willie Young,Detroit Lions,1,2,1,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Khaseem Greene,Chicago Bears,1,6,0,0.0,0,0,0,0,Home,St. Louis Rams

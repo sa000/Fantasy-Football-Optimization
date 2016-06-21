@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+J.J. Watt,Houston Texans,1,8,0,2.0,0,0,0,0,Away,New York Jets
+Rob Ninkovich,New England Patriots,1,4,2,1.5,0,0,1,0,Away,Buffalo Bills
+Michael Johnson,Cincinnati Bengals,1,6,0,1.0,0,0,1,0,Home,Arizona Cardinals
+Aaron Donald,St. Louis Rams,1,4,6,1.0,0,0,0,0,Home,Baltimore Ravens
+Kony Ealy,Carolina Panthers,1,1,0,1.0,1,0,1,1,Away,Washington Redskins
+Datone Jones,Green Bay Packers,1,2,0,2.0,1,0,0,0,Home,Minnesota Vikings
+Cliff Avril,Seattle Seahawks,1,2,1,2.0,0,0,0,0,Away,San Francisco 49ers
+Damon Harrison,New York Jets,1,9,3,0.0,0,0,0,0,Home,Houston Texans
+Markus Golden,Arizona Cardinals,1,3,0,1.0,0,0,1,0,Away,Cincinnati Bengals
+Linval Joseph,Minnesota Vikings,1,9,0,0.0,0,0,0,0,Away,Green Bay Packers
+Corey Liuget,San Diego Chargers,1,5,0,1.0,0,0,0,0,Away,Kansas City Chiefs
+Kroy Biermann,Atlanta Falcons,1,3,3,1.0,0,0,0,0,Away,Indianapolis Colts
+Everson Griffen,Minnesota Vikings,1,3,1,1.0,1,0,0,0,Away,Green Bay Packers
+Gerald McCoy,Tampa Bay Buccaneers,1,2,1,1.5,0,0,0,0,Home,Philadelphia Eagles
+Geno Atkins,Cincinnati Bengals,1,4,0,1.0,0,0,0,0,Home,Arizona Cardinals
+Connor Barwin,Philadelphia Eagles,1,6,0,0.0,2,0,0,0,Away,Tampa Bay Buccaneers
+William Gholston,Tampa Bay Buccaneers,1,5,0,0.0,0,0,1,0,Home,Philadelphia Eagles
+Jared Odrick,Jacksonville Jaguars,1,4,0,1.0,0,0,0,0,Away,Tennessee Titans
+Olivier Vernon,Miami Dolphins,1,3,2,1.0,0,0,0,0,Away,Dallas Cowboys
+Brandon Williams,Baltimore Ravens,1,3,4,0.0,0,0,1,0,Away,St. Louis Rams
+Derek Wolfe,Denver Broncos,1,4,0,1.0,0,0,0,0,Home,Chicago Bears
+Mario Addison,Carolina Panthers,1,1,1,1.5,0,0,0,0,Away,Washington Redskins
+Bruce Gaston,Chicago Bears,1,3,1,1.0,0,0,0,0,Away,Denver Broncos
+Jabaal Sheard,New England Patriots,1,4,1,0.0,0,0,1,0,Away,Buffalo Bills
+Jack Crawford,Dallas Cowboys,1,3,0,1.0,0,0,0,0,Home,Miami Dolphins
+O'Brien Schofield,Atlanta Falcons,1,4,0,0.0,0,0,1,0,Away,Indianapolis Colts
+Mike Daniels,Green Bay Packers,1,2,1,1.0,0,0,0,0,Home,Minnesota Vikings
+Derrick Shelby,Miami Dolphins,1,2,1,1.0,0,0,0,0,Away,Dallas Cowboys
+Preston Smith,Washington Redskins,1,2,1,1.0,0,0,0,0,Home,Carolina Panthers
+Howard Jones,Tampa Bay Buccaneers,1,2,0,1.0,0,0,0,0,Home,Philadelphia Eagles
+Benson Mayowa,Oakland Raiders,1,2,0,1.0,0,0,0,0,Home,Detroit Lions
+Andre Branch,Jacksonville Jaguars,1,1,1,1.0,0,0,0,0,Away,Tennessee Titans
+Fletcher Cox,Philadelphia Eagles,1,4,3,0.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Eddie Goldman,Chicago Bears,1,1,1,1.0,0,0,0,0,Away,Denver Broncos
+Jacquies Smith,Tampa Bay Buccaneers,1,1,1,0.5,0,0,0,1,Home,Philadelphia Eagles
+Ndamukong Suh,Miami Dolphins,1,4,3,0.0,0,0,0,0,Away,Dallas Cowboys
+Ziggy Ansah,Detroit Lions,1,1,0,1.0,0,0,0,0,Away,Oakland Raiders
+Denico Autry,Oakland Raiders,1,1,0,1.0,0,0,0,0,Home,Detroit Lions
+David Bass,Tennessee Titans,1,3,0,0.0,0,0,0,1,Home,Jacksonville Jaguars
+Jurrell Casey,Tennessee Titans,1,1,0,1.0,0,0,0,0,Home,Jacksonville Jaguars
+Ryan Davis,Jacksonville Jaguars,1,1,0,1.0,0,0,0,0,Away,Tennessee Titans
+Quinton Dial,San Francisco 49ers,1,1,4,0.5,0,0,0,0,Home,Seattle Seahawks
+Rodney Gunter,Arizona Cardinals,1,1,0,1.0,0,0,0,0,Away,Cincinnati Bengals
+William Hayes,St. Louis Rams,1,4,2,0.0,0,0,0,0,Home,Baltimore Ravens
+Demarcus Lawrence,Dallas Cowboys,1,1,0,1.0,0,0,0,0,Home,Miami Dolphins
+Bennie Logan,Philadelphia Eagles,1,5,0,0.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Kyle Love,Carolina Panthers,1,1,0,1.0,0,0,0,0,Away,Washington Redskins
+Shea McClellin,Chicago Bears,1,4,2,0.0,0,0,0,0,Away,Denver Broncos
+Frostee Rucker,Arizona Cardinals,1,4,2,0.0,0,0,0,0,Away,Cincinnati Bengals
+Cedric Thornton,Philadelphia Eagles,1,5,0,0.0,0,0,0,0,Away,Tampa Bay Buccaneers

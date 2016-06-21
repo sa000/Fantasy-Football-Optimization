@@ -1,0 +1,33 @@
+Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent
+Carolina Panthers,1,2,0,3,2,14,199.0,31.0,0,0,Home,Dallas Cowboys
+Cincinnati Bengals,1,1,0,3,1,7,259.0,94.0,0,0,Away,St. Louis Rams
+Baltimore Ravens,1,2,0,0,0,27,289.0,63.0,0,1,Home,Cleveland Browns
+Cleveland Browns,1,0,0,2,1,33,232.0,104.0,0,0,Away,Baltimore Ravens
+Detroit Lions,1,6,1,0,0,14,199.0,68.0,0,0,Away,Philadelphia Eagles
+Indianapolis Colts,1,5,0,1,0,12,245.0,132.0,0,0,Away,Tampa Bay Buccaneers
+Seattle Seahawks,1,2,0,4,0,30,490.0,58.0,0,0,Away,Pittsburgh Steelers
+Washington Redskins,1,3,0,3,0,14,321.0,33.0,0,0,Away,New York Giants
+New York Jets,1,3,1,1,0,20,351.0,12.0,0,0,Away,Miami Dolphins
+Minnesota Vikings,1,2,1,2,0,10,230.0,116.0,0,0,Home,Atlanta Falcons
+Arizona Cardinals,1,2,1,1,0,13,318.0,67.0,0,0,Home,San Francisco 49ers
+Oakland Raiders,1,2,0,2,0,21,218.0,44.0,0,0,Home,Tennessee Titans
+Chicago Bears,1,2,1,1,0,13,202.0,177.0,0,0,Home,Green Bay Packers
+New England Patriots,1,3,0,1,0,30,270.0,179.0,0,0,Home,Denver Broncos
+Denver Broncos,1,3,1,0,0,24,280.0,39.0,0,0,Away,New England Patriots
+Houston Texans,1,2,0,1,0,6,228.0,50.0,0,0,Away,New Orleans Saints
+San Diego Chargers,1,2,0,1,0,25,329.0,102.0,0,0,Home,Jacksonville Jaguars
+Kansas City Chiefs,1,1,2,0,0,22,291.0,129.0,0,0,Away,Buffalo Bills
+Tampa Bay Buccaneers,1,3,0,0,0,25,315.0,27.0,0,0,Home,Indianapolis Colts
+Tennessee Titans,1,1,2,0,0,24,330.0,84.0,0,0,Away,Oakland Raiders
+Philadelphia Eagles,1,2,0,0,0,45,337.0,108.0,0,0,Home,Detroit Lions
+Pittsburgh Steelers,1,2,0,0,0,39,345.0,100.0,0,0,Home,Seattle Seahawks
+Jacksonville Jaguars,1,2,0,0,0,31,300.0,79.0,0,0,Away,San Diego Chargers
+New Orleans Saints,1,1,0,1,0,24,205.0,167.0,0,0,Home,Houston Texans
+Green Bay Packers,1,1,0,0,0,17,200.0,101.0,0,0,Away,Chicago Bears
+Atlanta Falcons,1,0,0,1,0,20,174.0,191.0,0,0,Away,Minnesota Vikings
+Buffalo Bills,1,1,0,0,0,30,255.0,158.0,0,0,Home,Kansas City Chiefs
+Miami Dolphins,1,1,0,0,0,38,277.0,137.0,0,0,Home,New York Jets
+San Francisco 49ers,1,1,0,0,0,19,271.0,70.0,0,0,Away,Arizona Cardinals
+St. Louis Rams,1,0,0,1,0,31,236.0,140.0,0,0,Home,Cincinnati Bengals
+Dallas Cowboys,1,1,0,0,0,33,183.0,129.0,0,0,Away,Carolina Panthers
+New York Giants,1,0,0,0,0,20,302.0,105.0,0,0,Home,Washington Redskins

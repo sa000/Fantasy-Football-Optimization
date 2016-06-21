@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Darius Butler,Indianapolis Colts,1,6,0,0.0,1,1,0,0,Home,Jacksonville Jaguars
+Corey Graham,Baltimore Ravens,1,7,2,0.0,1,1,1,0,Home,Buffalo Bills
+Richard Sherman,Seattle Seahawks,1,4,0,0.0,2,1,0,0,Home,Houston Texans
+Earl Thomas,Seattle Seahawks,1,7,0,0.0,2,1,1,0,Home,Houston Texans
+Aaron Williams,Buffalo Bills,1,2,0,0.0,4,2,0,0,Away,Baltimore Ravens
+Louis Delmas,Detroit Lions,1,2,0,0.0,3,2,0,0,Away,Chicago Bears
+Darrelle Revis,Tampa Bay Buccaneers,1,6,0,0.0,1,1,1,0,Away,Arizona Cardinals
+Alterraun Verner,Tennessee Titans,1,0,2,0.0,2,2,0,1,Away,New York Jets
+Patrick Peterson,Arizona Cardinals,1,2,0,0.0,2,2,0,0,Home,Tampa Bay Buccaneers
+David Amerson,Washington Redskins,1,1,0,0.0,1,1,0,0,Home,Oakland Raiders
+Will Blackmon,Jacksonville Jaguars,1,3,0,0.0,4,1,0,0,Away,Indianapolis Colts
+Christopher Owens,Cleveland Browns,1,3,0,1.0,0,0,1,1,Away,Cincinnati Bengals
+Josh Robinson,Minnesota Vikings,1,12,0,0.0,0,0,0,0,Away,Pittsburgh Steelers
+Antrel Rolle,New York Giants,1,6,0,0.0,1,1,0,0,Home,Kansas City Chiefs
+Yeremiah Bell,Arizona Cardinals,1,5,3,1.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Devin McCourty,New England Patriots,1,6,3,0.0,0,0,1,0,Home,Atlanta Falcons
+Aqib Talib,New England Patriots,1,1,1,0.0,4,1,0,0,Home,Atlanta Falcons
+Major Wright,Chicago Bears,1,3,3,0.0,1,1,0,0,Home,Detroit Lions
+Vontae Davis,Indianapolis Colts,1,3,0,0.0,2,1,0,0,Home,Jacksonville Jaguars
+Johnathan Joseph,Houston Texans,1,2,0,0.0,3,1,0,0,Away,Seattle Seahawks
+Da'Norris Searcy,Buffalo Bills,1,6,0,0.0,4,0,0,0,Away,Baltimore Ravens
+Buster Skrine,Cleveland Browns,1,2,0,0.0,3,1,0,0,Away,Cincinnati Bengals
+Donte Whitner,San Francisco 49ers,1,3,0,0.0,2,1,0,0,Home,St. Louis Rams
+Prince Amukamara,New York Giants,1,2,1,0.0,2,1,0,0,Home,Kansas City Chiefs
+Tarell Brown,San Francisco 49ers,1,6,1,0.0,3,0,0,0,Home,St. Louis Rams
+Richard Marshall,San Diego Chargers,1,7,1,0.0,0,0,0,1,Away,Dallas Cowboys
+Charles Woodson,Oakland Raiders,1,4,3,1.0,0,0,0,0,Away,Washington Redskins
+Chris Carr,New Orleans Saints,1,2,2,0.0,1,1,0,0,Away,Miami Dolphins
+Jabari Greer,New Orleans Saints,1,3,0,0.0,1,1,0,0,Away,Miami Dolphins
+Duke Ihenacho,Denver Broncos,1,9,0,0.0,0,0,0,0,Away,Philadelphia Eagles
+Nate Allen,Philadelphia Eagles,1,8,1,0.0,0,0,0,0,Home,Denver Broncos
+Barry Church,Dallas Cowboys,1,8,1,0.0,0,0,0,0,Home,San Diego Chargers
+Johnthan Banks,Tampa Bay Buccaneers,1,1,0,0.0,2,1,0,0,Away,Arizona Cardinals
+Josh Gordy,Indianapolis Colts,1,2,0,0.0,1,1,0,0,Home,Jacksonville Jaguars
+Glover Quin,Detroit Lions,1,1,0,0.0,2,1,0,0,Away,Chicago Bears
+Dunta Robinson,Kansas City Chiefs,1,5,0,0.0,1,0,0,1,Away,New York Giants
+Justin Rogers,Buffalo Bills,1,6,2,0.0,1,0,0,0,Away,Baltimore Ravens
+Eric Weddle,San Diego Chargers,1,5,2,0.0,2,0,0,0,Away,Dallas Cowboys
+Jimmy Wilson,Miami Dolphins,1,5,0,0.0,0,0,1,0,Home,New Orleans Saints
+Chris Clemons,Miami Dolphins,1,7,1,0.0,0,0,0,0,Home,New Orleans Saints
+Tashaun Gipson,Cleveland Browns,1,3,3,0.0,3,0,0,0,Away,Cincinnati Bengals
+Darius Slay,Detroit Lions,1,6,1,0.0,1,0,0,0,Away,Chicago Bears
+Jimmy Smith,Baltimore Ravens,1,4,1,0.0,0,0,1,0,Home,Buffalo Bills
+Brandon Browner,Seattle Seahawks,1,5,0,0.0,2,0,0,0,Home,Houston Texans
+Rafael Bush,New Orleans Saints,1,3,2,0.0,1,0,0,1,Away,Miami Dolphins
+Kam Chancellor,Seattle Seahawks,1,7,0,0.0,0,0,0,0,Home,Houston Texans
+Quintin Demps,Kansas City Chiefs,1,0,0,0.0,2,1,0,0,Away,New York Giants
+Josh Evans,Jacksonville Jaguars,1,6,0,0.0,1,0,0,0,Away,Indianapolis Colts
+Bernard Pollard,Tennessee Titans,1,6,2,0.0,0,0,0,0,Away,New York Jets
+Morris Claiborne,Dallas Cowboys,1,6,1,0.0,0,0,0,0,Home,San Diego Chargers

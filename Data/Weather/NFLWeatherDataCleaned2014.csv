@@ -1,0 +1,257 @@
+Week,Home Team,Home Score,Away Team,Away Score,Weather,Date,Temperature,Feels like,Wind,Humidity,Visibility,Barometer,Dew Point,Cloud Cover,Preicipitation Prob
+1,Green Bay Packers,16,Seattle Seahawks,36,Fair,09/04/2014,70f.,5mi NorthWest,53%,10mi,"30""",52f.,,,
+1,New Orleans Saints,34,Atlanta Falcons,37, Thunderstorm,09/07/2014,83f.,6mi West,67%,10mi,"29""",71f.,,,
+1,Buffalo Bills,23,Chicago Bears,20,Partly Cloudy,09/07/2014,77f.,7mi East - SouthEast,39%,10mi,"30""",50f.,,,
+1,Tennessee Titans,26,Kansas City Chiefs,10,Fair,09/07/2014,77f.,5mi East,45%,10mi,"30""",54f.,,,
+1,Minnesota Vikings,34,St. Louis Rams,6,Fair,09/07/2014,76f.,6mi East - SouthEast,40%,10mi,"30""",50f.,,,
+1,New England Patriots,20,Miami Dolphins,33,Fair,09/07/2014,89f.,13mi SouthEast,57%,10mi,"30""",72f.,,,
+1,Oakland Raiders,14,New York Jets,19,Partly Cloudy,09/07/2014,80f.,3mi North,41%,10mi,"30""",54f.,,,
+1,Jacksonville Jaguars,17,Philadelphia Eagles,34,Partly Cloudy,09/07/2014,80f.,6mi North,41%,10mi,"30""",54f.,,,
+1,Cleveland Browns,27,Pittsburgh Steelers,30,A Few Clouds,09/07/2014,72f.,6mi North,44%,10mi,"30""",49f.,,,
+1,Cincinnati Bengals,23,Baltimore Ravens,16,Mostly Cloudy,09/07/2014,78f.,0mi North,39%,0mi,"30""",51f.,,,
+1,Washington Redskins,6,Houston Texans,17, Thunderstorm,09/07/2014,82f.,12mi South - SouthEast,74%,10mi,"30""",73f.,,,
+1,Carolina Panthers,20,Tampa Bay Buccaneers,14,Overcast,09/07/2014,79f.,7mi SouthEast,77%,10mi,"29""",71f.,,,
+1,San Francisco 49ers,28,Dallas Cowboys,17,Partly Cloudy,09/07/2014,84f.,0mi North,51%,10mi,"30""",64f.,,,
+1,Indianapolis Colts,24,Denver Broncos,31,Partly Cloudy,09/07/2014,70f.,6mi South - SouthWest,33%,30mi,"30""",39f.,,,
+1,New York Giants,14,Detroit Lions,35,Fair,09/08/2014,68f.,3mi East,78%,10mi,"30""",61f.,,,
+1,San Diego Chargers,17,Arizona Cardinals,18,Mostly Cloudy,09/08/2014,84f.,4mi East - NorthEast,70%,20mi,"29""",73f.,,,
+2,Pittsburgh Steelers,6,Baltimore Ravens,26,Mostly Cloudy,09/11/2014,80f.,0mi North,62%,0mi,"29""",66f.,,,
+2,Miami Dolphins,10,Buffalo Bills,29,Mostly Cloudy,09/14/2014,61f.,4mi West,41%,10mi,"30""",37f.,,,
+2,Atlanta Falcons,10,Cincinnati Bengals,24,A Few Clouds,09/14/2014,68f.,4mi North,47%,10mi,"30""",47f.,,,
+2,New Orleans Saints,24,Cleveland Browns,26,Mostly Cloudy,09/14/2014,62f.,5mi NorthWest,56%,10mi,"30""",46f.,,,
+2,Dallas Cowboys,26,Tennessee Titans,10,Mostly Cloudy,09/14/2014,77f.,6mi North - NorthEast,50%,10mi,"30""",57f.,,,
+2,New England Patriots,30,Minnesota Vikings,7,Mostly Cloudy,09/14/2014,65f.,11mi West,39%,10mi,"30""",39f.,,,
+2,Arizona Cardinals,25,New York Giants,14,Fair,09/14/2014,71f.,5mi North,34%,10mi,"30""",41f.,,,
+2,Jacksonville Jaguars,10,Washington Redskins,41,Fair,09/14/2014,67f.,4mi West,50%,10mi,"30""",48f.,,,
+2,Detroit Lions,7,Carolina Panthers,24,Overcast,09/14/2014,68f.,7mi North,70%,10mi,"30""",58f.,,,
+2,Seattle Seahawks,21,San Diego Chargers,30,Sunny,09/14/2014,85f.,6mi SouthWest,61%,0mi,"0""",70f.,,,
+2,St. Louis Rams,19,Tampa Bay Buccaneers,17,Mostly Cloudy,09/14/2014,78f.,0mi North,82%,10mi,"30""",72f.,,,
+2,Kansas City Chiefs,17,Denver Broncos,24,  Showers in Vicinity,09/14/2014,82f.,14mi West - NorthWest,20%,50mi,"30""",37f.,,,
+2,New York Jets,24,Green Bay Packers,31,Fair,09/14/2014,63f.,11mi South - SouthWest,56%,10mi,"30""",47f.,,,
+2,Houston Texans,30,Oakland Raiders,14,A Few Clouds,09/14/2014,73f.,10mi West - NorthWest,55%,10mi,"29""",56f.,,,
+2,Chicago Bears,28,San Francisco 49ers,20,A Few Clouds,09/14/2014,73f.,9mi West - NorthWest,50%,10mi,"29""",53f.,,,
+2,Philadelphia Eagles,30,Indianapolis Colts,27, Light Drizzle Fog/Mist,09/15/2014,57f.,6mi North,93%,3mi,"30""",55f.,,,
+3,Tampa Bay Buccaneers,14,Atlanta Falcons,56,Mostly Cloudy,09/18/2014,73f.,3mi East - SouthEast,74%,10mi,"30""",64f.,,,
+3,San Diego Chargers,22,Buffalo Bills,10,Partly Cloudy,09/21/2014,72f.,16mi SouthWest,66%,10mi,"29""",60f.,,,
+3,Tennessee Titans,7,Cincinnati Bengals,33,Fair,09/21/2014,79f.,14mi West,30%,10mi,"29""",45f.,,,
+3,Baltimore Ravens,23,Cleveland Browns,21,Partly Cloudy and Breezy,09/21/2014,69f.,19mi West,61%,10mi,"29""",55f.,,,
+3,Green Bay Packers,7,Detroit Lions,19,Overcast,09/21/2014,64f.,6mi West - NorthWest,68%,10mi,"29""",53f.,,,
+3,Dallas Cowboys,34,St. Louis Rams,31,A Few Clouds,09/21/2014,78f.,15mi West - NorthWest,37%,10mi,"30""",50f.,,,
+3,Oakland Raiders,9,New England Patriots,16,A Few Clouds,09/21/2014,78f.,7mi South - SouthEast,71%,10mi,"29""",68f.,,,
+3,Minnesota Vikings,9,New Orleans Saints,20,Partly Cloudy,09/21/2014,87f.,11mi North - NorthEast,53%,10mi,"30""",68f.,,,
+3,Houston Texans,17,New York Giants,30, Fog/Mist,09/21/2014,76f.,0mi North,72%,5mi,"29""",66f.,,,
+3,Washington Redskins,34,Philadelphia Eagles,37,Mostly Cloudy,09/21/2014,76f.,4mi East - SouthEast,72%,10mi,"29""",66f.,,,
+3,Indianapolis Colts,44,Jacksonville Jaguars,17,Fair,09/21/2014,85f.,5mi East,42%,10mi,"29""",59f.,,,
+3,San Francisco 49ers,14,Arizona Cardinals,23,Partly Cloudy,09/21/2014,97f.,3mi North - NorthWest,22%,20mi,"29""",52f.,,,
+3,Kansas City Chiefs,34,Miami Dolphins,15,Fair,09/21/2014,84f.,8mi South - SouthEast,70%,10mi,"29""",73f.,,,
+3,Denver Broncos,20,Seattle Seahawks,26,Fair,09/21/2014,83f.,6mi North,41%,10mi,"29""",57f.,,,
+3,Pittsburgh Steelers,37,Carolina Panthers,19,Overcast,09/21/2014,74f.,3mi West - SouthWest,71%,10mi,"29""",64f.,,,
+3,Chicago Bears,27,New York Jets,19,Fair,09/22/2014,56f.,4mi North - NorthWest,51%,10mi,"30""",38f.,,,
+4,New York Giants,45,Washington Redskins,14,Overcast,09/25/2014,63f.,7mi North - NorthEast,88%,10mi,"30""",59f.,,,
+4,Green Bay Packers,38,Chicago Bears,17,Mostly Cloudy,09/28/2014,78f.,6mi East,45%,10mi,"30""",55f.,,,
+4,Tennessee Titans,17,Indianapolis Colts,41,Partly Cloudy,09/28/2014,81f.,0mi North,37%,10mi,"30""",52f.,,,
+4,Miami Dolphins,38,Oakland Raiders,14,Partly Cloudy,09/28/2014,68f.,88%,,,,,,,
+4,Detroit Lions,24,New York Jets,17,Fair,09/28/2014,85f.,6mi South,37%,10mi,"30""",56f.,,,
+4,Tampa Bay Buccaneers,27,Pittsburgh Steelers,24,Fair,09/28/2014,73f.,6mi South - SouthWest,48%,10mi,"30""",52f.,,,
+4,Carolina Panthers,10,Baltimore Ravens,38,Partly Cloudy,09/28/2014,79f.,0mi North,50%,0mi,"30""",59f.,,,
+4,Buffalo Bills,17,Houston Texans,23,Mostly Cloudy,09/28/2014,86f.,4mi East - SouthEast,63%,10mi,"29""",72f.,,,
+4,Jacksonville Jaguars,14,San Diego Chargers,33,,09/28/2014,72f.,7mi West,62%,0mi,"0""",58f.,,,
+4,Atlanta Falcons,28,Minnesota Vikings,41,Partly Cloudy,09/28/2014,80f.,8mi South - SouthWest,41%,10mi,"30""",54f.,,,
+4,Philadelphia Eagles,21,San Francisco 49ers,26,Mostly Cloudy,09/28/2014,75f.,7mi West - NorthWest,48%,10mi,"29""",54f.,,,
+4,New Orleans Saints,17,Dallas Cowboys,38,Fair,09/28/2014,79f.,3mi East - NorthEast,47%,10mi,"30""",57f.,,,
+4,New England Patriots,14,Kansas City Chiefs,41,Fair,09/29/2014,72f.,3mi East,66%,10mi,"29""",60f.,,,
+5,Minnesota Vikings,10,Green Bay Packers,42, Fog/Mist,10/02/2014,63f.,7mi South - SouthEast,97%,3mi,"29""",62f.,,,
+5,Houston Texans,17,Dallas Cowboys,20,Clear,10/05/2014,81f.,0mi North,48%,10mi,"29""",59f.,,,
+5,Buffalo Bills,17,Detroit Lions,14,Overcast,10/05/2014,53f.,11mi SouthWest,47%,10mi,"29""",33f.,,,
+5,Cleveland Browns,29,Tennessee Titans,28,Mostly Cloudy,10/05/2014,71f.,13mi South,34%,10mi,"29""",41f.,,,
+5,Baltimore Ravens,13,Indianapolis Colts,20,Overcast and Breezy,10/05/2014,57f.,19mi South - SouthWest,44%,10mi,"29""",35f.,,,
+5,Tampa Bay Buccaneers,31,New Orleans Saints,37,A Few Clouds,10/05/2014,77f.,5mi East - SouthEast,39%,10mi,"30""",50f.,,,
+5,Atlanta Falcons,20,New York Giants,30,Fair,10/05/2014,61f.,6mi West - NorthWest,35%,10mi,"29""",33f.,,,
+5,St. Louis Rams,28,Philadelphia Eagles,34,Partly Cloudy,10/05/2014,60f.,6mi West,38%,10mi,"29""",34f.,,,
+5,Chicago Bears,24,Carolina Panthers,31,A Few Clouds,10/05/2014,63f.,7mi South,30%,10mi,"29""",31f.,,,
+5,Pittsburgh Steelers,17,Jacksonville Jaguars,9,Fair,10/05/2014,73f.,4mi North - NorthEast,28%,10mi,"30""",38f.,,,
+5,Arizona Cardinals,20,Denver Broncos,41,Partly Cloudy,10/05/2014,72f.,8mi East - NorthEast,23%,60mi,"30""",32f.,,,
+5,New York Jets,0,San Diego Chargers,31,,10/05/2014,83f.,6mi West - SouthWest,35%,0mi,"0""",53f.,,,
+5,Kansas City Chiefs,17,San Francisco 49ers,22,A Few Clouds,10/05/2014,88f.,6mi West - NorthWest,22%,10mi,"29""",44f.,,,
+5,Cincinnati Bengals,17,New England Patriots,43, Fog,10/05/2014,35f.,0mi North,96%,0mi,"29""",34f.,,,
+5,Seattle Seahawks,27,Washington Redskins,17,Partly Cloudy,10/06/2014,63f.,11mi South,58%,10mi,"29""",48f.,,,
+6,Indianapolis Colts,33,Houston Texans,28,Partly Cloudy,10/09/2014,77f.,3mi SouthEast,90%,10mi,"29""",74f.,,,
+6,New England Patriots,37,Buffalo Bills,22,A Few Clouds,10/12/2014,59f.,3mi North,41%,10mi,"30""",35f.,,,
+6,Carolina Panthers,37,Cincinnati Bengals,37,Overcast,10/12/2014,62f.,6mi South,67%,10mi,"30""",51f.,,,
+6,Pittsburgh Steelers,10,Cleveland Browns,31,Fair,10/12/2014,64f.,7mi East,38%,10mi,"30""",38f.,,,
+6,Jacksonville Jaguars,14,Tennessee Titans,16,Mostly Cloudy,10/12/2014,74f.,7mi South - SouthWest,76%,10mi,"29""",66f.,,,
+6,Green Bay Packers,27,Miami Dolphins,24,Mostly Cloudy,10/12/2014,88f.,12mi East,59%,10mi,"30""",72f.,,,
+6,Detroit Lions,17,Minnesota Vikings,3,Partly Cloudy and Breezy,10/12/2014,61f.,20mi South - SouthEast,38%,10mi,"29""",35f.,,,
+6,Denver Broncos,31,New York Jets,17,Fair,10/12/2014,64f.,3mi NorthWest,35%,10mi,"30""",36f.,,,
+6,Baltimore Ravens,48,Tampa Bay Buccaneers,17,Mostly Cloudy,10/12/2014,87f.,4mi East - SouthEast,46%,10mi,"30""",64f.,,,
+6,San Diego Chargers,31,Oakland Raiders,28,A Few Clouds,10/12/2014,86f.,7mi NorthWest,13%,10mi,"29""",30f.,,,
+6,Chicago Bears,27,Atlanta Falcons,13,Fair,10/12/2014,76f.,7mi NorthEast,72%,10mi,"30""",66f.,,,
+6,Washington Redskins,20,Arizona Cardinals,30,A Few Clouds,10/12/2014,93f.,14mi South,19%,20mi,"29""",45f.,,,
+6,Dallas Cowboys,30,Seattle Seahawks,23,Overcast,10/12/2014,66f.,5mi South - SouthWest,56%,10mi,"30""",50f.,,,
+6,New York Giants,0,Philadelphia Eagles,27,Mostly Cloudy,10/12/2014,57f.,5mi South - SouthEast,69%,10mi,"30""",47f.,,,
+6,San Francisco 49ers,31,St. Louis Rams,17,A Few Clouds,10/13/2014,64f.,11mi South,84%,10mi,"29""",59f.,,,
+7,New York Jets,25,New England Patriots,27,Overcast,10/16/2014,63f.,5mi South,97%,10mi,"29""",62f.,,,
+7,Minnesota Vikings,16,Buffalo Bills,17,Mostly Cloudy,10/19/2014,45f.,8mi West - SouthWest,54%,10mi,"30""",29f.,,,
+7,Miami Dolphins,27,Chicago Bears,14,Mostly Cloudy,10/19/2014,55f.,12mi SouthWest,59%,10mi,"30""",41f.,,,
+7,New Orleans Saints,23,Detroit Lions,24,Fair,10/19/2014,51f.,9mi West - SouthWest,45%,10mi,"30""",30f.,,,
+7,Carolina Panthers,17,Green Bay Packers,38,A Few Clouds,10/19/2014,53f.,11mi South - SouthWest,66%,10mi,"29""",42f.,,,
+7,Cincinnati Bengals,0,Indianapolis Colts,27,Mostly Cloudy,10/19/2014,54f.,9mi SouthWest,59%,10mi,"30""",40f.,,,
+7,Seattle Seahawks,26,St. Louis Rams,28,Mostly Cloudy,10/19/2014,62f.,4mi North,54%,10mi,"30""",45f.,,,
+7,Tennessee Titans,17,Washington Redskins,19,Fair,10/19/2014,57f.,16mi West,35%,10mi,"30""",29f.,,,
+7,Cleveland Browns,6,Jacksonville Jaguars,24,Mostly Cloudy,10/19/2014,74f.,10mi NorthEast,56%,10mi,"30""",57f.,,,
+7,Atlanta Falcons,7,Baltimore Ravens,29,Mostly Clear,10/19/2014,57f.,0mi North,33%,0mi,"30""",28f.,,,
+7,Kansas City Chiefs,23,San Diego Chargers,20,,10/19/2014,71f.,6mi West - NorthWest,70%,0mi,"0""",61f.,,,
+7,New York Giants,21,Dallas Cowboys,31,Clear,10/19/2014,75f.,0mi North,54%,10mi,"30""",57f.,,,
+7,Arizona Cardinals,24,Oakland Raiders,13,A Few Clouds,10/19/2014,70f.,14mi West,66%,10mi,"29""",58f.,,,
+7,San Francisco 49ers,17,Denver Broncos,42,A Few Clouds,10/19/2014,63f.,0mi North,32%,30mi,"30""",32f.,,,
+7,Houston Texans,23,Pittsburgh Steelers,30, Light Rain,10/20/2014,51f.,8mi South - SouthWest,74%,8mi,"29""",43f.,,,
+8,San Diego Chargers,21,Denver Broncos,35,Partly Cloudy,10/23/2014,61f.,3mi SouthWest,29%,30mi,"30""",28f.,,,
+8,Detroit Lions,22,Atlanta Falcons,21,Cloudy,10/26/2014,58f.,58f.,65%,,,,,,
+8,Baltimore Ravens,24,Cincinnati Bengals,27,Fair,10/26/2014,67f.,5mi West - SouthWest,25%,10mi,"29""",30f.,,,
+8,Houston Texans,30,Tennessee Titans,16,Fair,10/26/2014,79f.,5mi East,52%,10mi,"29""",60f.,,,
+8,St. Louis Rams,7,Kansas City Chiefs,34,Fair,10/26/2014,85f.,13mi South,42%,10mi,"29""",59f.,,,
+8,Chicago Bears,23,New England Patriots,51,Mostly Cloudy,10/26/2014,57f.,14mi West - NorthWest,47%,10mi,"29""",37f.,,,
+8,Buffalo Bills,43,New York Jets,23,Overcast and Breezy,10/26/2014,61f.,19mi NorthWest,36%,10mi,"29""",34f.,,,
+8,Minnesota Vikings,19,Tampa Bay Buccaneers,13,Fair,10/26/2014,78f.,7mi West - SouthWest,40%,10mi,"29""",52f.,,,
+8,Seattle Seahawks,13,Carolina Panthers,9,Fair,10/26/2014,81f.,11mi West,24%,10mi,"29""",41f.,,,
+8,Miami Dolphins,27,Jacksonville Jaguars,13,Fair,10/26/2014,81f.,0mi North,41%,10mi,"29""",55f.,,,
+8,Philadelphia Eagles,20,Arizona Cardinals,24,Mostly Cloudy,10/26/2014,88f.,6mi West - SouthWest,31%,20mi,"29""",54f.,,,
+8,Oakland Raiders,13,Cleveland Browns,23,Fair,10/26/2014,54f.,9mi West,59%,10mi,"29""",40f.,,,
+8,Indianapolis Colts,34,Pittsburgh Steelers,51,Fair,10/26/2014,56f.,7mi West,27%,10mi,"29""",22f.,,,
+8,Green Bay Packers,23,New Orleans Saints,44,Fair,10/26/2014,69f.,6mi South,81%,10mi,"30""",63f.,,,
+8,Washington Redskins,20,Dallas Cowboys,17,Fair,10/27/2014,76f.,9mi South - SouthEast,59%,10mi,"29""",61f.,,,
+9,New Orleans Saints,28,Carolina Panthers,10,Fair,10/30/2014,53f.,3mi North - NorthEast,48%,10mi,"29""",34f.,,,
+9,Jacksonville Jaguars,23,Cincinnati Bengals,33,Fair,11/02/2014,46f.,4mi South - SouthEast,42%,10mi,"30""",24f.,,,
+9,Tampa Bay Buccaneers,17,Cleveland Browns,22,Mostly Cloudy,11/02/2014,0f.,10mi West,0%,10mi,"30""",0f.,,,
+9,Arizona Cardinals,28,Dallas Cowboys,17,Clear,11/02/2014,64f.,0mi North,46%,10mi,"30""",43f.,,,
+9,New York Jets,10,Kansas City Chiefs,24,Fair and Breezy,11/02/2014,64f.,20mi South,33%,10mi,"30""",34f.,,,
+9,San Diego Chargers,0,Miami Dolphins,37,Fair,11/02/2014,69f.,5mi North,27%,10mi,"30""",34f.,,,
+9,Washington Redskins,26,Minnesota Vikings,29,Partly Cloudy,11/02/2014,54f.,12mi South - SouthEast,34%,10mi,"29""",26f.,,,
+9,Philadelphia Eagles,31,Houston Texans,21,Mostly Cloudy,11/02/2014,71f.,8mi South - SouthEast,55%,10mi,"30""",54f.,,,
+9,St. Louis Rams,13,San Francisco 49ers,10,A Few Clouds,11/02/2014,64f.,10mi NorthWest,48%,10mi,"30""",44f.,,,
+9,Denver Broncos,21,New England Patriots,43,Fair and Breezy,11/02/2014,41f.,18mi NorthWest,39%,10mi,"29""",18f.,,,
+9,Oakland Raiders,24,Seattle Seahawks,30,Lt Rain,11/02/2014,56f.,7mi South - SouthEast,75%,10mi,"30""",48f.,,,
+9,Baltimore Ravens,23,Pittsburgh Steelers,43,Fair,11/02/2014,37f.,5mi West - NorthWest,54%,10mi,"30""",22f.,,,
+9,Indianapolis Colts,40,New York Giants,24,Overcast,11/03/2014,53f.,8mi SouthWest,28%,10mi,"30""",21f.,,,
+10,Cleveland Browns,24,Cincinnati Bengals,3,Overcast,11/06/2014,43f.,0mi North,74%,10mi,"30""",35f.,,,
+10,Kansas City Chiefs,17,Buffalo Bills,13, Light Rain,11/09/2014,41f.,11mi South - SouthWest,82%,10mi,"29""",36f.,,,
+10,Miami Dolphins,16,Detroit Lions,20,Overcast,11/09/2014,45f.,15mi SouthWest,56%,10mi,"29""",30f.,,,
+10,San Francisco 49ers,27,New Orleans Saints,24,Fair,11/09/2014,66f.,8mi NorthEast,43%,10mi,"30""",43f.,,,
+10,Pittsburgh Steelers,13,New York Jets,20,Fair,11/09/2014,57f.,9mi SouthWest,37%,10mi,"29""",31f.,,,
+10,Atlanta Falcons,27,Tampa Bay Buccaneers,17,Overcast,11/09/2014,66f.,5mi NorthEast,73%,10mi,"29""",57f.,,,
+10,Dallas Cowboys,31,Jacksonville Jaguars,17,Chance Showers,11/09/2014,39/53f.,,,,,,,,
+10,Tennessee Titans,7,Baltimore Ravens,21,Sunny,11/09/2014,57f.,0mi North,37%,0mi,"29""",31f.,,,
+10,Denver Broncos,41,Oakland Raiders,17,A Few Clouds,11/09/2014,69f.,7mi West - NorthWest,61%,10mi,"29""",55f.,,,
+10,St. Louis Rams,14,Arizona Cardinals,31,A Few Clouds,11/09/2014,84f.,6mi East,18%,20mi,"29""",36f.,,,
+10,New York Giants,17,Seattle Seahawks,38,Lt Rain,11/09/2014,56f.,0mi North,77%,8mi,"29""",49f.,,,
+10,Chicago Bears,14,Green Bay Packers,55,Fair,11/09/2014,32f.,6mi North - NorthWest,85%,10mi,"29""",28f.,,,
+10,Carolina Panthers,21,Philadelphia Eagles,45,Fair,11/10/2014,49f.,0mi North,69%,10mi,"30""",39f.,,,
+11,Buffalo Bills,9,Miami Dolphins,22,Fair,11/13/2014,71f.,0mi North,81%,10mi,"30""",65f.,,,
+11,Minnesota Vikings,13,Chicago Bears,21, Light Snow,11/16/2014,32f.,10mi South - SouthWest,82%,3mi,"30""",27f.,,,
+11,Houston Texans,23,Cleveland Browns,7,Overcast,11/16/2014,34f.,7mi South - SouthWest,61%,10mi,"30""",22f.,,,
+11,Philadelphia Eagles,20,Green Bay Packers,53,Overcast,11/16/2014,27f.,9mi South - SouthWest,75%,7mi,"29""",20f.,,,
+11,Seattle Seahawks,20,Kansas City Chiefs,24,Fair,11/16/2014,21f.,10mi West,62%,10mi,"30""",10f.,,,
+11,Denver Broncos,7,St. Louis Rams,22, Light Snow Fog/Mist,11/16/2014,33f.,6mi West,85%,0mi,"30""",29f.,,,
+11,Cincinnati Bengals,27,New Orleans Saints,10,Mostly Cloudy and Breezy,11/16/2014,77f.,19mi South - SouthEast,62%,10mi,"29""",63f.,,,
+11,San Francisco 49ers,16,New York Giants,10,Overcast,11/16/2014,43f.,4mi South - SouthWest,47%,10mi,"30""",24f.,,,
+11,Tampa Bay Buccaneers,27,Washington Redskins,7,Overcast,11/16/2014,46f.,7mi South,38%,10mi,"30""",21f.,,,
+11,Atlanta Falcons,19,Carolina Panthers,17,Overcast,11/16/2014,52f.,3mi East - SouthEast,31%,10mi,"30""",22f.,,,
+11,Oakland Raiders,6,San Diego Chargers,13,,11/16/2014,71f.,7mi West - NorthWest,48%,0mi,"0""",50f.,,,
+11,Detroit Lions,6,Arizona Cardinals,14,A Few Clouds,11/16/2014,70f.,12mi North,5%,20mi,"30""",-6f.,,,
+11,New England Patriots,42,Indianapolis Colts,20, Light Snow Fog/Mist,11/16/2014,29f.,4mi West - NorthWest,96%,1mi,"29""",28f.,,,
+11,Pittsburgh Steelers,27,Tennessee Titans,24,A Few Clouds,11/17/2014,25f.,0mi North,63%,10mi,"30""",14f.,,,
+12,Kansas City Chiefs,20,Oakland Raiders,24,"Mod Rain, Fog",11/20/2014,55f.,11mi East - NorthEast,94%,6mi,"30""",54f.,,,
+12,Cleveland Browns,26,Atlanta Falcons,24, Thunderstorm Heavy Rain Fog/Mist,11/23/2014,52f.,10mi East - NorthEast,93%,3mi,"29""",50f.,,,
+12,Tampa Bay Buccaneers,13,Chicago Bears,21, Light Rain,11/23/2014,53f.,10mi South,86%,10mi,"29""",49f.,,,
+12,Jacksonville Jaguars,3,Indianapolis Colts,23, Light Rain Fog/Mist,11/23/2014,51f.,9mi SouthEast,92%,1mi,"29""",49f.,,,
+12,Green Bay Packers,24,Minnesota Vikings,21, Fog/Mist,11/23/2014,46f.,6mi NorthWest,96%,3mi,"29""",45f.,,,
+12,Detroit Lions,9,New England Patriots,34,Fair,11/23/2014,61f.,6mi West - SouthWest,41%,10mi,"30""",37f.,,,
+12,Tennessee Titans,24,Philadelphia Eagles,43,Mostly Cloudy,11/23/2014,53f.,6mi South,35%,10mi,"30""",26f.,,,
+12,Cincinnati Bengals,22,Houston Texans,13,Fair,11/23/2014,76f.,14mi SouthWest,50%,10mi,"29""",56f.,,,
+12,St. Louis Rams,24,San Diego Chargers,27,,11/23/2014,72f.,3mi South,58%,0mi,"0""",56f.,,,
+12,Arizona Cardinals,3,Seattle Seahawks,19,Partly Cloudy,11/23/2014,57f.,6mi South,62%,10mi,"30""",44f.,,,
+12,Miami Dolphins,36,Denver Broncos,39,  Showers in Vicinity,11/23/2014,36f.,7mi North - NorthEast,52%,20mi,"29""",19f.,,,
+12,Washington Redskins,13,San Francisco 49ers,17,Mostly Cloudy,11/23/2014,63f.,4mi West - NorthWest,40%,10mi,"30""",38f.,,,
+12,Dallas Cowboys,31,New York Giants,28,Fair,11/23/2014,48f.,0mi North,58%,10mi,"30""",34f.,,,
+12,New York Jets,3,Buffalo Bills,38,Overcast and Breezy,11/24/2014,40f.,21mi West - SouthWest,63%,10mi,"29""",28f.,,,
+12,Baltimore Ravens,34,New Orleans Saints,27,Mostly Cloudy,11/24/2014,58f.,9mi North,56%,10mi,"30""",42f.,,,
+13,Chicago Bears,17,Detroit Lions,34,Overcast,11/27/2014,36f.,9mi West - NorthWest,55%,10mi,"30""",21f.,,,
+13,Philadelphia Eagles,33,Dallas Cowboys,10,Clear,11/27/2014,57f.,0mi North,29%,10mi,"30""",25f.,,,
+13,Seattle Seahawks,19,San Francisco 49ers,3,A Few Clouds,11/27/2014,58f.,0mi North,60%,9mi,"30""",44f.,,,
+13,Cleveland Browns,10,Buffalo Bills,26,Overcast,11/30/2014,57f.,11mi South - SouthWest,69%,10mi,"29""",47f.,,,
+13,Washington Redskins,27,Indianapolis Colts,49,Overcast,11/30/2014,63f.,17mi South - SouthWest,70%,10mi,"29""",53f.,,,
+13,Oakland Raiders,0,St. Louis Rams,52,Overcast,11/30/2014,70f.,12mi West - SouthWest,55%,10mi,"29""",53f.,,,
+13,Carolina Panthers,13,Minnesota Vikings,31,Overcast,11/30/2014,15f.,15mi West - NorthWest,56%,10mi,"30""",2f.,,,
+13,New Orleans Saints,35,Pittsburgh Steelers,32,Overcast,11/30/2014,61f.,12mi SouthWest,56%,10mi,"29""",45f.,,,
+13,Cincinnati Bengals,14,Tampa Bay Buccaneers,13,Mostly Cloudy,11/30/2014,76f.,7mi East,47%,10mi,"30""",54f.,,,
+13,New York Giants,24,Jacksonville Jaguars,25,Partly Cloudy,11/30/2014,72f.,7mi South - SouthEast,57%,10mi,"30""",56f.,,,
+13,San Diego Chargers,34,Baltimore Ravens,33,Mostly Sunny,11/30/2014,58f.,0mi North,44%,0mi,"30""",36f.,,,
+13,Tennessee Titans,21,Houston Texans,45,Partly Cloudy,11/30/2014,78f.,10mi South,58%,10mi,"30""",62f.,,,
+13,Arizona Cardinals,18,Atlanta Falcons,29,Fair,11/30/2014,60f.,3mi South - SouthEast,60%,10mi,"30""",46f.,,,
+13,New England Patriots,21,Green Bay Packers,26,Fair,11/30/2014,23f.,7mi NorthWest,65%,10mi,"30""",13f.,,,
+13,Denver Broncos,29,Kansas City Chiefs,16,Fair,11/30/2014,25f.,12mi North,50%,10mi,"30""",9f.,,,
+13,Miami Dolphins,16,New York Jets,13,A Few Clouds,12/01/2014,43f.,9mi North - NorthWest,56%,10mi,"30""",28f.,,,
+14,Dallas Cowboys,41,Chicago Bears,28,Overcast,12/04/2014,34f.,28f.,6mi SouthEast,68%,10mi,"1026""",24f.,99%,0%
+14,Pittsburgh Steelers,42,Cincinnati Bengals,21,Clear,12/07/2014,42f.,41f.,3mi NorthEast,62%,8mi,"1034""",30f.,21%,0%
+14,Indianapolis Colts,25,Cleveland Browns,24,Mostly Cloudy,12/07/2014,38f.,30f.,11mi NorthEast,62%,10mi,"1035""",26f.,87%,0%
+14,Tampa Bay Buccaneers,17,Detroit Lions,34,Partly Cloudy,12/07/2014,34f.,29f.,5mi East,59%,10mi,"1038""",21f.,50%,0%
+14,New York Giants,36,Tennessee Titans,7,Mostly Cloudy,12/07/2014,47f.,43f.,7mi NorthEast,66%,9mi,"1031""",36f.,68%,0%
+14,Baltimore Ravens,28,Miami Dolphins,13,Partly Cloudy,12/07/2014,77f.,77f.,12mi North - NorthWest,69%,10mi,"1017""",66f.,38%,0%
+14,New York Jets,24,Minnesota Vikings,30,Mostly Cloudy,12/07/2014,34f.,26f.,11mi South - SouthEast,85%,8mi,"1026""",30f.,92%,0%
+14,Carolina Panthers,41,New Orleans Saints,10,Mostly Cloudy,12/07/2014,55f.,55f.,5mi North,68%,9mi,"1025""",44f.,83%,0%
+14,St. Louis Rams,24,Washington Redskins,0,Clear,12/07/2014,46f.,40f.,10mi North,41%,10mi,"1032""",23f.,3%,0%
+14,Houston Texans,27,Jacksonville Jaguars,13,Overcast,12/07/2014,58f.,58f.,9mi North,81%,9mi,"1020""",52f.,100%,0%
+14,Buffalo Bills,17,Denver Broncos,24,Clear,12/07/2014,55f.,55f.,3mi NorthWest,28%,4mi,"1021""",22f.,20%,0%
+14,Kansas City Chiefs,14,Arizona Cardinals,17,Partly Cloudy,12/07/2014,75f.,75f.,1mi NorthWest,36%,10mi,"1018""",46f.,56%,0%
+14,San Francisco 49ers,13,Oakland Raiders,24,Overcast,12/07/2014,61f.,61f.,2mi South - SouthWest,87%,9mi,"1021""",57f.,97%,0%
+14,Seattle Seahawks,24,Philadelphia Eagles,14,Clear,12/07/2014,39f.,34f.,6mi North,49%,10mi,"1033""",21f.,14%,0%
+14,New England Patriots,23,San Diego Chargers,14,Mostly Cloudy,12/07/2014,64f.,64f.,2mi North,71%,9mi,"1019""",54f.,65%,0%
+14,Atlanta Falcons,37,Green Bay Packers,43,Overcast,12/08/2014,32f.,28f.,4mi NorthWest,95%,3mi,"1018""",31f.,100%,0%
+15,Arizona Cardinals,12,St. Louis Rams,6,Clear,12/11/2014,30f.,30f.,1mi South - SouthEast,84%,8mi,"1026""",26f.,2%,0%
+15,Pittsburgh Steelers,27,Atlanta Falcons,20,Clear,12/14/2014,54f.,54f.,8mi West - NorthWest,49%,10mi,"1018""",36f.,0%,0%
+15,Green Bay Packers,13,Buffalo Bills,21,Overcast,12/14/2014,34f.,26f.,9mi West,93%,6mi,"1015""",32f.,100%,0%
+15,Cincinnati Bengals,30,Cleveland Browns,0,Overcast,12/14/2014,45f.,42f.,5mi West,93%,8mi,"1017""",43f.,100%,0%
+15,Houston Texans,10,Indianapolis Colts,17,Mostly Cloudy,12/14/2014,47f.,46f.,4mi South,85%,7mi,"1020""",43f.,90%,0%
+15,Oakland Raiders,13,Kansas City Chiefs,31,Overcast,12/14/2014,60f.,60f.,10mi South,78%,9mi,"1012""",53f.,100%,0%
+15,Miami Dolphins,13,New England Patriots,41,Clear,12/14/2014,43f.,39f.,5mi West - NorthWest,64%,10mi,"1009""",31f.,7%,0%
+15,Washington Redskins,13,New York Giants,24,Overcast,12/14/2014,43f.,39f.,7mi NorthWest,70%,9mi,"1011""",34f.,95%,0%
+15,Tampa Bay Buccaneers,17,Carolina Panthers,19,Clear,12/14/2014,58f.,58f.,2mi North - NorthWest,32%,10mi,"1017""",29f.,0%,0%
+15,Jacksonville Jaguars,12,Baltimore Ravens,20,Mostly Cloudy,12/14/2014,49f.,46f.,7mi NorthWest,65%,9mi,"1013""",38f.,83%,0%
+15,New York Jets,16,Tennessee Titans,11,Mostly Cloudy,12/14/2014,49f.,49f.,1mi East,77%,9mi,"1020""",42f.,79%,0%
+15,Denver Broncos,22,San Diego Chargers,10,Partly Cloudy,12/14/2014,62f.,62f.,5mi West - NorthWest,57%,10mi,"1018""",47f.,26%,0%
+15,San Francisco 49ers,7,Seattle Seahawks,17,Clear,12/14/2014,49f.,49f.,2mi East - NorthEast,61%,10mi,"1017""",37f.,18%,0%
+15,Minnesota Vikings,14,Detroit Lions,16,Overcast,12/14/2014,47f.,47f.,1mi West,87%,5mi,"1017""",44f.,100%,0%
+15,Dallas Cowboys,38,Philadelphia Eagles,27,Mostly Cloudy,12/14/2014,42f.,38f.,6mi North - NorthWest,72%,9mi,"1016""",34f.,88%,0%
+15,New Orleans Saints,31,Chicago Bears,15,Overcast,12/15/2014,42f.,38f.,6mi South - SouthEast,93%,3mi,"1007""",40f.,100%,0%
+16,Tennessee Titans,13,Jacksonville Jaguars,21,Partly Cloudy,12/18/2014,54f.,54f.,3mi West,75%,9mi,"1019""",46f.,51%,0%
+16,Philadelphia Eagles,24,Washington Redskins,27,Mostly Cloudy,12/20/2014,35f.,35f.,1mi West,62%,10mi,"1025""",23f.,72%,0%
+16,San Diego Chargers,38,San Francisco 49ers,35,Overcast,12/20/2014,58f.,58f.,1mi SouthWest,82%,9mi,"1023""",52f.,100%,0%
+16,Detroit Lions,20,Chicago Bears,14,Mostly Cloudy,12/21/2014,36f.,30f.,7mi South,76%,9mi,"1022""",29f.,92%,0%
+16,Minnesota Vikings,35,Miami Dolphins,37,Mostly Cloudy,12/21/2014,78f.,78f.,7mi SouthEast,64%,9mi,"1018""",65f.,73%,0%
+16,Atlanta Falcons,30,New Orleans Saints,14,Overcast,12/21/2014,57f.,57f.,2mi NorthEast,83%,9mi,"1019""",52f.,100%,9%
+16,New England Patriots,17,New York Jets,16,Mostly Cloudy,12/21/2014,35f.,32f.,4mi NorthWest,74%,9mi,"1025""",28f.,87%,0%
+16,Kansas City Chiefs,12,Pittsburgh Steelers,20,Mostly Cloudy,12/21/2014,34f.,34f.,0mi NorthEast,67%,8mi,"1026""",24f.,86%,0%
+16,Green Bay Packers,20,Tampa Bay Buccaneers,3,Mostly Cloudy,12/21/2014,76f.,76f.,4mi South,65%,10mi,"1016""",63f.,93%,0%
+16,Cleveland Browns,13,Carolina Panthers,17,Mostly Cloudy,12/21/2014,50f.,50f.,4mi NorthEast,62%,10mi,"1022""",38f.,78%,0%
+16,Baltimore Ravens,13,Houston Texans,25,Mostly Cloudy,12/21/2014,58f.,58f.,2mi East,74%,9mi,"1018""",50f.,77%,0%
+16,New York Giants,37,St. Louis Rams,27,Overcast,12/21/2014,41f.,37f.,7mi SouthEast,73%,9mi,"1017""",33f.,98%,0%
+16,Indianapolis Colts,7,Dallas Cowboys,42,Overcast,12/21/2014,51f.,51f.,9mi South,81%,9mi,"1010""",45f.,99%,0%
+16,Buffalo Bills,24,Oakland Raiders,26,Mostly Cloudy,12/21/2014,62f.,62f.,6mi West - NorthWest,90%,8mi,"1024""",59f.,81%,0%
+16,Seattle Seahawks,35,Arizona Cardinals,6,Partly Cloudy,12/21/2014,54f.,54f.,1mi West,63%,10mi,"1016""",42f.,56%,0%
+16,Denver Broncos,28,Cincinnati Bengals,37,Partly Cloudy,12/22/2014,46f.,42f.,7mi East - SouthEast,75%,7mi,"1008""",38f.,50%,0%
+17,Indianapolis Colts,27,Tennessee Titans,10,Overcast,12/28/2014,41f.,38f.,5mi NorthWest,90%,7mi,"1021""",39f.,100%,0%
+17,San Diego Chargers,7,Kansas City Chiefs,19,Clear,12/28/2014,37f.,33f.,5mi SouthWest,56%,10mi,"1023""",23f.,0%,0%
+17,New York Jets,37,Miami Dolphins,24,Partly Cloudy,12/28/2014,80f.,83f.,7mi SouthEast,70%,10mi,"1020""",69f.,54%,0%
+17,Chicago Bears,9,Minnesota Vikings,13,Mostly Cloudy,12/28/2014,22f.,16f.,4mi North,82%,8mi,"1024""",17f.,88%,0%
+17,Buffalo Bills,17,New England Patriots,9,Overcast,12/28/2014,49f.,45f.,8mi West,73%,9mi,"1010""",40f.,96%,0%
+17,Philadelphia Eagles,34,New York Giants,26,Mostly Cloudy,12/28/2014,51f.,51f.,6mi West - NorthWest,74%,9mi,"1013""",43f.,60%,0%
+17,New Orleans Saints,23,Tampa Bay Buccaneers,20,Partly Cloudy,12/28/2014,77f.,77f.,7mi South - SouthWest,70%,9mi,"1019""",67f.,59%,0%
+17,Dallas Cowboys,44,Washington Redskins,17,Mostly Cloudy,12/28/2014,57f.,57f.,4mi West - NorthWest,60%,10mi,"1015""",43f.,72%,32%
+17,Cleveland Browns,10,Baltimore Ravens,20,Overcast,12/28/2014,56f.,56f.,3mi West - NorthWest,62%,10mi,"1014""",43f.,100%,0%
+17,Jacksonville Jaguars,17,Houston Texans,23,Drizzle,12/28/2014,43f.,38f.,8mi NorthWest,92%,7mi,"1022""",40f.,100%,82%
+17,Carolina Panthers,34,Atlanta Falcons,3,Overcast,12/28/2014,58f.,58f.,2mi West,96%,8mi,"1017""",57f.,100%,0%
+17,Detroit Lions,20,Green Bay Packers,30,Overcast,12/28/2014,25f.,18f.,6mi NorthWest,75%,7mi,"1022""",18f.,95%,0%
+17,Oakland Raiders,14,Denver Broncos,47,Partly Cloudy,12/28/2014,33f.,33f.,0mi NorthWest,53%,6mi,"1013""",18f.,44%,0%
+17,Arizona Cardinals,17,San Francisco 49ers,20,Clear,12/28/2014,56f.,56f.,5mi NorthWest,56%,9mi,"1024""",41f.,0%,0%
+17,St. Louis Rams,6,Seattle Seahawks,20,Mostly Cloudy,12/28/2014,43f.,43f.,1mi South - SouthWest,82%,10mi,"1022""",38f.,93%,0%
+17,Cincinnati Bengals,17,Pittsburgh Steelers,27,Overcast,12/28/2014,35f.,35f.,1mi West - NorthWest,87%,9mi,"1021""",32f.,100%,3%

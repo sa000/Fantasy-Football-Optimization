@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Mike Adams,Indianapolis Colts,1,8,3,0.0,2,2,0,0,Away,New England Patriots
+Joe Haden,Cleveland Browns,1,10,3,0.0,1,1,0,0,Away,Houston Texans
+Earl Thomas,Seattle Seahawks,1,10,1,0.0,1,0,2,0,Home,Kansas City Chiefs
+William Gay,Pittsburgh Steelers,1,2,1,0.0,1,1,0,0,Home,Tennessee Titans
+Johnthan Banks,Tampa Bay Buccaneers,1,2,0,0.0,1,1,0,0,Home,Washington Redskins
+Jason McCourty,Tennessee Titans,1,7,0,0.0,1,1,0,0,Away,Pittsburgh Steelers
+Kemal Ishmael,Atlanta Falcons,1,5,1,0.0,2,1,0,0,Home,Carolina Panthers
+Charles Woodson,Oakland Raiders,1,11,3,0.0,0,0,0,0,Home,San Diego Chargers
+Chris Culliver,San Francisco 49ers,1,3,2,0.0,3,1,0,0,Home,New York Giants
+Rashad Johnson,Arizona Cardinals,1,4,2,0.0,1,1,0,0,Away,Detroit Lions
+Ron Parker,Kansas City Chiefs,1,11,0,0.0,0,0,0,0,Away,Seattle Seahawks
+A.J. Bouye,Houston Texans,1,9,1,0.0,1,0,0,0,Home,Cleveland Browns
+Eric Reid,San Francisco 49ers,1,3,0,0.0,2,1,0,0,Home,New York Giants
+Tramon Williams,Green Bay Packers,1,4,0,0.0,1,1,0,0,Away,Philadelphia Eagles
+Xavier Rhodes,Minnesota Vikings,1,3,1,0.0,1,1,0,0,Home,Chicago Bears
+Da'Norris Searcy,Buffalo Bills,1,6,1,0.0,0,0,1,0,Home,Miami Dolphins
+E.J. Gaines,St. Louis Rams,1,6,2,0.0,2,0,0,0,Away,Denver Broncos
+Corey Graham,Buffalo Bills,1,7,0,0.0,2,0,0,0,Home,Miami Dolphins
+Trumaine Johnson,St. Louis Rams,1,2,0,0.0,2,1,0,0,Away,Denver Broncos
+Devin McCourty,New England Patriots,1,3,0,0.0,1,1,0,0,Home,Indianapolis Colts
+Josh Robinson,Minnesota Vikings,1,8,0,0.0,1,0,0,0,Home,Chicago Bears
+Harrison Smith,Minnesota Vikings,1,3,0,0.0,1,1,0,0,Home,Chicago Bears
+Morgan Burnett,Green Bay Packers,1,7,3,0.0,0,0,0,0,Away,Philadelphia Eagles
+Michael Griffin,Tennessee Titans,1,5,2,0.0,2,0,0,0,Away,Pittsburgh Steelers
+Cassius Vaughn,Detroit Lions,1,2,0,0.0,1,1,0,0,Home,Arizona Cardinals
+Robert Blanton,Minnesota Vikings,1,6,1,0.0,1,0,0,0,Home,Chicago Bears
+T.J. McDonald,St. Louis Rams,1,4,1,0.0,3,0,0,0,Away,Denver Broncos
+Captain Munnerlyn,Minnesota Vikings,1,6,1,0.0,1,0,0,0,Home,Chicago Bears
+Donte Whitner,Cleveland Browns,1,5,5,0.0,0,0,0,0,Away,Houston Texans
+George Wilson,Tennessee Titans,1,7,1,0.0,0,0,0,0,Away,Pittsburgh Steelers
+Major Wright,Tampa Bay Buccaneers,1,6,3,0.0,0,0,0,0,Home,Washington Redskins
+Ha'Sean Clinton-Dix,Green Bay Packers,1,6,2,0.0,0,0,0,0,Away,Philadelphia Eagles
+James Ihedigbo,Detroit Lions,1,5,0,0.0,2,0,0,0,Home,Arizona Cardinals
+Josh Norman,Carolina Panthers,1,5,2,0.0,1,0,0,0,Away,Atlanta Falcons
+Jerraud Powers,Arizona Cardinals,1,2,0,1.0,1,0,0,0,Away,Detroit Lions
+Brandian Ross,Oakland Raiders,1,6,2,0.0,0,0,0,0,Home,San Diego Chargers
+Jamar Taylor,Miami Dolphins,1,7,0,0.0,0,0,0,0,Away,Buffalo Bills
+Greg Toler,Indianapolis Colts,1,6,2,0.0,0,0,0,0,Away,New England Patriots
+Desmond Trufant,Atlanta Falcons,1,0,0,0.0,2,1,0,0,Home,Carolina Panthers
+Cary Williams,Philadelphia Eagles,1,7,0,0.0,0,0,0,0,Home,Green Bay Packers
+K'Waun Williams,Cleveland Browns,1,4,4,0.0,1,0,0,0,Away,Houston Texans
+Bradley Fletcher,Philadelphia Eagles,1,4,1,0.0,2,0,0,0,Home,Green Bay Packers
+Marcus Gilchrist,San Diego Chargers,1,6,1,0.0,0,0,0,0,Away,Oakland Raiders
+Roman Harper,Carolina Panthers,1,5,3,0.0,0,0,0,0,Away,Atlanta Falcons
+Eric Berry,Kansas City Chiefs,1,5,0,0.0,1,0,0,0,Away,Seattle Seahawks
+Antoine Bethea,San Francisco 49ers,1,3,2,0.0,2,0,0,0,Home,New York Giants
+Kam Chancellor,Seattle Seahawks,1,6,0,0.0,0,0,0,0,Home,Kansas City Chiefs
+Perrish Cox,San Francisco 49ers,1,6,0,0.0,0,0,0,0,Home,New York Giants
+Louis Delmas,Miami Dolphins,1,5,0,0.0,1,0,0,0,Away,Buffalo Bills
+Darqueze Dennard,Cincinnati Bengals,1,2,0,0.0,1,0,1,0,Home,New Orleans Saints

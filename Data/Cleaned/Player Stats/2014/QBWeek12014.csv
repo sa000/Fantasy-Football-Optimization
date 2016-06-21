@@ -1,0 +1,35 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Matt Ryan,Atlanta Falcons,1,31,43,448,3,0,3,15,0,Away,New Orleans Saints
+Andrew Luck,Indianapolis Colts,1,35,53,370,2,2,5,19,1,Home,Denver Broncos
+Matthew Stafford,Detroit Lions,1,22,32,346,2,0,4,2,1,Away,New York Giants
+Carson Palmer,Arizona Cardinals,1,24,37,304,2,0,4,29,0,Away,San Diego Chargers
+Jay Cutler,Chicago Bears,1,34,49,349,2,2,0,0,0,Away,Buffalo Bills
+Peyton Manning,Denver Broncos,1,22,36,269,3,0,4,-3,0,Away,Indianapolis Colts
+Nick Foles,Philadelphia Eagles,1,27,45,322,2,1,0,0,0,Away,Jacksonville Jaguars
+Ben Roethlisberger,Pittsburgh Steelers,1,23,34,365,1,1,2,8,0,Away,Cleveland Browns
+Jake Locker,Tennessee Titans,1,22,33,266,2,0,6,14,0,Home,Kansas City Chiefs
+Chad Henne,Jacksonville Jaguars,1,24,43,266,2,0,1,8,0,Home,Philadelphia Eagles
+Joe Flacco,Baltimore Ravens,1,35,62,345,1,1,3,7,0,Away,Cincinnati Bengals
+Drew Brees,New Orleans Saints,1,29,42,333,1,1,1,2,0,Home,Atlanta Falcons
+EJ Manuel,Buffalo Bills,1,16,22,173,1,1,6,19,1,Home,Chicago Bears
+Derek Anderson,Carolina Panthers,1,24,34,230,2,0,3,10,0,Home,Tampa Bay Buccaneers
+Russell Wilson,Seattle Seahawks,1,19,28,191,2,0,7,29,0,Away,Green Bay Packers
+Josh McCown,Tampa Bay Buccaneers,1,22,35,183,2,2,3,27,0,Away,Carolina Panthers
+Andy Dalton,Cincinnati Bengals,1,25,38,301,1,0,6,3,0,Home,Baltimore Ravens
+Colin Kaepernick,San Francisco 49ers,1,16,23,201,2,0,5,11,0,Home,Dallas Cowboys
+Geno Smith,New York Jets,1,23,28,221,1,1,10,38,0,Away,Oakland Raiders
+Tony Romo,Dallas Cowboys,1,23,37,281,1,3,0,0,0,Away,San Francisco 49ers
+Alex Smith,Kansas City Chiefs,1,19,35,202,1,3,6,36,0,Away,Tennessee Titans
+Philip Rivers,San Diego Chargers,1,21,36,238,1,1,2,10,0,Home,Arizona Cardinals
+Tom Brady,New England Patriots,1,29,56,249,1,0,1,3,0,Home,Miami Dolphins
+Ryan Tannehill,Miami Dolphins,1,18,32,178,2,1,3,-2,0,Away,New England Patriots
+Matt Cassel,Minnesota Vikings,1,17,25,170,2,0,3,-2,0,Home,St. Louis Rams
+Derek Carr,Oakland Raiders,1,20,32,151,2,0,1,-1,0,Home,New York Jets
+Ryan Fitzpatrick,Houston Texans,1,14,22,206,1,0,4,10,0,Away,Washington Redskins
+Brian Hoyer,Cleveland Browns,1,19,31,230,1,0,1,-2,0,Home,Pittsburgh Steelers
+Robert Griffin III,Washington Redskins,1,29,37,267,0,0,3,2,0,Home,Houston Texans
+Aaron Rodgers,Green Bay Packers,1,23,33,189,1,1,0,0,0,Home,Seattle Seahawks
+Eli Manning,New York Giants,1,18,33,163,1,2,0,0,0,Home,Detroit Lions
+Austin Davis,St. Louis Rams,1,16,23,192,0,1,1,0,0,Away,Minnesota Vikings
+Shaun Hill,St. Louis Rams,1,8,13,81,0,1,1,-1,0,Away,Minnesota Vikings
+Michael Vick,New York Jets,1,0,1,0,0,0,0,0,0,Away,Oakland Raiders

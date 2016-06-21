@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Bruce Irvin,Seattle Seahawks,1,3,2,1.0,1,1,1,0,Away,St. Louis Rams
+J.J. Watt,Houston Texans,1,6,0,3.0,0,0,1,0,Away,Jacksonville Jaguars
+Star Lotulelei,Carolina Panthers,1,7,0,2.0,0,0,0,0,Home,Atlanta Falcons
+Jason Pierre-Paul,New York Giants,1,4,1,2.0,0,0,0,0,Away,Philadelphia Eagles
+Aaron Donald,St. Louis Rams,1,2,5,1.0,0,0,1,0,Home,Seattle Seahawks
+Cameron Heyward,Pittsburgh Steelers,1,6,1,1.0,1,0,0,0,Away,Cincinnati Bengals
+Justin Tuck,Oakland Raiders,1,4,1,1.0,0,0,1,0,Home,Denver Broncos
+Cameron Jordan,New Orleans Saints,1,4,2,1.5,0,0,0,0,Home,Tampa Bay Buccaneers
+DaQuan Jones,Tennessee Titans,1,3,1,1.0,0,0,1,0,Away,Indianapolis Colts
+Quinton Coples,New York Jets,1,2,0,2.0,0,0,0,0,Home,Miami Dolphins
+Terrell McClain,Dallas Cowboys,1,2,2,1.0,0,0,1,0,Home,Washington Redskins
+Jarius Wynn,Buffalo Bills,1,2,2,1.5,0,0,0,0,Home,New England Patriots
+Chris Clemons,Jacksonville Jaguars,1,1,1,1.0,0,0,1,0,Home,Houston Texans
+Jordan Hill,Seattle Seahawks,1,0,1,0.5,1,1,0,0,Away,St. Louis Rams
+Clinton McDonald,Tampa Bay Buccaneers,1,3,1,1.0,1,0,0,0,Away,New Orleans Saints
+Jeremy Mincey,Dallas Cowboys,1,3,3,1.0,0,0,0,0,Home,Washington Redskins
+Jackson Jeffcoat,Washington Redskins,1,1,2,0.0,1,1,0,0,Away,Dallas Cowboys
+Jay Ratliff,Chicago Bears,1,2,4,1.0,0,0,0,0,Home,Minnesota Vikings
+Ndamukong Suh,Detroit Lions,1,6,1,0.0,1,0,0,0,Home,Green Bay Packers
+Tyson Alualu,Jacksonville Jaguars,1,2,2,1.0,0,0,0,0,Home,Houston Texans
+Allen Bailey,Kansas City Chiefs,1,3,0,1.0,0,0,0,0,Away,San Diego Chargers
+David Bass,Chicago Bears,1,2,2,1.0,0,0,0,0,Home,Minnesota Vikings
+Cornellius Carradine,San Francisco 49ers,1,3,0,1.0,0,0,0,0,Away,Arizona Cardinals
+Sheldon Richardson,New York Jets,1,3,0,1.0,0,0,0,0,Home,Miami Dolphins
+Randy Starks,Miami Dolphins,1,3,0,1.0,0,0,0,0,Away,New York Jets
+Mike Daniels,Green Bay Packers,1,2,1,1.0,0,0,0,0,Away,Detroit Lions
+Letroy Guion,Green Bay Packers,1,3,1,0.0,0,0,1,0,Away,Detroit Lions
+Jason Jones,Detroit Lions,1,2,1,1.0,0,0,0,0,Home,Green Bay Packers
+Markus Kuhn,New York Giants,1,2,1,1.0,0,0,0,0,Away,Philadelphia Eagles
+Dontari Poe,Kansas City Chiefs,1,2,1,1.0,0,0,0,0,Away,San Diego Chargers
+Akeem Spence,Tampa Bay Buccaneers,1,2,1,1.0,0,0,0,0,Away,New Orleans Saints
+Deangelo Tyson,Baltimore Ravens,1,2,1,1.0,0,0,0,0,Away,Cleveland Browns
+Calais Campbell,Arizona Cardinals,1,5,0,0.0,1,0,0,0,Home,San Francisco 49ers
+Fletcher Cox,Philadelphia Eagles,1,5,2,0.0,0,0,0,0,Home,New York Giants
+Jared Crick,Houston Texans,1,1,0,1.0,1,0,0,0,Away,Jacksonville Jaguars
+Charles Johnson,Carolina Panthers,1,2,0,1.0,0,0,0,0,Home,Atlanta Falcons
+Corey Liuget,San Diego Chargers,1,2,0,1.0,0,0,0,0,Home,Kansas City Chiefs
+Aaron Lynch,San Francisco 49ers,1,2,0,1.0,0,0,0,0,Away,Arizona Cardinals
+O'Brien Schofield,Seattle Seahawks,1,2,0,1.0,0,0,0,0,Away,St. Louis Rams
+George Selvie,Dallas Cowboys,1,2,0,1.0,0,0,0,0,Home,Washington Redskins
+Muhammad Wilkerson,New York Jets,1,2,2,0.5,1,0,0,0,Home,Miami Dolphins
+Kevin Williams,Seattle Seahawks,1,1,1,1.0,0,0,0,0,Away,St. Louis Rams
+Ziggy Ansah,Detroit Lions,1,4,2,0.0,0,0,0,0,Home,Green Bay Packers
+Stefan Charles,Buffalo Bills,1,1,0,1.0,0,0,0,0,Home,New England Patriots
+Kony Ealy,Carolina Panthers,1,1,0,1.0,0,0,0,0,Home,Atlanta Falcons
+Sammie Lee Hill,Tennessee Titans,1,5,0,0.0,0,0,0,0,Away,Indianapolis Colts
+Wes Horton,Carolina Panthers,1,1,0,1.0,0,0,0,0,Home,Atlanta Falcons
+Mario Williams,Buffalo Bills,1,1,0,1.0,0,0,0,0,Home,New England Patriots
+Corey Wootton,Minnesota Vikings,1,1,0,1.0,0,0,0,0,Away,Chicago Bears
+Andre Fluellen,Detroit Lions,1,4,1,0.0,0,0,0,0,Home,Green Bay Packers

@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Michael Johnson,Tampa Bay Buccaneers,1,4,1,2.0,0,0,1,0,Home,Pittsburgh Steelers
+J.J. Watt,Houston Texans,1,2,3,0.0,1,1,0,0,Away,Buffalo Bills
+Derrick Shelby,Miami Dolphins,1,3,0,2.0,0,0,0,0,Home,Oakland Raiders
+Muhammad Wilkerson,New York Jets,1,2,6,1.5,0,0,0,0,Away,Detroit Lions
+Connor Barwin,Philadelphia Eagles,1,5,2,1.0,0,0,0,0,Home,San Francisco 49ers
+Mathias Kiwanuka,New York Giants,1,2,2,1.0,0,0,1,0,Home,Washington Redskins
+Sheldon Richardson,New York Jets,1,4,4,1.0,0,0,0,0,Away,Detroit Lions
+Jared Crick,Houston Texans,1,1,3,1.5,0,0,0,0,Away,Buffalo Bills
+Cory Redding,Indianapolis Colts,1,4,1,1.0,0,0,0,0,Away,Tennessee Titans
+Marcell Dareus,Buffalo Bills,1,4,0,1.0,0,0,0,0,Home,Houston Texans
+Da'Quan Bowers,Tampa Bay Buccaneers,1,2,3,1.0,0,0,0,0,Home,Pittsburgh Steelers
+Roy Miller,Jacksonville Jaguars,1,3,1,1.0,0,0,0,0,Home,San Diego Chargers
+Damontre Moore,New York Giants,1,3,1,1.0,0,0,0,0,Home,Washington Redskins
+Kroy Biermann,Atlanta Falcons,1,6,1,0.0,0,0,0,0,Home,Minnesota Vikings
+Brandon Graham,Philadelphia Eagles,1,2,1,1.0,0,0,0,0,Home,San Francisco 49ers
+Gerald McCoy,Tampa Bay Buccaneers,1,1,1,1.0,1,0,0,0,Home,Pittsburgh Steelers
+Jack Crawford,Dallas Cowboys,1,1,2,1.0,0,0,0,0,Away,New Orleans Saints
+Nick Fairley,Detroit Lions,1,1,2,1.0,0,0,0,0,Home,New York Jets
+Ego Ferguson,Chicago Bears,1,2,0,1.0,0,0,0,0,Away,Green Bay Packers
+Cameron Heyward,Pittsburgh Steelers,1,2,0,1.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Datone Jones,Green Bay Packers,1,2,0,1.0,0,0,0,0,Home,Chicago Bears
+Zach Kerr,Indianapolis Colts,1,2,0,1.0,0,0,0,0,Away,Tennessee Titans
+Cedric Thornton,Philadelphia Eagles,1,6,0,0.0,0,0,0,0,Home,San Francisco 49ers
+Ricardo Mathews,San Diego Chargers,1,1,1,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Vinny Curry,Philadelphia Eagles,1,1,0,1.0,0,0,0,0,Home,San Francisco 49ers
+Henry Melton,Dallas Cowboys,1,1,0,1.0,0,0,0,0,Away,New Orleans Saints
+Pat Sims,Oakland Raiders,1,2,0,0.0,0,0,1,0,Away,Miami Dolphins
+Joe Vellano,New England Patriots,1,1,0,1.0,0,0,0,0,Home,Kansas City Chiefs
+Vince Wilfork,New England Patriots,1,5,0,0.0,0,0,0,0,Home,Kansas City Chiefs
+Ian Williams,San Francisco 49ers,1,1,0,1.0,0,0,0,0,Away,Philadelphia Eagles
+C.J. Wilson,Oakland Raiders,1,4,1,0.0,0,0,0,0,Away,Miami Dolphins
+Ziggy Ansah,Detroit Lions,1,3,2,0.0,0,0,0,0,Home,New York Jets
+Red Bryant,Jacksonville Jaguars,1,1,2,0.5,0,0,0,0,Home,San Diego Chargers
+Tyson Jackson,Atlanta Falcons,1,1,4,0.0,1,0,0,0,Home,Minnesota Vikings
+Ricky Jean-Francois,Indianapolis Colts,1,1,0,0.0,1,0,0,1,Away,Tennessee Titans
+Jason Pierre-Paul,New York Giants,1,1,6,0.0,0,0,0,0,Home,Washington Redskins
+Kawann Short,Carolina Panthers,1,3,2,0.0,0,0,0,0,Home,Baltimore Ravens
+Fletcher Cox,Philadelphia Eagles,1,3,1,0.0,0,0,0,0,Home,San Francisco 49ers
+Sammie Lee Hill,Tennessee Titans,1,2,1,0.0,1,0,0,0,Home,Indianapolis Colts
+Jaye Howard,Kansas City Chiefs,1,3,1,0.0,0,0,0,0,Away,New England Patriots
+Chris Jones,New England Patriots,1,1,1,0.5,0,0,0,0,Home,Kansas City Chiefs
+Sen'Derrick Marks,Jacksonville Jaguars,1,1,1,0.5,0,0,0,0,Home,San Diego Chargers
+Ray McDonald,San Francisco 49ers,1,3,1,0.0,0,0,0,0,Away,Philadelphia Eagles
+Kamerion Wimbley,Tennessee Titans,1,2,3,0.0,0,0,0,0,Home,Indianapolis Colts
+Brodrick Bunkley,New Orleans Saints,1,2,2,0.0,0,0,0,0,Home,Dallas Cowboys
+Chris Canty,Baltimore Ravens,1,0,4,0.0,1,0,0,0,Away,Carolina Panthers
+Jurrell Casey,Tennessee Titans,1,2,2,0.0,0,0,0,0,Home,Indianapolis Colts
+William Gholston,Tampa Bay Buccaneers,1,2,2,0.0,0,0,0,0,Home,Pittsburgh Steelers
+Linval Joseph,Minnesota Vikings,1,2,2,0.0,0,0,0,0,Away,Atlanta Falcons
+Clinton McDonald,Tampa Bay Buccaneers,1,2,2,0.0,0,0,0,0,Home,Pittsburgh Steelers

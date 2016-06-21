@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Jordan Hicks,Philadelphia Eagles,1,6,1,0.0,1,1,0,0,Home,Dallas Cowboys
+Jerry Hughes,Buffalo Bills,1,3,0,2.0,0,0,1,1,Away,Miami Dolphins
+Thomas Davis,Carolina Panthers,1,4,2,1.0,1,1,0,0,Away,Green Bay Packers
+Danny Trevathan,Denver Broncos,1,6,13,0.0,1,0,0,0,Home,Indianapolis Colts
+Brian Orakpo,Tennessee Titans,1,3,1,2.0,1,0,0,0,Home,New Orleans Saints
+Melvin Ingram,San Diego Chargers,1,5,0,1.0,0,0,1,0,Away,Chicago Bears
+Jonathan Anderson,Chicago Bears,1,11,1,0.0,0,0,0,0,Home,San Diego Chargers
+Navorro Bowman,San Francisco 49ers,1,6,1,1.0,1,0,0,0,Away,Atlanta Falcons
+Keenan Robinson,Washington Redskins,1,4,3,0.0,1,1,0,0,Home,New England Patriots
+Jasper Brinkley,New York Giants,1,5,2,0.0,0,0,1,1,Home,Tampa Bay Buccaneers
+Lorenzo Mauldin,New York Jets,1,2,2,2.0,0,0,0,0,Away,Jacksonville Jaguars
+Calvin Pace,New York Jets,1,1,2,1.0,0,0,1,1,Away,Jacksonville Jaguars
+Telvin Smith,Jacksonville Jaguars,1,5,2,0.0,2,0,1,0,Home,New York Jets
+Wesley Woodyard,Tennessee Titans,1,6,2,1.0,0,0,0,0,Home,New Orleans Saints
+Lamarr Houston,Chicago Bears,1,2,0,2.0,0,0,0,0,Home,San Diego Chargers
+Ryan Shazier,Pittsburgh Steelers,1,6,1,0.0,0,0,1,0,Away,Oakland Raiders
+Karlos Dansby,Cleveland Browns,1,7,4,0.0,0,0,0,0,Home,Cincinnati Bengals
+Chad Greenway,Minnesota Vikings,1,8,2,0.0,0,0,0,0,Away,St. Louis Rams
+Christian Jones,Chicago Bears,1,5,2,0.0,1,0,0,1,Home,San Diego Chargers
+Mychal Kendricks,Philadelphia Eagles,1,5,0,1.0,0,0,0,0,Home,Dallas Cowboys
+Philip Wheeler,Atlanta Falcons,1,8,2,0.0,0,0,0,0,Home,San Francisco 49ers
+Kavell Conner,San Diego Chargers,1,7,1,0.0,1,0,0,0,Away,Chicago Bears
+Lavonte David,Tampa Bay Buccaneers,1,6,5,0.0,0,0,0,0,Away,New York Giants
+Luke Kuechly,Carolina Panthers,1,6,3,0.0,1,0,0,0,Away,Green Bay Packers
+Michael Mauti,New Orleans Saints,1,6,4,0.0,0,0,0,0,Away,Tennessee Titans
+Jake Ryan,Green Bay Packers,1,6,4,0.0,0,0,0,0,Home,Carolina Panthers
+Kwon Alexander,Tampa Bay Buccaneers,1,5,5,0.0,0,0,0,0,Away,New York Giants
+Chandler Jones,New England Patriots,1,3,1,1.0,0,0,0,0,Away,Washington Redskins
+Akeem Ayers,St. Louis Rams,1,4,0,0.0,0,0,1,0,Home,Minnesota Vikings
+Preston Brown,Buffalo Bills,1,5,2,0.0,1,0,0,0,Away,Miami Dolphins
+Will Compton,Washington Redskins,1,4,6,0.0,0,0,0,0,Home,New England Patriots
+James Laurinaitis,St. Louis Rams,1,6,2,0.0,0,0,0,0,Home,Minnesota Vikings
+Aldon Smith,Oakland Raiders,1,3,0,1.0,0,0,0,0,Home,Pittsburgh Steelers
+Anthony Barr,Minnesota Vikings,1,5,1,0.0,1,0,0,0,Away,St. Louis Rams
+David Hawthorne,New Orleans Saints,1,3,1,0.0,0,0,1,0,Away,Tennessee Titans
+Jonathan Casillas,New York Giants,1,6,0,0.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Jonathan Freeny,New England Patriots,1,2,2,0.0,0,0,1,0,Away,Washington Redskins
+Paul Kruger,Cleveland Browns,1,2,0,1.0,0,0,0,0,Home,Cincinnati Bengals
+Brandon Marshall,Denver Broncos,1,3,6,0.0,0,0,0,0,Home,Indianapolis Colts
+Nick Perry,Green Bay Packers,1,3,4,0.0,1,0,0,0,Home,Carolina Panthers
+Vincent Rey,Cincinnati Bengals,1,5,0,0.0,1,0,0,0,Away,Cleveland Browns
+Stephone Anthony,New Orleans Saints,1,3,5,0.0,0,0,0,0,Away,Tennessee Titans
+Nigel Bradham,Buffalo Bills,1,4,3,0.0,0,0,0,0,Away,Miami Dolphins
+Lawrence Timmons,Pittsburgh Steelers,1,4,1,0.0,1,0,0,0,Away,Oakland Raiders
+Avery Williamson,Tennessee Titans,1,4,3,0.0,0,0,0,0,Home,New Orleans Saints
+Zach Brown,Tennessee Titans,1,5,0,0.0,0,0,0,0,Home,New Orleans Saints
+Koa Misi,Miami Dolphins,1,5,0,0.0,0,0,0,0,Home,Buffalo Bills
+Paul Posluszny,Jacksonville Jaguars,1,3,4,0.0,0,0,0,0,Home,New York Jets
+Paul Worrilow,Atlanta Falcons,1,5,0,0.0,0,0,0,0,Home,San Francisco 49ers
+Willie Young,Chicago Bears,1,4,0,0.0,1,0,0,0,Home,San Diego Chargers

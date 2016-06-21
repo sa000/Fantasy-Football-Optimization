@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Justin Gilbert,Cleveland Browns,1,3,1,0.0,1,1,0,0,Away,Indianapolis Colts
+Jim Leonhard,Cleveland Browns,1,4,3,1.0,1,1,0,0,Away,Indianapolis Colts
+Chris Harris,Denver Broncos,1,5,0,1.0,1,1,0,0,Away,Buffalo Bills
+Dwight Lowery,Atlanta Falcons,1,11,2,0.0,0,0,1,0,Home,Green Bay Packers
+Orlando Scandrick,Dallas Cowboys,1,9,0,0.0,1,1,0,0,Home,Chicago Bears
+Bene Benwikere,Carolina Panthers,1,6,2,0.0,2,1,0,0,Home,New Orleans Saints
+Marqueston Huff,Tennessee Titans,1,2,0,0.0,1,1,0,0,Away,New York Giants
+Charles Woodson,Oakland Raiders,1,7,1,0.0,1,1,0,0,Away,San Francisco 49ers
+David Bruton,Denver Broncos,1,9,0,0.0,1,0,1,0,Away,Buffalo Bills
+Morgan Burnett,Green Bay Packers,1,6,2,0.0,1,1,0,0,Away,Atlanta Falcons
+Rodney McLeod,St. Louis Rams,1,4,0,0.0,1,1,1,0,Home,Washington Redskins
+Corey Graham,Buffalo Bills,1,4,1,0.0,1,1,0,1,Home,Denver Broncos
+R.J. Stanford,Miami Dolphins,1,6,1,0.0,1,1,0,0,Away,Baltimore Ravens
+Patrick Peterson,Arizona Cardinals,1,8,0,1.0,0,0,0,0,Away,Kansas City Chiefs
+Bradley Roby,Denver Broncos,1,9,0,0.0,0,0,1,0,Away,Buffalo Bills
+Jaiquawn Jarrett,New York Jets,1,8,0,0.0,0,0,1,0,Home,Minnesota Vikings
+Brandian Ross,Oakland Raiders,1,5,0,0.0,1,1,0,0,Away,San Francisco 49ers
+James Ihedigbo,Detroit Lions,1,4,1,0.0,1,1,0,0,Away,Tampa Bay Buccaneers
+Harrison Smith,Minnesota Vikings,1,5,3,1.0,0,0,0,0,Away,New York Jets
+Jahleel Addae,San Diego Chargers,1,6,2,0.0,0,0,1,0,Away,New England Patriots
+Glover Quin,Detroit Lions,1,2,0,0.0,3,1,0,0,Away,Tampa Bay Buccaneers
+Mike Adams,Indianapolis Colts,1,3,1,0.0,1,1,0,0,Home,Cleveland Browns
+Michael Griffin,Tennessee Titans,1,9,1,0.0,0,0,0,0,Away,New York Giants
+Jason McCourty,Tennessee Titans,1,9,1,0.0,0,0,0,0,Away,New York Giants
+D.J. Swearinger,Houston Texans,1,3,1,0.0,1,1,0,0,Home,Jacksonville Jaguars
+Ryan Clark,Washington Redskins,1,8,2,0.0,0,0,0,0,Away,St. Louis Rams
+Quintin Demps,New York Giants,1,3,0,0.0,1,1,0,0,Home,Tennessee Titans
+Joe Haden,Cleveland Browns,1,4,0,0.0,2,0,1,0,Away,Indianapolis Colts
+Reshad Jones,Miami Dolphins,1,8,2,0.0,0,0,0,0,Away,Baltimore Ravens
+Darrin Walls,New York Jets,1,2,0,0.0,2,1,0,0,Home,Minnesota Vikings
+Pierre Warren,New Orleans Saints,1,6,2,0.0,2,0,0,0,Away,Carolina Panthers
+Ron Parker,Kansas City Chiefs,1,8,1,0.0,0,0,0,0,Home,Arizona Cardinals
+Robert Blanton,Minnesota Vikings,1,5,6,0.0,0,0,0,0,Away,New York Jets
+Stephon Gilmore,Buffalo Bills,1,1,2,0.0,1,1,0,0,Home,Denver Broncos
+Brandon Harris,Tennessee Titans,1,6,0,0.0,2,0,0,0,Away,New York Giants
+Malcolm Jenkins,Philadelphia Eagles,1,5,0,0.0,1,0,0,1,Away,Seattle Seahawks
+Trumaine Johnson,St. Louis Rams,1,6,2,0.0,1,0,0,0,Home,Washington Redskins
+T.J. McDonald,St. Louis Rams,1,0,4,0.0,1,1,0,0,Home,Washington Redskins
+Mark Barron,St. Louis Rams,1,3,1,1.0,0,0,0,0,Home,Washington Redskins
+Buster Skrine,Cleveland Browns,1,4,1,0.0,3,0,0,0,Away,Indianapolis Colts
+Antoine Bethea,San Francisco 49ers,1,7,0,0.0,0,0,0,0,Home,Oakland Raiders
+Marcus Burley,Seattle Seahawks,1,3,0,1.0,0,0,0,0,Home,Philadelphia Eagles
+T.J. Carrie,Oakland Raiders,1,7,0,0.0,0,0,0,0,Away,San Francisco 49ers
+Josh Gordy,Indianapolis Colts,1,1,0,0.0,1,1,0,0,Home,Cleveland Browns
+Mike Harris,New York Giants,1,3,0,1.0,0,0,0,0,Home,Tennessee Titans
+Kemal Ishmael,Atlanta Falcons,1,5,2,0.0,1,0,0,0,Home,Green Bay Packers
+Rashean Mathis,Detroit Lions,1,4,2,0.0,2,0,0,0,Away,Tampa Bay Buccaneers
+Terence Newman,Cincinnati Bengals,1,3,4,0.0,2,0,0,0,Away,Pittsburgh Steelers
+Josh Norman,Carolina Panthers,1,4,0,0.0,0,0,1,0,Home,New Orleans Saints
+Xavier Rhodes,Minnesota Vikings,1,4,0,0.0,3,0,0,0,Away,New York Jets

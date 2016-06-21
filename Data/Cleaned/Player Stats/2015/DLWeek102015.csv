@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+"Mario Edwards, Jr.",Oakland Raiders,1,8,3,1.0,0,0,0,0,Away,Minnesota Vikings
+Linval Joseph,Minnesota Vikings,1,5,3,1.0,0,0,1,0,Home,Oakland Raiders
+Aaron Donald,St. Louis Rams,1,3,4,1.5,0,0,0,1,Away,Chicago Bears
+Muhammad Wilkerson,New York Jets,1,3,3,2.0,0,0,0,0,Away,Buffalo Bills
+Shea McClellin,Chicago Bears,1,6,2,0.0,0,0,1,1,Home,St. Louis Rams
+Ndamukong Suh,Miami Dolphins,1,7,1,1.0,0,0,0,0,Home,Philadelphia Eagles
+Cliff Avril,Seattle Seahawks,1,3,2,1.0,0,0,1,0,Away,Arizona Cardinals
+Jaye Howard,Kansas City Chiefs,1,3,1,1.0,0,0,1,0,Home,Denver Broncos
+Derrick Shelby,Miami Dolphins,1,3,1,1.0,0,0,1,0,Home,Philadelphia Eagles
+Malcom Brown,New England Patriots,1,4,3,1.0,0,0,0,0,Home,New York Giants
+Abry Jones,Jacksonville Jaguars,1,1,3,1.0,0,0,1,0,Home,Baltimore Ravens
+Robert Ayers,New York Giants,1,2,0,1.0,0,0,1,0,Away,New England Patriots
+Tyrone Crawford,Dallas Cowboys,1,3,2,1.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Jason Jones,Detroit Lions,1,3,0,1.0,1,0,0,0,Home,Green Bay Packers
+Obum Gwacham,New Orleans Saints,1,1,1,1.5,0,0,0,0,Home,Washington Redskins
+Rob Ninkovich,New England Patriots,1,3,1,1.0,0,0,0,0,Home,New York Giants
+Nate Orchard,Cleveland Browns,1,3,1,0.0,1,0,1,0,Home,Pittsburgh Steelers
+Demarcus Lawrence,Dallas Cowboys,1,3,0,1.0,0,0,0,0,Home,Tampa Bay Buccaneers
+Caraun Reid,Detroit Lions,1,2,2,1.0,0,0,0,0,Home,Green Bay Packers
+Ahtyba Rubin,Seattle Seahawks,1,3,0,1.0,0,0,0,0,Away,Arizona Cardinals
+Brandon Williams,Baltimore Ravens,1,3,0,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Connor Barwin,Philadelphia Eagles,1,2,3,0.5,1,0,0,0,Away,Miami Dolphins
+Marcell Dareus,Buffalo Bills,1,2,1,1.0,0,0,0,0,Home,New York Jets
+Everson Griffen,Minnesota Vikings,1,2,1,1.0,0,0,0,0,Home,Oakland Raiders
+Cameron Heyward,Pittsburgh Steelers,1,2,1,1.0,0,0,0,0,Away,Cleveland Browns
+George Johnson,Tampa Bay Buccaneers,1,3,1,0.0,0,0,1,0,Away,Dallas Cowboys
+Christian Covington,Houston Texans,1,2,0,1.0,0,0,0,0,Home,Cincinnati Bengals
+Mike Devito,Kansas City Chiefs,1,2,0,1.0,0,0,0,0,Home,Denver Broncos
+William Gholston,Tampa Bay Buccaneers,1,2,0,1.0,0,0,0,0,Away,Dallas Cowboys
+Stephen Paea,Washington Redskins,1,1,2,1.0,0,0,0,0,Away,New Orleans Saints
+Domata Peko,Cincinnati Bengals,1,1,2,1.0,0,0,0,0,Away,Houston Texans
+Stephon Tuitt,Pittsburgh Steelers,1,2,0,1.0,0,0,0,0,Away,Cleveland Browns
+J.J. Watt,Houston Texans,1,2,0,1.0,0,0,0,0,Home,Cincinnati Bengals
+Dan Williams,Oakland Raiders,1,5,2,0.0,0,0,0,0,Away,Minnesota Vikings
+Fletcher Cox,Philadelphia Eagles,1,2,3,0.5,0,0,0,0,Away,Miami Dolphins
+Kony Ealy,Carolina Panthers,1,1,0,1.0,0,0,0,0,Home,Tennessee Titans
+William Hayes,St. Louis Rams,1,2,2,0.5,0,0,0,0,Away,Chicago Bears
+Devon Kennard,New York Giants,1,4,2,0.0,0,0,0,0,Away,New England Patriots
+Sylvester Williams,Denver Broncos,1,1,0,1.0,0,0,0,0,Away,Kansas City Chiefs
+David Bass,Tennessee Titans,1,2,1,0.5,0,0,0,0,Away,Carolina Panthers
+Cameron Jordan,New Orleans Saints,1,4,1,0.0,0,0,0,0,Home,Washington Redskins
+Markus Kuhn,New York Giants,1,1,3,0.0,0,0,0,1,Away,New England Patriots
+Vance Walker,Denver Broncos,1,3,3,0.0,0,0,0,0,Away,Kansas City Chiefs
+Leonard Williams,New York Jets,1,3,3,0.0,0,0,0,0,Away,Buffalo Bills
+Chris Baker,Washington Redskins,1,0,4,0.5,0,0,0,0,Away,New Orleans Saints
+Bruce Irvin,Seattle Seahawks,1,1,4,0.0,1,0,0,0,Away,Arizona Cardinals
+Malik Jackson,Denver Broncos,1,3,0,0.0,1,0,0,0,Away,Kansas City Chiefs
+John Jenkins,New Orleans Saints,1,3,2,0.0,0,0,0,0,Home,Washington Redskins
+Bennie Logan,Philadelphia Eagles,1,4,0,0.0,0,0,0,0,Away,Miami Dolphins
+Kawann Short,Carolina Panthers,1,1,2,0.0,0,0,0,1,Home,Tennessee Titans

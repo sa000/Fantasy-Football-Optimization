@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Dre Kirkpatrick,Cincinnati Bengals,1,4,5,0.0,3,2,0,0,Away,Baltimore Ravens
+Melvin White,Carolina Panthers,1,7,1,0.0,1,1,0,0,Home,Atlanta Falcons
+Dee Milliner,New York Jets,1,4,0,0.0,5,2,0,0,Home,Miami Dolphins
+Trumaine McBride,New York Giants,1,0,0,0.0,6,2,0,0,Away,Washington Redskins
+Charles Woodson,Oakland Raiders,1,10,1,1.0,0,0,0,0,Away,Denver Broncos
+Chris Crocker,Cincinnati Bengals,1,4,0,1.0,1,1,0,0,Away,Baltimore Ravens
+Reed Doughty,Washington Redskins,1,7,2,0.0,1,1,0,0,Home,New York Giants
+Josh Wilson,Washington Redskins,1,4,3,0.0,1,1,0,1,Home,New York Giants
+Louis Delmas,Detroit Lions,1,3,0,1.0,1,1,0,0,Home,Minnesota Vikings
+Ron Parker,Kansas City Chiefs,1,6,0,0.0,2,1,0,0,Home,San Diego Chargers
+James Ihedigbo,Baltimore Ravens,1,5,2,0.0,1,1,0,0,Home,Cincinnati Bengals
+Brice McCain,Houston Texans,1,5,0,0.0,2,1,0,0,Home,Tennessee Titans
+Brandon Meriweather,Washington Redskins,1,8,0,0.0,1,0,1,0,Home,New York Giants
+D.J. Swearinger,Houston Texans,1,7,3,0.0,0,0,1,0,Home,Tennessee Titans
+Eric Weddle,San Diego Chargers,1,9,5,0.0,0,0,0,0,Away,Kansas City Chiefs
+Robert Blanton,Minnesota Vikings,1,9,4,0.0,0,0,0,0,Away,Detroit Lions
+Darius Butler,Indianapolis Colts,1,6,2,0.0,2,0,0,1,Away,Jacksonville Jaguars
+Eric Reid,San Francisco 49ers,1,10,0,0.0,1,0,0,0,Home,Arizona Cardinals
+Tashaun Gipson,Cleveland Browns,1,3,3,0.0,1,1,0,0,Home,Pittsburgh Steelers
+Don Jones,Miami Dolphins,1,10,1,0.0,0,0,0,0,Away,New York Jets
+Lardarius Webb,Baltimore Ravens,1,3,1,0.0,2,1,0,0,Home,Cincinnati Bengals
+Brandon Boykin,Philadelphia Eagles,1,1,2,0.0,3,1,0,0,Home,Dallas Cowboys
+Chris Conte,Chicago Bears,1,4,0,0.0,1,1,0,0,Away,Green Bay Packers
+Tim Jennings,Chicago Bears,1,3,0,0.0,2,1,0,0,Away,Green Bay Packers
+Tramon Williams,Green Bay Packers,1,5,1,0.0,1,0,1,0,Home,Chicago Bears
+John Cyprien,Jacksonville Jaguars,1,6,0,0.0,3,0,0,0,Home,Indianapolis Colts
+Matt Elam,Baltimore Ravens,1,7,3,0.0,0,0,0,0,Home,Cincinnati Bengals
+Bradley Fletcher,Philadelphia Eagles,1,6,1,0.0,0,0,0,1,Home,Dallas Cowboys
+Steve Gregory,New England Patriots,1,4,1,1.0,0,0,0,0,Away,Buffalo Bills
+Keenan Lewis,New Orleans Saints,1,2,1,0.0,1,1,0,0,Away,Tampa Bay Buccaneers
+Mike Mitchell,Carolina Panthers,1,3,1,1.0,1,0,0,0,Home,Atlanta Falcons
+Reggie Nelson,Cincinnati Bengals,1,6,1,0.0,2,0,0,0,Away,Baltimore Ravens
+Harrison Smith,Minnesota Vikings,1,8,1,0.0,0,0,0,0,Away,Detroit Lions
+Jimmy Smith,Baltimore Ravens,1,1,1,0.0,2,1,0,0,Home,Cincinnati Bengals
+Corey Graham,Baltimore Ravens,1,1,2,0.0,1,1,0,0,Home,Cincinnati Bengals
+Michael Griffin,Tennessee Titans,1,1,2,0.0,1,1,0,0,Away,Houston Texans
+Sam Shields,Green Bay Packers,1,2,0,0.0,1,1,0,0,Home,Chicago Bears
+Yeremiah Bell,Arizona Cardinals,1,7,1,0.0,0,0,0,0,Away,San Francisco 49ers
+Kam Chancellor,Seattle Seahawks,1,6,3,0.0,0,0,0,0,Away,St. Louis Rams
+Chimdi Chekwa,Oakland Raiders,1,7,1,0.0,0,0,0,0,Away,Denver Broncos
+Patrick Chung,Philadelphia Eagles,1,5,5,0.0,0,0,0,0,Home,Dallas Cowboys
+Barry Church,Dallas Cowboys,1,7,1,0.0,0,0,0,0,Away,Philadelphia Eagles
+William Moore,Atlanta Falcons,1,1,1,0.0,1,1,0,0,Away,Carolina Panthers
+Jamarca Sanford,Minnesota Vikings,1,3,3,0.0,0,0,1,0,Away,Detroit Lions
+Terrell Thomas,New York Giants,1,4,1,0.0,3,0,0,0,Away,Washington Redskins
+Major Wright,Chicago Bears,1,7,1,0.0,0,0,0,0,Away,Green Bay Packers
+Husain Abdullah,Kansas City Chiefs,1,6,2,0.0,0,0,0,0,Home,San Diego Chargers
+Roman Harper,New Orleans Saints,1,6,2,0.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Leonard Johnson,Tampa Bay Buccaneers,1,6,0,0.0,1,0,0,0,Home,New Orleans Saints
+Dawan Landry,New York Jets,1,6,2,0.0,0,0,0,0,Home,Miami Dolphins

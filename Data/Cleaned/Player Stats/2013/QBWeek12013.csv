@@ -1,0 +1,34 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Peyton Manning,Denver Broncos,1,27,42,462,7,0,2,-2,0,Away,Baltimore Ravens
+Eli Manning,New York Giants,1,27,42,450,4,3,2,8,0,Home,Dallas Cowboys
+Colin Kaepernick,San Francisco 49ers,1,27,39,412,3,0,7,22,0,Away,Green Bay Packers
+Aaron Rodgers,Green Bay Packers,1,21,37,333,3,1,2,13,0,Home,San Francisco 49ers
+Michael Vick,Philadelphia Eagles,1,15,25,203,2,0,9,54,1,Home,Washington Redskins
+Matt Schaub,Houston Texans,1,34,45,346,3,1,0,0,0,Home,San Diego Chargers
+Philip Rivers,San Diego Chargers,1,14,29,195,4,1,1,18,0,Away,Houston Texans
+Robert Griffin III,Washington Redskins,1,30,49,329,2,2,5,24,0,Away,Philadelphia Eagles
+Andrew Luck,Indianapolis Colts,1,18,23,178,2,0,6,38,1,Away,Oakland Raiders
+Joe Flacco,Baltimore Ravens,1,34,62,362,2,2,0,0,0,Home,Denver Broncos
+Drew Brees,New Orleans Saints,1,26,35,357,2,1,3,2,0,Away,Atlanta Falcons
+Matthew Stafford,Detroit Lions,1,28,43,357,2,1,5,2,0,Away,Minnesota Vikings
+Matt Ryan,Atlanta Falcons,1,25,38,304,2,1,1,12,0,Home,New Orleans Saints
+Carson Palmer,Arizona Cardinals,1,26,40,327,2,1,0,0,0,Home,St. Louis Rams
+Sam Bradford,St. Louis Rams,1,27,38,299,2,1,2,1,0,Away,Arizona Cardinals
+Andy Dalton,Cincinnati Bengals,1,26,33,282,2,2,2,2,0,Home,Chicago Bears
+Tom Brady,New England Patriots,1,29,52,288,2,1,5,-4,0,Home,Buffalo Bills
+Jay Cutler,Chicago Bears,1,21,33,242,2,1,3,16,0,Away,Cincinnati Bengals
+Geno Smith,New York Jets,1,24,38,256,1,1,6,47,0,Away,Tampa Bay Buccaneers
+Tony Romo,Dallas Cowboys,1,36,49,263,2,1,2,-1,0,Away,New York Giants
+Russell Wilson,Seattle Seahawks,1,25,33,320,1,0,5,7,0,Home,Carolina Panthers
+Alex Smith,Kansas City Chiefs,1,21,34,173,2,0,4,25,0,Home,Jacksonville Jaguars
+Brandon Weeden,Cleveland Browns,1,26,53,289,1,3,0,0,0,Away,Miami Dolphins
+Ryan Tannehill,Miami Dolphins,1,24,38,272,1,1,5,3,0,Home,Cleveland Browns
+EJ Manuel,Buffalo Bills,1,18,27,150,2,0,3,23,0,Away,New England Patriots
+Christian Ponder,Minnesota Vikings,1,18,28,236,1,3,4,12,0,Home,Detroit Lions
+Josh Freeman,Tampa Bay Buccaneers,1,15,31,210,1,1,1,0,0,Home,New York Jets
+Cam Newton,Carolina Panthers,1,16,23,125,1,0,5,38,0,Away,Seattle Seahawks
+Ben Roethlisberger,Pittsburgh Steelers,1,21,33,191,1,1,0,0,0,Away,Tennessee Titans
+Blaine Gabbert,Jacksonville Jaguars,1,16,35,121,0,2,4,16,0,Away,Kansas City Chiefs
+Jake Locker,Tennessee Titans,1,11,20,125,0,0,5,3,0,Home,Pittsburgh Steelers
+Chad Henne,Jacksonville Jaguars,1,3,6,36,0,0,0,0,0,Away,Kansas City Chiefs
+Chase Daniel,Kansas City Chiefs,1,0,0,0,0,0,2,-2,0,Home,Jacksonville Jaguars

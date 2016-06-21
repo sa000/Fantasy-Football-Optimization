@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Connor Barwin,Philadelphia Eagles,1,5,0,3.0,0,0,1,0,Away,New York Giants
+J.J. Watt,Houston Texans,1,4,3,2.0,3,0,0,1,Away,Indianapolis Colts
+Ziggy Ansah,Detroit Lions,1,4,1,2.5,0,0,1,0,Home,Minnesota Vikings
+Rob Ninkovich,New England Patriots,1,4,2,3.0,0,0,0,0,Home,Buffalo Bills
+Jurrell Casey,Tennessee Titans,1,7,2,2.0,0,0,0,0,Away,Jacksonville Jaguars
+Olivier Vernon,Miami Dolphins,1,5,2,1.5,0,0,1,0,Away,Green Bay Packers
+Brandon Graham,Philadelphia Eagles,1,4,0,1.0,0,0,1,0,Away,New York Giants
+George Johnson,Detroit Lions,1,4,2,1.5,0,0,0,0,Home,Minnesota Vikings
+Muhammad Wilkerson,New York Jets,1,6,2,1.0,0,0,0,0,Away,Denver Broncos
+Vinny Curry,Philadelphia Eagles,1,2,0,2.0,0,0,0,0,Away,New York Giants
+Ndamukong Suh,Detroit Lions,1,2,0,2.0,0,0,0,0,Home,Minnesota Vikings
+Everson Griffen,Minnesota Vikings,1,4,2,1.0,0,0,0,0,Away,Detroit Lions
+Ricky Jean-Francois,Indianapolis Colts,1,3,1,1.0,1,0,0,0,Home,Houston Texans
+Sheldon Richardson,New York Jets,1,4,3,0.0,0,0,1,0,Away,Denver Broncos
+Cameron Wake,Miami Dolphins,1,2,1,1.5,0,0,0,0,Away,Green Bay Packers
+George Selvie,Dallas Cowboys,1,2,3,1.0,0,0,0,0,Home,Seattle Seahawks
+Mario Williams,Buffalo Bills,1,3,1,1.0,0,0,0,0,Away,New England Patriots
+Cameron Heyward,Pittsburgh Steelers,1,2,2,1.0,0,0,0,0,Home,Cleveland Browns
+Desmond Bryant,Cleveland Browns,1,2,1,1.0,0,0,0,0,Away,Pittsburgh Steelers
+Charles Johnson,Carolina Panthers,1,2,1,1.0,0,0,0,0,Home,Cincinnati Bengals
+Stephen Paea,Chicago Bears,1,1,1,1.0,1,0,0,0,Home,Atlanta Falcons
+Jared Allen,Chicago Bears,1,2,0,1.0,0,0,0,0,Home,Atlanta Falcons
+Brandon Bair,Philadelphia Eagles,1,2,0,1.0,0,0,0,0,Away,New York Giants
+Leger Douzable,New York Jets,1,2,0,1.0,0,0,0,0,Away,Denver Broncos
+Ziggy Hood,Jacksonville Jaguars,1,2,0,1.0,0,0,0,0,Home,Tennessee Titans
+Damontre Moore,New York Giants,1,2,0,1.0,0,0,0,0,Home,Philadelphia Eagles
+Brandon Williams,Baltimore Ravens,1,3,2,0.5,0,0,0,0,Home,Tampa Bay Buccaneers
+Ian Williams,San Francisco 49ers,1,6,0,0.0,0,0,0,0,Home,St. Louis Rams
+Kroy Biermann,Atlanta Falcons,1,3,1,0.5,0,0,0,0,Away,Chicago Bears
+Chris Clemons,Jacksonville Jaguars,1,1,1,1.0,0,0,0,0,Home,Tennessee Titans
+Jared Crick,Houston Texans,1,3,3,0.0,1,0,0,0,Away,Indianapolis Colts
+Bruce Irvin,Seattle Seahawks,1,1,1,1.0,0,0,0,0,Away,Dallas Cowboys
+Thomas Johnson,Minnesota Vikings,1,1,1,1.0,0,0,0,0,Away,Detroit Lions
+DeMarcus Ware,Denver Broncos,1,1,1,1.0,0,0,0,0,Home,New York Jets
+Kamerion Wimbley,Tennessee Titans,1,1,1,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Derek Wolfe,Denver Broncos,1,4,1,0.0,1,0,0,0,Home,New York Jets
+Karl Klug,Tennessee Titans,1,1,0,1.0,0,0,0,0,Away,Jacksonville Jaguars
+Sen'Derrick Marks,Jacksonville Jaguars,1,4,0,0.0,1,0,0,0,Home,Tennessee Titans
+Clinton McDonald,Tampa Bay Buccaneers,1,5,0,0.0,0,0,0,0,Away,Baltimore Ravens
+Mike Neal,Green Bay Packers,1,1,0,1.0,0,0,0,0,Home,Miami Dolphins
+C.J. Wilson,Oakland Raiders,1,1,0,1.0,0,0,0,0,Away,San Diego Chargers
+Fletcher Cox,Philadelphia Eagles,1,4,1,0.0,0,0,0,0,Away,New York Giants
+Carlos Dunlap,Cincinnati Bengals,1,4,1,0.0,0,0,0,0,Away,Carolina Panthers
+Jason Jones,Detroit Lions,1,2,1,0.5,0,0,0,0,Home,Minnesota Vikings
+Linval Joseph,Minnesota Vikings,1,2,1,0.5,0,0,0,0,Away,Detroit Lions
+Brian Robison,Minnesota Vikings,1,1,3,0.5,0,0,0,0,Away,Detroit Lions
+Kawann Short,Carolina Panthers,1,4,1,0.0,0,0,0,0,Home,Cincinnati Bengals
+Paul Soliai,Atlanta Falcons,1,2,1,0.5,0,0,0,0,Away,Chicago Bears
+Aaron Donald,St. Louis Rams,1,4,0,0.0,0,0,0,0,Away,San Francisco 49ers
+Johnathan Hankins,New York Giants,1,4,0,0.0,0,0,0,0,Home,Philadelphia Eagles

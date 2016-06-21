@@ -1,0 +1,35 @@
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
+Eli Manning,New York Giants,1,28,39,300,4,1,1,1,1,Home,Washington Redskins
+Andrew Luck,Indianapolis Colts,1,29,41,393,4,1,1,-1,0,Away,Tennessee Titans
+Aaron Rodgers,Green Bay Packers,1,22,28,302,4,0,1,8,0,Home,Chicago Bears
+Philip Rivers,San Diego Chargers,1,29,39,377,3,0,1,0,0,Away,Jacksonville Jaguars
+Matthew Stafford,Detroit Lions,1,24,34,293,2,0,6,8,1,Home,New York Jets
+Joe Flacco,Baltimore Ravens,1,22,31,327,3,0,1,3,0,Away,Carolina Panthers
+Ben Roethlisberger,Pittsburgh Steelers,1,29,40,314,3,0,2,4,0,Away,Tampa Bay Buccaneers
+Tony Romo,Dallas Cowboys,1,22,29,262,3,0,6,20,0,Away,New Orleans Saints
+Matt Ryan,Atlanta Falcons,1,25,41,298,3,2,2,2,0,Home,Minnesota Vikings
+Drew Brees,New Orleans Saints,1,32,44,340,2,1,1,6,0,Home,Dallas Cowboys
+Ryan Tannehill,Miami Dolphins,1,23,31,278,2,1,5,35,0,Home,Oakland Raiders
+Alex Smith,Kansas City Chiefs,1,20,26,248,3,0,4,8,0,Away,New England Patriots
+Colin Kaepernick,San Francisco 49ers,1,17,30,218,2,1,7,58,0,Away,Philadelphia Eagles
+Teddy Bridgewater,Minnesota Vikings,1,19,30,317,0,0,5,27,1,Away,Atlanta Falcons
+Jay Cutler,Chicago Bears,1,22,34,256,2,2,3,29,0,Away,Green Bay Packers
+Mike Glennon,Tampa Bay Buccaneers,1,21,42,302,2,1,0,0,0,Home,Pittsburgh Steelers
+EJ Manuel,Buffalo Bills,1,21,44,225,2,2,1,3,0,Home,Houston Texans
+Blake Bortles,Jacksonville Jaguars,1,29,37,253,1,2,5,24,0,Home,San Diego Chargers
+Ryan Fitzpatrick,Houston Texans,1,25,37,268,1,2,6,14,0,Away,Buffalo Bills
+Kirk Cousins,Washington Redskins,1,19,33,257,1,4,1,12,0,Away,New York Giants
+Charlie Whitehurst,Tennessee Titans,1,12,23,177,1,1,5,40,0,Home,Indianapolis Colts
+Geno Smith,New York Jets,1,17,33,209,1,1,4,4,0,Away,Detroit Lions
+Cam Newton,Carolina Panthers,1,14,25,197,1,0,2,7,0,Home,Baltimore Ravens
+Derek Carr,Oakland Raiders,1,16,25,146,1,1,2,9,0,Away,Miami Dolphins
+Tom Brady,New England Patriots,1,14,23,159,1,2,0,0,0,Home,Kansas City Chiefs
+Matt McGloin,Oakland Raiders,1,12,19,129,1,2,2,3,0,Away,Miami Dolphins
+Nick Foles,Philadelphia Eagles,1,21,43,195,0,2,1,1,0,Home,San Francisco 49ers
+Jimmy Garoppolo,New England Patriots,1,6,7,70,1,0,0,0,0,Home,Kansas City Chiefs
+Derek Anderson,Carolina Panthers,1,6,9,71,0,0,0,0,0,Home,Baltimore Ravens
+Zach Mettenberger,Tennessee Titans,1,2,5,17,0,1,0,0,0,Home,Indianapolis Colts
+Jimmy Clausen,Chicago Bears,1,1,1,9,0,0,0,0,0,Away,Green Bay Packers
+Christian Ponder,Minnesota Vikings,1,0,0,0,0,0,1,1,0,Away,Atlanta Falcons
+Matt Hasselbeck,Indianapolis Colts,1,0,0,0,0,0,3,-2,0,Away,Tennessee Titans
+Matt Moore,Miami Dolphins,1,0,0,0,0,0,2,-2,0,Home,Oakland Raiders

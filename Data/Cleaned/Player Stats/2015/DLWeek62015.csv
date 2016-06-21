@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Cameron Wake,Miami Dolphins,1,4,0,4.0,0,0,2,0,Home,Tennessee Titans
+Cameron Jordan,New Orleans Saints,1,5,1,3.0,0,0,1,1,Away,Atlanta Falcons
+Allen Bailey,Kansas City Chiefs,1,5,3,1.0,0,0,1,0,Home,Minnesota Vikings
+Kawann Short,Carolina Panthers,1,3,2,2.0,1,0,0,0,Home,Seattle Seahawks
+Bruce Irvin,Seattle Seahawks,1,4,1,2.0,0,0,0,0,Away,Carolina Panthers
+Fletcher Cox,Philadelphia Eagles,1,4,0,1.0,0,0,1,0,Away,New York Giants
+Damontre Moore,New York Giants,1,3,1,1.0,0,0,0,1,Home,Philadelphia Eagles
+Carlos Dunlap,Cincinnati Bengals,1,1,2,1.5,1,0,0,0,Home,Buffalo Bills
+Lawrence Guy,Baltimore Ravens,1,5,0,1.0,0,0,0,0,Home,San Francisco 49ers
+Danielle Hunter,Minnesota Vikings,1,3,1,0.5,0,0,1,0,Away,Kansas City Chiefs
+Corey Liuget,San Diego Chargers,1,4,1,1.0,0,0,0,0,Home,Green Bay Packers
+Calais Campbell,Arizona Cardinals,1,3,2,1.0,0,0,0,0,Home,Pittsburgh Steelers
+Vinny Curry,Philadelphia Eagles,1,1,1,1.5,0,0,0,0,Away,New York Giants
+Malik Jackson,Denver Broncos,1,3,1,1.0,0,0,0,0,Home,Cleveland Browns
+Mike Neal,Green Bay Packers,1,2,1,0.5,0,0,1,0,Away,San Diego Chargers
+Olivier Vernon,Miami Dolphins,1,3,1,1.0,0,0,0,0,Home,Tennessee Titans
+Datone Jones,Green Bay Packers,1,2,0,1.0,1,0,0,0,Away,San Diego Chargers
+Wes Horton,Carolina Panthers,1,2,1,1.0,0,0,0,0,Home,Seattle Seahawks
+Adrian Clayborn,Atlanta Falcons,1,2,0,1.0,0,0,0,0,Home,New Orleans Saints
+Eddie Goldman,Chicago Bears,1,3,2,0.5,0,0,0,0,Home,Detroit Lions
+Aaron Lynch,San Francisco 49ers,1,5,0,0.0,1,0,0,0,Away,Baltimore Ravens
+Brandon Graham,Philadelphia Eagles,1,3,1,0.5,0,0,0,0,Away,New York Giants
+Kroy Biermann,Atlanta Falcons,1,4,2,0.0,0,0,0,0,Home,New Orleans Saints
+Chris Clemons,Jacksonville Jaguars,1,2,0,0.0,0,0,1,0,Away,Houston Texans
+Markus Golden,Arizona Cardinals,1,4,2,0.0,0,0,0,0,Home,Pittsburgh Steelers
+Desmond Bryant,Cleveland Browns,1,4,1,0.0,0,0,0,0,Away,Denver Broncos
+Jurrell Casey,Tennessee Titans,1,3,1,0.0,1,0,0,0,Away,Miami Dolphins
+Sharrif Floyd,Minnesota Vikings,1,2,1,0.5,0,0,0,0,Away,Kansas City Chiefs
+Brian Robison,Minnesota Vikings,1,2,1,0.0,0,0,0,1,Away,Kansas City Chiefs
+Muhammad Wilkerson,New York Jets,1,0,3,0.5,1,0,0,0,Away,Washington Redskins
+Damon Harrison,New York Jets,1,2,4,0.0,0,0,0,0,Away,Washington Redskins
+Timmy Jernigan,Baltimore Ravens,1,1,2,0.5,0,0,0,0,Home,San Francisco 49ers
+Michael Johnson,Cincinnati Bengals,1,4,0,0.0,0,0,0,0,Home,Buffalo Bills
+Caraun Reid,Detroit Lions,1,4,0,0.0,0,0,0,0,Away,Chicago Bears
+Vance Walker,Denver Broncos,1,3,2,0.0,0,0,0,0,Home,Cleveland Browns
+Kerry Wynn,New York Giants,1,3,0,0.0,1,0,0,0,Home,Philadelphia Eagles
+Chris Baker,Washington Redskins,1,2,3,0.0,0,0,0,0,Home,New York Jets
+Marcell Dareus,Buffalo Bills,1,3,1,0.0,0,0,0,0,Away,Cincinnati Bengals
+Mike Devito,Kansas City Chiefs,1,3,1,0.0,0,0,0,0,Home,Minnesota Vikings
+Johnathan Hankins,New York Giants,1,2,1,0.0,1,0,0,0,Home,Philadelphia Eagles
+Sheldon Richardson,New York Jets,1,0,3,0.5,0,0,0,0,Away,Washington Redskins
+Frostee Rucker,Arizona Cardinals,1,3,1,0.0,0,0,0,0,Home,Pittsburgh Steelers
+Michael Bennett,Jacksonville Jaguars,1,0,2,0.5,0,0,0,0,Away,Houston Texans
+Andre Branch,Jacksonville Jaguars,1,2,0,0.0,1,0,0,0,Away,Houston Texans
+Mike Daniels,Green Bay Packers,1,0,2,0.5,0,0,0,0,Away,San Diego Chargers
+Quinton Dial,San Francisco 49ers,1,1,4,0.0,0,0,0,0,Away,Baltimore Ravens
+Letroy Guion,Green Bay Packers,1,2,2,0.0,0,0,0,0,Away,San Diego Chargers
+Tyson Jackson,Atlanta Falcons,1,2,2,0.0,0,0,0,0,Home,New Orleans Saints
+Bennie Logan,Philadelphia Eagles,1,3,0,0.0,0,0,0,0,Away,New York Giants
+Jay Ratliff,Chicago Bears,1,3,0,0.0,0,0,0,0,Home,Detroit Lions

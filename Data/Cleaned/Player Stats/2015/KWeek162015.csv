@@ -1,0 +1,31 @@
+Player,Team,G,FGM,FGA,FG%,EPM,EPA,Home or Away,Opponent
+Blair Walsh,Minnesota Vikings,1,5,5,100.0%,4,5,Away,New York Giants
+Robbie Gould,Chicago Bears,1,4,4,100.0%,2,2,Home,Tampa Bay Buccaneers
+Matt Prater,Detroit Lions,1,4,4,100.0%,2,2,Away,San Francisco 49ers
+Nick Novak,Houston Texans,1,2,2,100.0%,4,4,Home,Tennessee Titans
+Randy Bullock,New York Jets,1,2,2,100.0%,2,2,Away,New England Patriots
+Chandler Catanzaro,Arizona Cardinals,1,1,1,100.0%,5,5,Away,Green Bay Packers
+Kai Forbath,New Orleans Saints,1,1,3,33.3%,5,5,Away,Jacksonville Jaguars
+Stephen Gostkowski,New England Patriots,1,2,2,100.0%,2,2,Home,New York Jets
+Shayne Graham,Atlanta Falcons,1,2,3,66.7%,2,2,Away,Carolina Panthers
+Josh Lambo,San Diego Chargers,1,2,3,66.7%,2,2,Home,Oakland Raiders
+Brandon McManus,Denver Broncos,1,2,3,66.7%,2,2,Away,Cincinnati Bengals
+Justin Tucker,Baltimore Ravens,1,2,2,100.0%,2,2,Away,Pittsburgh Steelers
+Travis Coons,Cleveland Browns,1,2,3,66.7%,1,1,Home,Kansas City Chiefs
+Graham Gano,Carolina Panthers,1,2,2,100.0%,1,1,Home,Atlanta Falcons
+Sebastian Janikowski,Oakland Raiders,1,2,2,100.0%,1,1,Away,San Diego Chargers
+Dan Bailey,Dallas Cowboys,1,2,3,66.7%,0,0,Home,Buffalo Bills
+Andrew Franks,Miami Dolphins,1,2,2,100.0%,0,0,Away,Indianapolis Colts
+Dustin Hopkins,Washington Redskins,1,1,1,100.0%,3,4,Home,Philadelphia Eagles
+Caleb Sturgis,Philadelphia Eagles,1,1,1,100.0%,3,3,Away,Washington Redskins
+Chris Boswell,Pittsburgh Steelers,1,1,1,100.0%,2,2,Home,Baltimore Ravens
+Josh Brown,New York Giants,1,1,1,100.0%,2,2,Home,Minnesota Vikings
+Phil Dawson,San Francisco 49ers,1,1,2,50.0%,2,2,Home,Detroit Lions
+Steve Hauschka,Seattle Seahawks,1,1,1,100.0%,2,2,Away,St. Louis Rams
+Mike Nugent,Cincinnati Bengals,1,1,2,50.0%,2,2,Home,Denver Broncos
+Cairo Santos,Kansas City Chiefs,1,1,1,100.0%,2,2,Away,Cleveland Browns
+Greg Zuerlein,St. Louis Rams,1,1,1,100.0%,2,3,Home,Seattle Seahawks
+Dan Carpenter,Buffalo Bills,1,1,1,100.0%,1,2,Away,Dallas Cowboys
+Adam Vinatieri,Indianapolis Colts,1,1,1,100.0%,1,2,Home,Miami Dolphins
+Connor Barth,Tampa Bay Buccaneers,1,0,1,0.0%,3,3,Away,Chicago Bears
+Jason Myers,Jacksonville Jaguars,1,0,0,0.0%,1,1,Home,New Orleans Saints

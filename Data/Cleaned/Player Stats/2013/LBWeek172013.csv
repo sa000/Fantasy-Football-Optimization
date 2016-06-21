@@ -1,0 +1,51 @@
+Player,Team,G,Tackle,Assist,Sack,PD,INT,FF,FR,Home or Away,Opponent
+Navorro Bowman,San Francisco 49ers,1,9,1,1.0,1,1,1,1,Home,Arizona Cardinals
+Mychal Kendricks,Philadelphia Eagles,1,8,4,0.0,1,1,1,0,Home,Dallas Cowboys
+Lawrence Timmons,Pittsburgh Steelers,1,6,2,1.0,1,1,0,0,Away,Cleveland Browns
+DeVonte Holloman,Dallas Cowboys,1,6,5,2.0,0,0,0,0,Away,Philadelphia Eagles
+James Anderson,Chicago Bears,1,12,0,1.0,0,0,0,0,Away,Green Bay Packers
+Jerrell Freeman,Indianapolis Colts,1,5,3,1.0,2,0,1,0,Away,Jacksonville Jaguars
+Malcolm Smith,Seattle Seahawks,1,1,4,0.0,1,1,0,0,Away,St. Louis Rams
+Paul Worrilow,Atlanta Falcons,1,8,5,1.0,0,0,0,0,Away,Carolina Panthers
+Akeem Ayers,Tennessee Titans,1,3,0,0.0,1,1,1,0,Away,Houston Texans
+Vontaze Burfict,Cincinnati Bengals,1,9,5,0.0,0,0,0,0,Away,Baltimore Ravens
+Junior Galette,New Orleans Saints,1,3,1,2.0,0,0,0,0,Away,Tampa Bay Buccaneers
+Manny Lawson,Buffalo Bills,1,5,1,0.0,1,1,0,0,Home,New England Patriots
+Stephen Tulloch,Detroit Lions,1,7,5,0.5,0,0,0,0,Home,Minnesota Vikings
+Lamarr Houston,Oakland Raiders,1,7,0,1.0,0,0,0,0,Away,Denver Broncos
+Julius Peppers,Chicago Bears,1,4,0,1.0,0,0,1,0,Away,Green Bay Packers
+Craig Robertson,Cleveland Browns,1,4,2,0.0,1,1,0,0,Home,Pittsburgh Steelers
+Donald Butler,San Diego Chargers,1,9,1,0.0,1,0,0,0,Away,Kansas City Chiefs
+Kiko Alonso,Buffalo Bills,1,6,8,0.0,0,0,0,0,Home,New England Patriots
+Perry Riley,Washington Redskins,1,4,0,1.0,2,0,0,0,Home,New York Giants
+Zach Brown,Tennessee Titans,1,5,3,0.0,1,0,0,1,Away,Houston Texans
+Jarvis Jones,Pittsburgh Steelers,1,8,1,0.0,1,0,0,0,Away,Cleveland Browns
+Bobby Wagner,Seattle Seahawks,1,7,5,0.0,0,0,0,0,Away,St. Louis Rams
+Lance Briggs,Chicago Bears,1,4,2,1.0,0,0,0,0,Away,Green Bay Packers
+Paul Kruger,Cleveland Browns,1,5,2,0.0,0,0,1,0,Home,Pittsburgh Steelers
+Jameel McClain,Baltimore Ravens,1,4,4,0.0,0,0,1,0,Home,Cincinnati Bengals
+Jon Beason,New York Giants,1,8,1,0.0,0,0,0,0,Away,Washington Redskins
+Erin Henderson,Minnesota Vikings,1,2,5,1.0,0,0,0,0,Away,Detroit Lions
+Manti Te'o,San Diego Chargers,1,7,3,0.0,0,0,0,0,Away,Kansas City Chiefs
+Jacquian Williams,New York Giants,1,4,3,0.0,3,0,0,0,Away,Washington Redskins
+James Laurinaitis,St. Louis Rams,1,6,4,0.0,0,0,0,0,Home,Seattle Seahawks
+Curtis Lofton,New Orleans Saints,1,4,2,0.0,3,0,0,0,Away,Tampa Bay Buccaneers
+Sio Moore,Oakland Raiders,1,4,0,1.0,0,0,0,0,Away,Denver Broncos
+Derrick Morgan,Tennessee Titans,1,4,0,1.0,0,0,0,0,Away,Houston Texans
+J.T. Thomas,Jacksonville Jaguars,1,3,4,0.0,0,0,1,0,Home,Indianapolis Colts
+Luke Kuechly,Carolina Panthers,1,5,5,0.0,0,0,0,0,Home,Atlanta Falcons
+Paul Posluszny,Jacksonville Jaguars,1,6,3,0.0,0,0,0,0,Home,Indianapolis Colts
+Frank Zombo,Kansas City Chiefs,1,3,1,1.0,0,0,0,0,Home,San Diego Chargers
+Nigel Bradham,Buffalo Bills,1,4,6,0.0,0,0,0,0,Home,New England Patriots
+Dannell Ellerbe,Miami Dolphins,1,7,0,0.0,0,0,0,0,Away,New York Jets
+London Fletcher,Washington Redskins,1,3,4,0.0,2,0,0,0,Home,New York Giants
+D'Qwell Jackson,Cleveland Browns,1,5,4,0.0,0,0,0,0,Home,Pittsburgh Steelers
+DeAndre Levy,Detroit Lions,1,5,2,0.0,1,0,0,0,Home,Minnesota Vikings
+Philip Wheeler,Miami Dolphins,1,5,4,0.0,0,0,0,0,Away,New York Jets
+Nate Irving,Denver Broncos,1,2,1,1.0,0,0,0,0,Home,Oakland Raiders
+Alec Ogletree,St. Louis Rams,1,3,5,0.0,1,0,0,0,Home,Seattle Seahawks
+DeMeco Ryans,Philadelphia Eagles,1,6,1,0.0,0,0,0,0,Home,Dallas Cowboys
+Karlos Dansby,Arizona Cardinals,1,5,0,0.0,1,0,0,0,Away,San Francisco 49ers
+Lavonte David,Tampa Bay Buccaneers,1,5,2,0.0,0,0,0,0,Home,New Orleans Saints
+Moise Fokou,Tennessee Titans,1,4,4,0.0,0,0,0,0,Away,Houston Texans
+Nico Johnson,Kansas City Chiefs,1,5,2,0.0,0,0,0,0,Home,San Diego Chargers

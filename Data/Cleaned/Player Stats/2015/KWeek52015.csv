@@ -1,0 +1,29 @@
+Player,Team,G,FGM,FGA,FG%,EPM,EPA,Home or Away,Opponent
+Caleb Sturgis,Philadelphia Eagles,1,4,4,100.0%,3,4,Away,New Orleans Saints
+Travis Coons,Cleveland Browns,1,4,4,100.0%,1,1,Home,Baltimore Ravens
+Connor Barth,Tampa Bay Buccaneers,1,3,3,100.0%,3,3,Away,Jacksonville Jaguars
+Josh Brown,New York Giants,1,3,3,100.0%,3,3,Away,San Francisco 49ers
+Stephen Gostkowski,New England Patriots,1,3,3,100.0%,3,3,Home,Dallas Cowboys
+Brandon McManus,Denver Broncos,1,3,3,100.0%,1,1,Home,Oakland Raiders
+Phil Dawson,San Francisco 49ers,1,2,2,100.0%,3,3,Home,New York Giants
+Mike Nugent,Cincinnati Bengals,1,2,2,100.0%,3,3,Away,Seattle Seahawks
+Adam Vinatieri,Indianapolis Colts,1,2,2,100.0%,3,3,Home,Houston Texans
+Josh Lambo,San Diego Chargers,1,2,3,66.7%,2,2,Away,Pittsburgh Steelers
+Nick Novak,Houston Texans,1,2,2,100.0%,2,2,Away,Indianapolis Colts
+Matt Bryant,Atlanta Falcons,1,2,4,50.0%,1,1,Away,Washington Redskins
+Dustin Hopkins,Washington Redskins,1,2,3,66.7%,1,1,Home,Atlanta Falcons
+Jason Myers,Jacksonville Jaguars,1,1,1,100.0%,4,4,Home,Tampa Bay Buccaneers
+Ryan Succop,Tennessee Titans,1,2,2,100.0%,1,1,Away,Buffalo Bills
+Dan Bailey,Dallas Cowboys,1,2,2,100.0%,0,0,Away,New England Patriots
+Chris Boswell,Pittsburgh Steelers,1,1,1,100.0%,3,3,Home,San Diego Chargers
+Chandler Catanzaro,Arizona Cardinals,1,0,0,0.0%,6,6,Home,Detroit Lions
+Mason Crosby,Green Bay Packers,1,1,1,100.0%,3,3,Away,St. Louis Rams
+Robbie Gould,Chicago Bears,1,2,2,100.0%,0,0,Home,Kansas City Chiefs
+Steve Hauschka,Seattle Seahawks,1,1,1,100.0%,3,3,Home,Cincinnati Bengals
+Justin Tucker,Baltimore Ravens,1,1,2,50.0%,3,3,Away,Cleveland Browns
+Zach Hocker,New Orleans Saints,1,1,1,100.0%,2,2,Home,Philadelphia Eagles
+Matt Prater,Detroit Lions,1,1,1,100.0%,2,2,Away,Arizona Cardinals
+Cairo Santos,Kansas City Chiefs,1,1,3,33.3%,2,2,Away,Chicago Bears
+Sebastian Janikowski,Oakland Raiders,1,1,3,33.3%,1,1,Away,Denver Broncos
+Greg Zuerlein,St. Louis Rams,1,1,4,25.0%,1,1,Home,Green Bay Packers
+Dan Carpenter,Buffalo Bills,1,0,0,0.0%,2,2,Home,Tennessee Titans

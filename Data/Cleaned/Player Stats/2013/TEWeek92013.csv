@@ -1,0 +1,45 @@
+Player,Team,G,ReceivingTarget,ReceivingRec,ReceivingYard,ReceivingTD,Home or Away,Opponent
+Jimmy Graham,New Orleans Saints,1,12,9,116,2,Home,New York Jets
+Rob Gronkowski,New England Patriots,1,10,9,143,1,Away,Pittsburgh Steelers
+Jason Witten,Dallas Cowboys,1,10,8,102,1,Away,Minnesota Vikings
+Tony Gonzalez,Atlanta Falcons,1,7,6,81,1,Home,Carolina Panthers
+Greg Olsen,Carolina Panthers,1,5,4,66,1,Away,Atlanta Falcons
+Tim Wright,Tampa Bay Buccaneers,1,4,4,58,1,Home,Seattle Seahawks
+Zach Ertz,Philadelphia Eagles,1,6,5,42,1,Home,Oakland Raiders
+Jared Cook,St. Louis Rams,1,6,3,36,1,Away,Tennessee Titans
+Kyle Rudolph,Minnesota Vikings,1,2,2,35,1,Home,Dallas Cowboys
+Brent Celek,Philadelphia Eagles,1,4,3,27,1,Home,Oakland Raiders
+Gary Barnidge,Cleveland Browns,1,1,1,4,1,Away,Baltimore Ravens
+Coby Fleener,Indianapolis Colts,1,5,3,64,0,Home,Houston Texans
+Tom Crabtree,Tampa Bay Buccaneers,1,1,1,2,1,Home,Seattle Seahawks
+Jordan Reed,Washington Redskins,1,5,4,37,0,Away,San Diego Chargers
+Antonio Gates,San Diego Chargers,1,10,6,53,0,Home,Washington Redskins
+Zach Miller,Seattle Seahawks,1,5,3,49,0,Away,Tampa Bay Buccaneers
+Garrett Graham,Houston Texans,1,6,4,46,0,Away,Indianapolis Colts
+Zach Sudfeld,New York Jets,1,4,2,46,0,Away,New Orleans Saints
+Heath Miller,Pittsburgh Steelers,1,5,4,43,0,Home,New England Patriots
+Martellus Bennett,Chicago Bears,1,8,4,36,0,Home,Green Bay Packers
+Mychal Rivera,Oakland Raiders,1,5,4,36,0,Away,Philadelphia Eagles
+Charles Clay,Miami Dolphins,1,3,3,22,0,Away,Cincinnati Bengals
+Andrew Quarless,Green Bay Packers,1,7,5,34,0,Away,Chicago Bears
+Jermaine Gresham,Cincinnati Bengals,1,7,3,33,0,Home,Miami Dolphins
+Scott Chandler,Buffalo Bills,1,9,3,26,0,Away,Kansas City Chiefs
+John Carlson,Minnesota Vikings,1,6,4,23,0,Home,Dallas Cowboys
+James Hanna,Dallas Cowboys,1,1,1,21,0,Away,Minnesota Vikings
+Anthony Fasano,Kansas City Chiefs,1,1,1,20,0,Home,Buffalo Bills
+Michael Hoomanawanui,New England Patriots,1,2,1,17,0,Away,Pittsburgh Steelers
+Dallas Clark,Baltimore Ravens,1,1,1,14,0,Home,Cleveland Browns
+Tyler Eifert,Cincinnati Bengals,1,4,3,14,0,Home,Miami Dolphins
+Michael Egnew,Miami Dolphins,1,1,1,13,0,Away,Cincinnati Bengals
+Lance Kendricks,St. Louis Rams,1,4,3,13,0,Away,Tennessee Titans
+Delanie Walker,Tennessee Titans,1,2,2,13,0,Home,St. Louis Rams
+Ladarius Green,San Diego Chargers,1,1,1,10,0,Home,Washington Redskins
+Logan Paulsen,Washington Redskins,1,3,3,9,0,Away,San Diego Chargers
+Niles Paul,Washington Redskins,1,2,1,6,0,Away,San Diego Chargers
+Jordan Cameron,Cleveland Browns,1,5,1,4,0,Away,Baltimore Ravens
+Ed Dickson,Baltimore Ravens,1,3,1,3,0,Home,Cleveland Browns
+James Casey,Philadelphia Eagles,1,1,0,0,0,Home,Oakland Raiders
+Nick Kasa,Oakland Raiders,1,1,0,0,0,Away,Philadelphia Eagles
+Jeron Mastrud,Oakland Raiders,1,1,0,0,0,Away,Philadelphia Eagles
+Craig Stevens,Tennessee Titans,1,1,0,0,0,Home,St. Louis Rams
+Ben Watson,New Orleans Saints,1,1,0,0,0,Home,New York Jets

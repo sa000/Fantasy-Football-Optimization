@@ -1,8 +1,11 @@
 import pandas
 import os
 import sys
+global years
+years=['2013','2014','2015']
+#weather only
 def clean_names():
-	years=['2015','2015','2015']
+	years=['2013','2014','2015']
 	for year in years:
 		filename='NFLWeatherData'+year+'.csv'
 		f2='NFLWeatherDataCleaned'+year+'.csv'
@@ -19,13 +22,14 @@ def clean_names():
 
 
 def add_opponents():
-	files=os.listdir('../Data/Special Teams/2015')
-	os.chdir('/Users/Sakib/Desktop/Projects/Fantasy Football Optimization/Data/Special Teams/2015')
+	files=os.listdir('./Raw Data')
+	#os.chdir('/Users/Sakib/Desktop/Projects/Fantasy Football Optimization/Data/Special Teams/2015')
 	for file in files:
 		print(file)
-		os.chdir('/Users/Sakib/Desktop/Projects/Fantasy Football Optimization/Data/Special Teams/2015')
-		length=len(file)-1
-		year=file[length-7:length-3]
+		#os.chdir('/Users/Sakib/Desktop/Projects/Fantasy Football Optimization/Data/Special Teams/2015')
+		os.chdir('./Raw Data')
+		length=len(file)
+		year=file[length-8:length-4]
 		index1=file.index('Week')
 		index1=index1+4
 		index2=file.index(year)
@@ -39,7 +43,7 @@ def add_opponents():
 		df=df[2:] #Drop the first two header rows
 		df.columns=headers
 		df = df.reset_index(drop=True)
-		games, opponent_teams,player_teams=find_opponent(df['Team'], week)
+		games, opponent_teams,player_teams=find_opponent(df['Team'], week, year)
 
 		#df['Home or Away']=games
 		#df['Opponent']=opponent_teams
@@ -49,21 +53,20 @@ def add_opponents():
 		df.to_csv(file,index=False)
 
 
-def find_opponent(teams, week):
-	year='2015'
+def find_opponent(teams, week,year):
 	abr_teams=['ARI', 'ATL' ,'BAL' ,'BUF' ,'CAR', 'CHI' ,'CIN' ,'CLE', 'DAL' ,'DEN','DET' ,'GB' ,'HOU' ,'IND', 'JAC','KC', 'MIA', 'MIN','NE', 'NO' ,'NYG', 'NYJ' ,'OAK' ,'PHI', 'PIT' ,'SD', 'SF', 'SEA','STL','TB' ,'TEN', 'WAS' ]
 	full_teams=['Arizona Cardinals', 'Atlanta Falcons', 'Baltimore Ravens', 'Buffalo Bills', 'Carolina Panthers', 'Chicago Bears', 'Cincinnati Bengals', 'Cleveland Browns', 'Dallas Cowboys', 'Denver Broncos', 'Detroit Lions', 'Green Bay Packers', 'Houston Texans', 'Indianapolis Colts', 'Jacksonville Jaguars', 'Kansas City Chiefs', 'Miami Dolphins', 'Minnesota Vikings', 'New England Patriots', 'New Orleans Saints', 'New York Giants', 'New York Jets', 'Oakland Raiders', 'Philadelphia Eagles', 'Pittsburgh Steelers', 'San Diego Chargers', 'San Francisco 49ers', 'Seattle Seahawks', 'St. Louis Rams', 'Tampa Bay Buccaneers', 'Tennessee Titans', 'Washington Redskins']
 	filename='NFLWeatherDataCleaned'+year+'.csv'
 	opponent_teams=[]
 	games=[]
 	player_teams=[]
-	os.chdir('/Users/Sakib/Desktop/Projects/Fantasy Football Optimization/Data/Weather')
+	os.chdir('../../Data/Weather/')
 	schedule=pandas.read_csv(filename)
 	relevant_schedule=schedule.loc[schedule['Week']==int(week)]
 	for team in teams:
 		#print("Checking teams")
 		#convert the abbreviated team name to full
-		player_team=full_teams[full_teams.index(team)]
+		player_team=full_teams[abr_teams.index(team)]
 		player_teams.append(player_team)
 		#print('Team:'+team)
 		#Check if player is playing at home or away
@@ -75,9 +78,45 @@ def find_opponent(teams, week):
 			opponent_teams.append(relevant_schedule[relevant_schedule['Away Team']==player_team]['Home Team'].item())
 	return games, opponent_teams, player_teams
 
-		
+def add_week():
+	positions=['QB', 'RB', 'WR', 'TE']
+
+	for year in years:
+		for position in positions:
+			path='/Users/Sakib/Desktop/Projects/Fantasy-Football-Optimization/Data/Cleaned/Player Stats/'+year
+			files=os.listdir(path)
+			files=list(filter(lambda x: position in x, files))		
+			for file in files:
+				df=pandas.read_csv(path+'/'+file)
+				index1=file.index('Week')
+				index1=index1+4
+				index2=file.index(year)
+				week=file[index1:index2]
+				print(week)
+				print(file)
+				df['Week']=int(week)
+				df.to_csv(path+'/'+file, index=False)		
+
+def merge_csv():
+	positions=['QB', 'RB', 'WR', 'TE']
+	for year in years:
+		for position in positions:
+			df_list = []
+			path='/Users/Sakib/Desktop/Projects/Fantasy-Football-Optimization/Data/Cleaned/Player Stats/'+year
+			files=os.listdir(path)
+			files=list(filter(lambda x: position in x, files))		
+			filename=position+year+'.csv'
+
+			for file in files:
+				print(file)
+				df_list.append(pandas.read_csv(path+'/'+file))
+			print("Appended")
+			full_df=pandas.concat(df_list)
+			full_df.to_csv(filename, index=False)
 
 
 if __name__ == '__main__':
 	#clean_names()
 	add_opponents()
+	add_week()
+	merge_csv()

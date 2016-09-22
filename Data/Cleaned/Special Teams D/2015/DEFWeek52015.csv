@@ -1,29 +1,29 @@
-Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent
-Tampa Bay Buccaneers,1,6,1,1,1,31,303.0,55.0,0,0,Away,Jacksonville Jaguars
-Denver Broncos,1,4,2,1,1,10,249.0,65.0,0,0,Home,Oakland Raiders
-Green Bay Packers,1,3,0,4,1,10,161.0,191.0,0,0,Away,St. Louis Rams
-Seattle Seahawks,1,4,1,1,1,27,331.0,109.0,0,0,Home,Cincinnati Bengals
-Pittsburgh Steelers,1,2,1,1,1,20,365.0,52.0,0,0,Home,San Diego Chargers
-Atlanta Falcons,1,1,0,2,1,19,219.0,51.0,0,0,Away,Washington Redskins
-Kansas City Chiefs,1,2,1,0,1,18,252.0,87.0,0,0,Away,Chicago Bears
-Philadelphia Eagles,1,5,3,1,0,17,335.0,96.0,0,0,Away,New Orleans Saints
-Arizona Cardinals,1,1,2,4,0,17,379.0,57.0,0,0,Home,Detroit Lions
-Washington Redskins,1,3,1,2,0,25,254.0,176.0,0,0,Home,Atlanta Falcons
-St. Louis Rams,1,2,1,2,0,24,241.0,86.0,0,0,Home,Green Bay Packers
-New England Patriots,1,3,1,1,0,6,188.0,100.0,0,0,Home,Dallas Cowboys
-Tennessee Titans,1,4,1,0,0,14,113.0,127.0,0,0,Away,Buffalo Bills
-Cincinnati Bengals,1,4,0,1,0,24,213.0,200.0,0,0,Away,Seattle Seahawks
-Dallas Cowboys,1,5,0,0,0,30,275.0,109.0,0,0,Away,New England Patriots
-San Diego Chargers,1,3,0,1,0,24,203.0,155.0,0,0,Away,Pittsburgh Steelers
-Baltimore Ravens,1,4,0,0,0,33,457.0,83.0,0,0,Away,Cleveland Browns
-Oakland Raiders,1,2,0,2,0,16,266.0,43.0,0,0,Away,Denver Broncos
-Indianapolis Colts,1,1,0,2,0,20,362.0,82.0,0,0,Home,Houston Texans
-Buffalo Bills,1,2,0,1,0,13,187.0,97.0,0,0,Home,Tennessee Titans
-Chicago Bears,1,3,0,0,0,17,181.0,117.0,0,0,Home,Kansas City Chiefs
-Jacksonville Jaguars,1,2,0,0,0,38,209.0,183.0,0,0,Home,Tampa Bay Buccaneers
-New Orleans Saints,1,0,0,2,0,39,333.0,186.0,0,0,Home,Philadelphia Eagles
-New York Giants,1,2,0,0,0,27,262.0,124.0,0,0,Away,San Francisco 49ers
-Detroit Lions,1,2,0,0,0,42,171.0,187.0,0,0,Away,Arizona Cardinals
-San Francisco 49ers,1,0,0,1,0,30,441.0,84.0,0,0,Home,New York Giants
-Cleveland Browns,1,1,0,0,0,30,210.0,181.0,0,0,Home,Baltimore Ravens
-Houston Texans,1,0,0,0,0,27,213.0,110.0,0,0,Away,Indianapolis Colts
+Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent,Week
+Tampa Bay Buccaneers,1,6,1,1,1,31,303.0,55.0,0,0,Away,Jacksonville Jaguars,5
+Denver Broncos,1,4,2,1,1,10,249.0,65.0,0,0,Home,Oakland Raiders,5
+Green Bay Packers,1,3,0,4,1,10,161.0,191.0,0,0,Away,St. Louis Rams,5
+Seattle Seahawks,1,4,1,1,1,27,331.0,109.0,0,0,Home,Cincinnati Bengals,5
+Pittsburgh Steelers,1,2,1,1,1,20,365.0,52.0,0,0,Home,San Diego Chargers,5
+Atlanta Falcons,1,1,0,2,1,19,219.0,51.0,0,0,Away,Washington Redskins,5
+Kansas City Chiefs,1,2,1,0,1,18,252.0,87.0,0,0,Away,Chicago Bears,5
+Philadelphia Eagles,1,5,3,1,0,17,335.0,96.0,0,0,Away,New Orleans Saints,5
+Arizona Cardinals,1,1,2,4,0,17,379.0,57.0,0,0,Home,Detroit Lions,5
+Washington Redskins,1,3,1,2,0,25,254.0,176.0,0,0,Home,Atlanta Falcons,5
+St. Louis Rams,1,2,1,2,0,24,241.0,86.0,0,0,Home,Green Bay Packers,5
+New England Patriots,1,3,1,1,0,6,188.0,100.0,0,0,Home,Dallas Cowboys,5
+Tennessee Titans,1,4,1,0,0,14,113.0,127.0,0,0,Away,Buffalo Bills,5
+Cincinnati Bengals,1,4,0,1,0,24,213.0,200.0,0,0,Away,Seattle Seahawks,5
+Dallas Cowboys,1,5,0,0,0,30,275.0,109.0,0,0,Away,New England Patriots,5
+San Diego Chargers,1,3,0,1,0,24,203.0,155.0,0,0,Away,Pittsburgh Steelers,5
+Baltimore Ravens,1,4,0,0,0,33,457.0,83.0,0,0,Away,Cleveland Browns,5
+Oakland Raiders,1,2,0,2,0,16,266.0,43.0,0,0,Away,Denver Broncos,5
+Indianapolis Colts,1,1,0,2,0,20,362.0,82.0,0,0,Home,Houston Texans,5
+Buffalo Bills,1,2,0,1,0,13,187.0,97.0,0,0,Home,Tennessee Titans,5
+Chicago Bears,1,3,0,0,0,17,181.0,117.0,0,0,Home,Kansas City Chiefs,5
+Jacksonville Jaguars,1,2,0,0,0,38,209.0,183.0,0,0,Home,Tampa Bay Buccaneers,5
+New Orleans Saints,1,0,0,2,0,39,333.0,186.0,0,0,Home,Philadelphia Eagles,5
+New York Giants,1,2,0,0,0,27,262.0,124.0,0,0,Away,San Francisco 49ers,5
+Detroit Lions,1,2,0,0,0,42,171.0,187.0,0,0,Away,Arizona Cardinals,5
+San Francisco 49ers,1,0,0,1,0,30,441.0,84.0,0,0,Home,New York Giants,5
+Cleveland Browns,1,1,0,0,0,30,210.0,181.0,0,0,Home,Baltimore Ravens,5
+Houston Texans,1,0,0,0,0,27,213.0,110.0,0,0,Away,Indianapolis Colts,5

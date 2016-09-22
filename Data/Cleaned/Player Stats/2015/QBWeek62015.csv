@@ -1,31 +1,31 @@
-Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
-Matthew Stafford,Detroit Lions,1,27,42,405,4,1,6,37,0,Away,Chicago Bears
-Philip Rivers,San Diego Chargers,1,43,65,503,2,0,0,0,0,Home,Green Bay Packers
-Blake Bortles,Jacksonville Jaguars,1,30,53,331,3,3,4,37,0,Away,Houston Texans
-Andrew Luck,Indianapolis Colts,1,30,50,312,3,0,4,35,0,Away,New England Patriots
-Ryan Fitzpatrick,New York Jets,1,19,26,253,2,1,4,31,1,Away,Washington Redskins
-Tom Brady,New England Patriots,1,23,37,312,3,1,4,0,0,Home,Indianapolis Colts
-Brian Hoyer,Houston Texans,1,24,36,293,3,0,5,5,0,Home,Jacksonville Jaguars
-Cam Newton,Carolina Panthers,1,20,36,269,1,2,7,30,1,Home,Seattle Seahawks
-Colin Kaepernick,San Francisco 49ers,1,16,27,340,2,0,3,10,0,Away,Baltimore Ravens
-EJ Manuel,Buffalo Bills,1,28,42,263,1,1,6,22,1,Away,Cincinnati Bengals
-Joe Flacco,Baltimore Ravens,1,33,53,343,2,2,0,0,0,Home,San Francisco 49ers
-Carson Palmer,Arizona Cardinals,1,29,45,421,1,2,2,-1,0,Home,Pittsburgh Steelers
-Andy Dalton,Cincinnati Bengals,1,22,33,243,3,0,3,-2,0,Home,Buffalo Bills
-Matt Ryan,Atlanta Falcons,1,30,44,295,2,0,4,10,0,Home,New Orleans Saints
-Jay Cutler,Chicago Bears,1,26,41,353,1,1,2,12,0,Home,Detroit Lions
-Ryan Tannehill,Miami Dolphins,1,22,29,266,2,2,2,14,0,Home,Tennessee Titans
-Aaron Rodgers,Green Bay Packers,1,16,29,255,2,0,2,14,0,Away,San Diego Chargers
-Russell Wilson,Seattle Seahawks,1,18,30,239,1,0,8,53,0,Away,Carolina Panthers
-Josh McCown,Cleveland Browns,1,20,39,213,2,2,3,12,0,Away,Denver Broncos
-Drew Brees,New Orleans Saints,1,30,39,312,1,0,2,2,0,Away,Atlanta Falcons
-Alex Smith,Kansas City Chiefs,1,22,37,282,1,0,2,10,0,Home,Minnesota Vikings
-Peyton Manning,Denver Broncos,1,26,48,290,1,3,0,0,0,Home,Cleveland Browns
-Sam Bradford,Philadelphia Eagles,1,24,38,280,1,3,4,2,0,Away,New York Giants
-Landry Jones,Pittsburgh Steelers,1,8,12,168,2,0,1,-1,0,Away,Arizona Cardinals
-Teddy Bridgewater,Minnesota Vikings,1,17,31,249,1,2,3,-5,0,Away,Kansas City Chiefs
-Marcus Mariota,Tennessee Titans,1,21,33,219,1,2,0,0,0,Away,Miami Dolphins
-Eli Manning,New York Giants,1,24,38,189,1,2,1,12,0,Home,Philadelphia Eagles
-Kirk Cousins,Washington Redskins,1,25,43,196,1,2,1,1,0,Home,New York Jets
-Michael Vick,Pittsburgh Steelers,1,3,8,6,0,0,5,47,0,Away,Arizona Cardinals
-Zach Mettenberger,Tennessee Titans,1,5,8,63,0,0,1,4,0,Away,Miami Dolphins
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent,Week
+Matthew Stafford,Detroit Lions,1,27,42,405,4,1,6,37,0,Away,Chicago Bears,6
+Philip Rivers,San Diego Chargers,1,43,65,503,2,0,0,0,0,Home,Green Bay Packers,6
+Blake Bortles,Jacksonville Jaguars,1,30,53,331,3,3,4,37,0,Away,Houston Texans,6
+Andrew Luck,Indianapolis Colts,1,30,50,312,3,0,4,35,0,Away,New England Patriots,6
+Ryan Fitzpatrick,New York Jets,1,19,26,253,2,1,4,31,1,Away,Washington Redskins,6
+Tom Brady,New England Patriots,1,23,37,312,3,1,4,0,0,Home,Indianapolis Colts,6
+Brian Hoyer,Houston Texans,1,24,36,293,3,0,5,5,0,Home,Jacksonville Jaguars,6
+Cam Newton,Carolina Panthers,1,20,36,269,1,2,7,30,1,Home,Seattle Seahawks,6
+Colin Kaepernick,San Francisco 49ers,1,16,27,340,2,0,3,10,0,Away,Baltimore Ravens,6
+EJ Manuel,Buffalo Bills,1,28,42,263,1,1,6,22,1,Away,Cincinnati Bengals,6
+Joe Flacco,Baltimore Ravens,1,33,53,343,2,2,0,0,0,Home,San Francisco 49ers,6
+Carson Palmer,Arizona Cardinals,1,29,45,421,1,2,2,-1,0,Home,Pittsburgh Steelers,6
+Andy Dalton,Cincinnati Bengals,1,22,33,243,3,0,3,-2,0,Home,Buffalo Bills,6
+Matt Ryan,Atlanta Falcons,1,30,44,295,2,0,4,10,0,Home,New Orleans Saints,6
+Jay Cutler,Chicago Bears,1,26,41,353,1,1,2,12,0,Home,Detroit Lions,6
+Ryan Tannehill,Miami Dolphins,1,22,29,266,2,2,2,14,0,Home,Tennessee Titans,6
+Aaron Rodgers,Green Bay Packers,1,16,29,255,2,0,2,14,0,Away,San Diego Chargers,6
+Russell Wilson,Seattle Seahawks,1,18,30,239,1,0,8,53,0,Away,Carolina Panthers,6
+Josh McCown,Cleveland Browns,1,20,39,213,2,2,3,12,0,Away,Denver Broncos,6
+Drew Brees,New Orleans Saints,1,30,39,312,1,0,2,2,0,Away,Atlanta Falcons,6
+Alex Smith,Kansas City Chiefs,1,22,37,282,1,0,2,10,0,Home,Minnesota Vikings,6
+Peyton Manning,Denver Broncos,1,26,48,290,1,3,0,0,0,Home,Cleveland Browns,6
+Sam Bradford,Philadelphia Eagles,1,24,38,280,1,3,4,2,0,Away,New York Giants,6
+Landry Jones,Pittsburgh Steelers,1,8,12,168,2,0,1,-1,0,Away,Arizona Cardinals,6
+Teddy Bridgewater,Minnesota Vikings,1,17,31,249,1,2,3,-5,0,Away,Kansas City Chiefs,6
+Marcus Mariota,Tennessee Titans,1,21,33,219,1,2,0,0,0,Away,Miami Dolphins,6
+Eli Manning,New York Giants,1,24,38,189,1,2,1,12,0,Home,Philadelphia Eagles,6
+Kirk Cousins,Washington Redskins,1,25,43,196,1,2,1,1,0,Home,New York Jets,6
+Michael Vick,Pittsburgh Steelers,1,3,8,6,0,0,5,47,0,Away,Arizona Cardinals,6
+Zach Mettenberger,Tennessee Titans,1,5,8,63,0,0,1,4,0,Away,Miami Dolphins,6

@@ -1,29 +1,29 @@
-Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent
-Pittsburgh Steelers,1,5,3,1,1,11,312.0,55.0,0,0,Home,Cleveland Browns
-Tampa Bay Buccaneers,1,2,1,4,1,21,286.0,104.0,0,0,Home,Detroit Lions
-Denver Broncos,1,3,3,0,1,34,324.0,116.0,0,0,Home,New England Patriots
-St. Louis Rams,1,1,2,1,1,21,344.0,80.0,0,0,Away,Chicago Bears
-Dallas Cowboys,1,2,1,0,1,21,154.0,202.0,0,0,Home,New York Giants
-Arizona Cardinals,1,1,0,1,1,11,159.0,80.0,0,0,Away,Indianapolis Colts
-Green Bay Packers,1,6,1,0,0,26,215.0,232.0,0,0,Away,Minnesota Vikings
-Baltimore Ravens,1,3,1,2,0,3,118.0,102.0,0,0,Away,New York Jets
-New England Patriots,1,2,3,1,0,31,132.0,280.0,0,0,Away,Denver Broncos
-New Orleans Saints,1,5,1,0,0,13,264.0,91.0,0,0,Home,Atlanta Falcons
-San Diego Chargers,1,3,1,1,0,38,281.0,114.0,0,0,Home,Kansas City Chiefs
-San Francisco 49ers,1,4,0,1,0,6,90.0,100.0,0,0,Home,Washington Redskins
-New York Giants,1,4,0,1,0,24,220.0,107.0,0,0,Away,Dallas Cowboys
-New York Jets,1,4,0,1,0,19,245.0,67.0,0,0,Home,Baltimore Ravens
-Carolina Panthers,1,3,0,1,0,16,280.0,52.0,0,0,Home,Miami Dolphins
-Detroit Lions,1,4,0,0,0,24,207.0,22.0,0,0,Away,Tampa Bay Buccaneers
-Houston Texans,1,4,0,0,0,13,215.0,118.0,0,0,Away,Jacksonville Jaguars
-Indianapolis Colts,1,3,0,0,0,40,290.0,120.0,0,0,Home,Arizona Cardinals
-Jacksonville Jaguars,1,2,0,1,0,6,141.0,77.0,0,0,Home,Houston Texans
-Miami Dolphins,1,2,0,1,0,20,159.0,136.0,0,0,Away,Carolina Panthers
-Washington Redskins,1,2,1,0,0,27,228.0,76.0,0,0,Away,San Francisco 49ers
-Chicago Bears,1,2,0,0,0,42,148.0,258.0,0,0,Home,St. Louis Rams
-Minnesota Vikings,1,2,0,0,0,26,298.0,196.0,0,0,Home,Green Bay Packers
-Tennessee Titans,1,0,1,1,0,19,260.0,93.0,0,0,Home,Oakland Raiders
-Oakland Raiders,1,2,0,0,0,23,312.0,114.0,0,0,Away,Tennessee Titans
-Atlanta Falcons,1,1,0,0,0,17,271.0,103.0,0,0,Away,New Orleans Saints
-Kansas City Chiefs,1,1,0,0,0,41,387.0,104.0,0,0,Away,San Diego Chargers
-Cleveland Browns,1,0,0,0,0,27,217.0,85.0,0,0,Away,Pittsburgh Steelers
+Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent,Week
+Pittsburgh Steelers,1,5,3,1,1,11,312.0,55.0,0,0,Home,Cleveland Browns,12
+Tampa Bay Buccaneers,1,2,1,4,1,21,286.0,104.0,0,0,Home,Detroit Lions,12
+Denver Broncos,1,3,3,0,1,34,324.0,116.0,0,0,Home,New England Patriots,12
+St. Louis Rams,1,1,2,1,1,21,344.0,80.0,0,0,Away,Chicago Bears,12
+Dallas Cowboys,1,2,1,0,1,21,154.0,202.0,0,0,Home,New York Giants,12
+Arizona Cardinals,1,1,0,1,1,11,159.0,80.0,0,0,Away,Indianapolis Colts,12
+Green Bay Packers,1,6,1,0,0,26,215.0,232.0,0,0,Away,Minnesota Vikings,12
+Baltimore Ravens,1,3,1,2,0,3,118.0,102.0,0,0,Away,New York Jets,12
+New England Patriots,1,2,3,1,0,31,132.0,280.0,0,0,Away,Denver Broncos,12
+New Orleans Saints,1,5,1,0,0,13,264.0,91.0,0,0,Home,Atlanta Falcons,12
+San Diego Chargers,1,3,1,1,0,38,281.0,114.0,0,0,Home,Kansas City Chiefs,12
+San Francisco 49ers,1,4,0,1,0,6,90.0,100.0,0,0,Home,Washington Redskins,12
+New York Giants,1,4,0,1,0,24,220.0,107.0,0,0,Away,Dallas Cowboys,12
+New York Jets,1,4,0,1,0,19,245.0,67.0,0,0,Home,Baltimore Ravens,12
+Carolina Panthers,1,3,0,1,0,16,280.0,52.0,0,0,Home,Miami Dolphins,12
+Detroit Lions,1,4,0,0,0,24,207.0,22.0,0,0,Away,Tampa Bay Buccaneers,12
+Houston Texans,1,4,0,0,0,13,215.0,118.0,0,0,Away,Jacksonville Jaguars,12
+Indianapolis Colts,1,3,0,0,0,40,290.0,120.0,0,0,Home,Arizona Cardinals,12
+Jacksonville Jaguars,1,2,0,1,0,6,141.0,77.0,0,0,Home,Houston Texans,12
+Miami Dolphins,1,2,0,1,0,20,159.0,136.0,0,0,Away,Carolina Panthers,12
+Washington Redskins,1,2,1,0,0,27,228.0,76.0,0,0,Away,San Francisco 49ers,12
+Chicago Bears,1,2,0,0,0,42,148.0,258.0,0,0,Home,St. Louis Rams,12
+Minnesota Vikings,1,2,0,0,0,26,298.0,196.0,0,0,Home,Green Bay Packers,12
+Tennessee Titans,1,0,1,1,0,19,260.0,93.0,0,0,Home,Oakland Raiders,12
+Oakland Raiders,1,2,0,0,0,23,312.0,114.0,0,0,Away,Tennessee Titans,12
+Atlanta Falcons,1,1,0,0,0,17,271.0,103.0,0,0,Away,New Orleans Saints,12
+Kansas City Chiefs,1,1,0,0,0,41,387.0,104.0,0,0,Away,San Diego Chargers,12
+Cleveland Browns,1,0,0,0,0,27,217.0,85.0,0,0,Away,Pittsburgh Steelers,12

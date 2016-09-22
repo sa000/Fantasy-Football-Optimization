@@ -1,31 +1,31 @@
-Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent
-Arizona Cardinals,1,2,1,3,1,20,335.0,72.0,0,0,Away,Washington Redskins
-San Francisco 49ers,1,5,0,1,1,17,216.0,93.0,0,0,Home,St. Louis Rams
-Denver Broncos,1,4,1,1,1,17,173.0,31.0,0,0,Home,New York Jets
-Houston Texans,1,3,1,1,1,33,363.0,93.0,0,0,Away,Indianapolis Colts
-Detroit Lions,1,8,0,3,0,3,143.0,69.0,0,0,Home,Minnesota Vikings
-Philadelphia Eagles,1,8,1,0,0,0,168.0,85.0,0,0,Away,New York Giants
-New England Patriots,1,5,2,1,0,22,268.0,68.0,0,0,Home,Buffalo Bills
-Tennessee Titans,1,6,1,1,0,14,297.0,82.0,0,0,Away,Jacksonville Jaguars
-Indianapolis Colts,1,5,2,0,0,28,196.0,136.0,0,0,Home,Houston Texans
-Baltimore Ravens,1,5,0,1,0,17,277.0,87.0,0,0,Home,Tampa Bay Buccaneers
-Chicago Bears,1,4,0,1,0,13,245.0,42.0,0,0,Home,Atlanta Falcons
-Green Bay Packers,1,1,1,2,0,24,237.0,112.0,0,0,Home,Miami Dolphins
-Minnesota Vikings,1,4,0,0,0,17,155.0,100.0,0,0,Away,Detroit Lions
-Atlanta Falcons,1,3,0,0,0,27,368.0,110.0,0,0,Away,Chicago Bears
-Seattle Seahawks,1,1,2,0,0,30,239.0,162.0,0,0,Away,Dallas Cowboys
-Jacksonville Jaguars,1,3,0,0,0,16,220.0,70.0,0,0,Home,Tennessee Titans
-Carolina Panthers,1,1,0,2,0,37,320.0,193.0,0,0,Home,Cincinnati Bengals
-Miami Dolphins,1,3,0,0,0,27,248.0,121.0,0,0,Away,Green Bay Packers
-Cleveland Browns,1,2,0,1,0,10,221.0,138.0,0,0,Away,Pittsburgh Steelers
-New York Giants,1,1,0,2,0,27,245.0,203.0,0,0,Home,Philadelphia Eagles
-Dallas Cowboys,1,2,0,1,0,23,126.0,80.0,0,0,Home,Seattle Seahawks
-Pittsburgh Steelers,1,1,1,0,0,31,210.0,158.0,0,0,Home,Cleveland Browns
-Buffalo Bills,1,2,0,0,0,37,346.0,50.0,0,0,Away,New England Patriots
-New York Jets,1,2,0,0,0,31,221.0,138.0,0,0,Away,Denver Broncos
-San Diego Chargers,1,0,0,1,0,28,282.0,114.0,0,0,Home,Oakland Raiders
-St. Louis Rams,1,0,1,0,0,31,343.0,89.0,0,0,Away,San Francisco 49ers
-Tampa Bay Buccaneers,1,0,1,0,0,48,306.0,169.0,0,0,Away,Baltimore Ravens
-Cincinnati Bengals,1,0,0,1,0,37,284.0,147.0,0,0,Away,Carolina Panthers
-Washington Redskins,1,1,0,0,0,30,243.0,74.0,0,0,Home,Arizona Cardinals
-Oakland Raiders,1,1,0,0,0,31,307.0,116.0,0,0,Away,San Diego Chargers
+Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent,Week
+Arizona Cardinals,1,2,1,3,1,20,335.0,72.0,0,0,Away,Washington Redskins,6
+San Francisco 49ers,1,5,0,1,1,17,216.0,93.0,0,0,Home,St. Louis Rams,6
+Denver Broncos,1,4,1,1,1,17,173.0,31.0,0,0,Home,New York Jets,6
+Houston Texans,1,3,1,1,1,33,363.0,93.0,0,0,Away,Indianapolis Colts,6
+Detroit Lions,1,8,0,3,0,3,143.0,69.0,0,0,Home,Minnesota Vikings,6
+Philadelphia Eagles,1,8,1,0,0,0,168.0,85.0,0,0,Away,New York Giants,6
+New England Patriots,1,5,2,1,0,22,268.0,68.0,0,0,Home,Buffalo Bills,6
+Tennessee Titans,1,6,1,1,0,14,297.0,82.0,0,0,Away,Jacksonville Jaguars,6
+Indianapolis Colts,1,5,2,0,0,28,196.0,136.0,0,0,Home,Houston Texans,6
+Baltimore Ravens,1,5,0,1,0,17,277.0,87.0,0,0,Home,Tampa Bay Buccaneers,6
+Chicago Bears,1,4,0,1,0,13,245.0,42.0,0,0,Home,Atlanta Falcons,6
+Green Bay Packers,1,1,1,2,0,24,237.0,112.0,0,0,Home,Miami Dolphins,6
+Minnesota Vikings,1,4,0,0,0,17,155.0,100.0,0,0,Away,Detroit Lions,6
+Atlanta Falcons,1,3,0,0,0,27,368.0,110.0,0,0,Away,Chicago Bears,6
+Seattle Seahawks,1,1,2,0,0,30,239.0,162.0,0,0,Away,Dallas Cowboys,6
+Jacksonville Jaguars,1,3,0,0,0,16,220.0,70.0,0,0,Home,Tennessee Titans,6
+Carolina Panthers,1,1,0,2,0,37,320.0,193.0,0,0,Home,Cincinnati Bengals,6
+Miami Dolphins,1,3,0,0,0,27,248.0,121.0,0,0,Away,Green Bay Packers,6
+Cleveland Browns,1,2,0,1,0,10,221.0,138.0,0,0,Away,Pittsburgh Steelers,6
+New York Giants,1,1,0,2,0,27,245.0,203.0,0,0,Home,Philadelphia Eagles,6
+Dallas Cowboys,1,2,0,1,0,23,126.0,80.0,0,0,Home,Seattle Seahawks,6
+Pittsburgh Steelers,1,1,1,0,0,31,210.0,158.0,0,0,Home,Cleveland Browns,6
+Buffalo Bills,1,2,0,0,0,37,346.0,50.0,0,0,Away,New England Patriots,6
+New York Jets,1,2,0,0,0,31,221.0,138.0,0,0,Away,Denver Broncos,6
+San Diego Chargers,1,0,0,1,0,28,282.0,114.0,0,0,Home,Oakland Raiders,6
+St. Louis Rams,1,0,1,0,0,31,343.0,89.0,0,0,Away,San Francisco 49ers,6
+Tampa Bay Buccaneers,1,0,1,0,0,48,306.0,169.0,0,0,Away,Baltimore Ravens,6
+Cincinnati Bengals,1,0,0,1,0,37,284.0,147.0,0,0,Away,Carolina Panthers,6
+Washington Redskins,1,1,0,0,0,30,243.0,74.0,0,0,Home,Arizona Cardinals,6
+Oakland Raiders,1,1,0,0,0,31,307.0,116.0,0,0,Away,San Diego Chargers,6

@@ -1,51 +1,125 @@
-Player,Team,G,ReceivingTarget,ReceivingRec,ReceivingYard,ReceivingTD,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
-Odell Beckham Jr.,New York Giants,1,9,7,166,2,0,0,0,Home,Miami Dolphins
-Doug Baldwin,Seattle Seahawks,1,9,6,82,3,0,0,0,Home,Baltimore Ravens
-Ted Ginn Jr.,Carolina Panthers,1,3,2,120,2,1,5,0,Away,Atlanta Falcons
-Tyler Lockett,Seattle Seahawks,1,7,6,104,2,0,0,0,Home,Baltimore Ravens
-Golden Tate,Detroit Lions,1,10,9,60,2,1,15,0,Home,St. Louis Rams
-A.J. Green,Cincinnati Bengals,1,9,6,132,1,0,0,0,Away,Pittsburgh Steelers
-Brandon Marshall,New York Jets,1,10,6,125,1,0,0,0,Away,Tennessee Titans
-Alshon Jeffery,Chicago Bears,1,9,6,107,1,0,0,0,Away,Washington Redskins
-Allen Hurns,Jacksonville Jaguars,1,4,3,105,1,0,0,0,Away,Indianapolis Colts
-Michael Floyd,Arizona Cardinals,1,9,5,102,1,0,0,0,Away,Minnesota Vikings
-Marques Colston,New Orleans Saints,1,8,6,36,2,0,0,0,Home,Tampa Bay Buccaneers
-Albert Wilson,Kansas City Chiefs,1,6,4,87,1,0,0,0,Away,San Diego Chargers
-Sammy Watkins,Buffalo Bills,1,12,5,81,1,1,1,0,Home,Philadelphia Eagles
-John Brown,Arizona Cardinals,1,5,4,78,1,0,0,0,Away,Minnesota Vikings
-Eric Decker,New York Jets,1,10,7,74,1,0,0,0,Away,Tennessee Titans
-T.Y. Hilton,Indianapolis Colts,1,7,4,132,0,0,0,0,Home,Jacksonville Jaguars
-Nelson Agholor,Philadelphia Eagles,1,6,3,62,1,0,0,0,Away,Buffalo Bills
-Willie Snead,New Orleans Saints,1,8,7,122,0,0,0,0,Home,Tampa Bay Buccaneers
-Rueben Randle,New York Giants,1,6,5,58,1,0,0,0,Home,Miami Dolphins
-Kenny Stills,Miami Dolphins,1,3,2,49,1,0,0,0,Away,New York Giants
-Brian Hartline,Cleveland Browns,1,10,8,107,0,0,0,0,Away,San Francisco 49ers
-Robert Woods,Buffalo Bills,1,7,5,106,0,0,0,0,Home,Philadelphia Eagles
-Mike Wallace,Minnesota Vikings,1,5,3,42,1,0,0,0,Home,Arizona Cardinals
-Jarvis Landry,Miami Dolphins,1,18,11,99,0,1,0,0,Away,New York Giants
-Demaryius Thomas,Denver Broncos,1,14,10,95,0,0,0,0,Away,Oakland Raiders
-Kamar Aiken,Baltimore Ravens,1,7,5,90,0,0,0,0,Away,Seattle Seahawks
-Randall Cobb,Green Bay Packers,1,12,8,81,0,3,9,0,Away,Dallas Cowboys
-Julio Jones,Atlanta Falcons,1,10,7,88,0,0,0,0,Home,Carolina Panthers
-Antonio Brown,Pittsburgh Steelers,1,10,7,87,0,0,0,0,Home,Cincinnati Bengals
-Keshawn Martin,New England Patriots,1,4,3,23,1,0,0,0,Home,Houston Texans
-Seth Roberts,Oakland Raiders,1,4,2,20,1,0,0,0,Home,Denver Broncos
-Jerome Simpson,San Francisco 49ers,1,4,2,20,1,0,0,0,Home,Cleveland Browns
-Jermaine Kearse,Seattle Seahawks,1,8,7,74,0,0,0,0,Home,Baltimore Ravens
-Jeremy Butler,Baltimore Ravens,1,10,7,72,0,0,0,0,Away,Seattle Seahawks
-Philly Brown,Carolina Panthers,1,6,3,59,0,1,9,0,Away,Atlanta Falcons
-Adam Humphries,Tampa Bay Buccaneers,1,3,1,6,1,0,0,0,Away,New Orleans Saints
-Jeremy Maclin,Kansas City Chiefs,1,9,6,68,0,1,-2,0,Away,San Diego Chargers
-Harry Douglas,Tennessee Titans,1,7,3,65,0,0,0,0,Home,New York Jets
-Markus Wheaton,Pittsburgh Steelers,1,7,4,65,0,0,0,0,Home,Cincinnati Bengals
-Allen Robinson,Jacksonville Jaguars,1,4,1,4,1,0,0,0,Away,Indianapolis Colts
-Marvin Jones,Cincinnati Bengals,1,8,6,61,0,0,0,0,Away,Pittsburgh Steelers
-Tavon Austin,St. Louis Rams,1,5,3,19,0,4,40,0,Away,Detroit Lions
-Malcom Floyd,San Diego Chargers,1,9,3,56,0,0,0,0,Home,Kansas City Chiefs
-Dorial Green-Beckham,Tennessee Titans,1,7,3,53,0,0,0,0,Home,New York Jets
-Pierre Garcon,Washington Redskins,1,7,5,52,0,0,0,0,Home,Chicago Bears
-DeAndre Hopkins,Houston Texans,1,6,3,52,0,0,0,0,Away,New England Patriots
-Donte Moncrief,Indianapolis Colts,1,10,3,52,0,0,0,0,Home,Jacksonville Jaguars
-Jarius Wright,Minnesota Vikings,1,6,5,51,0,0,0,0,Home,Arizona Cardinals
-Martavis Bryant,Pittsburgh Steelers,1,9,7,49,0,1,1,0,Home,Cincinnati Bengals
-James Jones,Green Bay Packers,1,7,4,49,0,0,0,0,Away,Dallas Cowboys
+Player,Team,G,ReceivingTarget,ReceivingRec,ReceivingYard,ReceivingTD,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent,Week
+Odell Beckham Jr.,New York Giants,1,9,7,166,2,0,0,0,Home,Miami Dolphins,14
+Doug Baldwin,Seattle Seahawks,1,9,6,82,3,0,0,0,Home,Baltimore Ravens,14
+Ted Ginn Jr.,Carolina Panthers,1,3,2,120,2,1,5,0,Away,Atlanta Falcons,14
+Tyler Lockett,Seattle Seahawks,1,7,6,104,2,0,0,0,Home,Baltimore Ravens,14
+Golden Tate,Detroit Lions,1,10,9,60,2,1,15,0,Home,St. Louis Rams,14
+A.J. Green,Cincinnati Bengals,1,9,6,132,1,0,0,0,Away,Pittsburgh Steelers,14
+Brandon Marshall,New York Jets,1,10,6,125,1,0,0,0,Away,Tennessee Titans,14
+Alshon Jeffery,Chicago Bears,1,9,6,107,1,0,0,0,Away,Washington Redskins,14
+Allen Hurns,Jacksonville Jaguars,1,4,3,105,1,0,0,0,Away,Indianapolis Colts,14
+Michael Floyd,Arizona Cardinals,1,9,5,102,1,0,0,0,Away,Minnesota Vikings,14
+Marques Colston,New Orleans Saints,1,8,6,36,2,0,0,0,Home,Tampa Bay Buccaneers,14
+Albert Wilson,Kansas City Chiefs,1,6,4,87,1,0,0,0,Away,San Diego Chargers,14
+Sammy Watkins,Buffalo Bills,1,12,5,81,1,1,1,0,Home,Philadelphia Eagles,14
+John Brown,Arizona Cardinals,1,5,4,78,1,0,0,0,Away,Minnesota Vikings,14
+Eric Decker,New York Jets,1,10,7,74,1,0,0,0,Away,Tennessee Titans,14
+T.Y. Hilton,Indianapolis Colts,1,7,4,132,0,0,0,0,Home,Jacksonville Jaguars,14
+Nelson Agholor,Philadelphia Eagles,1,6,3,62,1,0,0,0,Away,Buffalo Bills,14
+Willie Snead,New Orleans Saints,1,8,7,122,0,0,0,0,Home,Tampa Bay Buccaneers,14
+Rueben Randle,New York Giants,1,6,5,58,1,0,0,0,Home,Miami Dolphins,14
+Kenny Stills,Miami Dolphins,1,3,2,49,1,0,0,0,Away,New York Giants,14
+Brian Hartline,Cleveland Browns,1,10,8,107,0,0,0,0,Away,San Francisco 49ers,14
+Robert Woods,Buffalo Bills,1,7,5,106,0,0,0,0,Home,Philadelphia Eagles,14
+Mike Wallace,Minnesota Vikings,1,5,3,42,1,0,0,0,Home,Arizona Cardinals,14
+Jarvis Landry,Miami Dolphins,1,18,11,99,0,1,0,0,Away,New York Giants,14
+Demaryius Thomas,Denver Broncos,1,14,10,95,0,0,0,0,Away,Oakland Raiders,14
+Kamar Aiken,Baltimore Ravens,1,7,5,90,0,0,0,0,Away,Seattle Seahawks,14
+Randall Cobb,Green Bay Packers,1,12,8,81,0,3,9,0,Away,Dallas Cowboys,14
+Julio Jones,Atlanta Falcons,1,10,7,88,0,0,0,0,Home,Carolina Panthers,14
+Antonio Brown,Pittsburgh Steelers,1,10,7,87,0,0,0,0,Home,Cincinnati Bengals,14
+Keshawn Martin,New England Patriots,1,4,3,23,1,0,0,0,Home,Houston Texans,14
+Seth Roberts,Oakland Raiders,1,4,2,20,1,0,0,0,Home,Denver Broncos,14
+Jerome Simpson,San Francisco 49ers,1,4,2,20,1,0,0,0,Home,Cleveland Browns,14
+Jermaine Kearse,Seattle Seahawks,1,8,7,74,0,0,0,0,Home,Baltimore Ravens,14
+Jeremy Butler,Baltimore Ravens,1,10,7,72,0,0,0,0,Away,Seattle Seahawks,14
+Philly Brown,Carolina Panthers,1,6,3,59,0,1,9,0,Away,Atlanta Falcons,14
+Adam Humphries,Tampa Bay Buccaneers,1,3,1,6,1,0,0,0,Away,New Orleans Saints,14
+Jeremy Maclin,Kansas City Chiefs,1,9,6,68,0,1,-2,0,Away,San Diego Chargers,14
+Harry Douglas,Tennessee Titans,1,7,3,65,0,0,0,0,Home,New York Jets,14
+Markus Wheaton,Pittsburgh Steelers,1,7,4,65,0,0,0,0,Home,Cincinnati Bengals,14
+Allen Robinson,Jacksonville Jaguars,1,4,1,4,1,0,0,0,Away,Indianapolis Colts,14
+Marvin Jones,Cincinnati Bengals,1,8,6,61,0,0,0,0,Away,Pittsburgh Steelers,14
+Tavon Austin,St. Louis Rams,1,5,3,19,0,4,40,0,Away,Detroit Lions,14
+Malcom Floyd,San Diego Chargers,1,9,3,56,0,0,0,0,Home,Kansas City Chiefs,14
+Dorial Green-Beckham,Tennessee Titans,1,7,3,53,0,0,0,0,Home,New York Jets,14
+Pierre Garcon,Washington Redskins,1,7,5,52,0,0,0,0,Home,Chicago Bears,14
+DeAndre Hopkins,Houston Texans,1,6,3,52,0,0,0,0,Away,New England Patriots,14
+Donte Moncrief,Indianapolis Colts,1,10,3,52,0,0,0,0,Home,Jacksonville Jaguars,14
+Jarius Wright,Minnesota Vikings,1,6,5,51,0,0,0,0,Home,Arizona Cardinals,14
+Martavis Bryant,Pittsburgh Steelers,1,9,7,49,0,1,1,0,Home,Cincinnati Bengals,14
+James Jones,Green Bay Packers,1,7,4,49,0,0,0,0,Away,Dallas Cowboys,14
+Nate Washington,Houston Texans,1,4,1,49,0,0,0,0,Away,New England Patriots,14
+Daniel Brown,Baltimore Ravens,1,6,5,47,0,0,0,0,Away,Seattle Seahawks,14
+Javontee Herndon,San Diego Chargers,1,7,5,47,0,0,0,0,Home,Kansas City Chiefs,14
+Danny Amendola,New England Patriots,1,8,6,46,0,0,0,0,Home,Houston Texans,14
+Quinton Patton,San Francisco 49ers,1,9,5,46,0,0,0,0,Home,Cleveland Browns,14
+DeSean Jackson,Washington Redskins,1,4,2,43,0,0,0,0,Home,Chicago Bears,14
+Travis Benjamin,Cleveland Browns,1,7,4,41,0,0,0,0,Away,San Francisco 49ers,14
+Larry Fitzgerald,Arizona Cardinals,1,6,5,41,0,0,0,0,Away,Minnesota Vikings,14
+Dwayne Harris,New York Giants,1,5,5,41,0,0,0,0,Home,Miami Dolphins,14
+Nick Williams,Atlanta Falcons,1,4,4,40,0,0,0,0,Home,Carolina Panthers,14
+Mike Evans,Tampa Bay Buccaneers,1,4,3,39,0,0,0,0,Away,New Orleans Saints,14
+Terrance Williams,Dallas Cowboys,1,5,3,38,0,0,0,0,Home,Green Bay Packers,14
+Marc Mariani,Chicago Bears,1,3,2,37,0,0,0,0,Away,Washington Redskins,14
+Deonte Thompson,Chicago Bears,1,1,1,36,0,0,0,0,Away,Washington Redskins,14
+Kenny Britt,St. Louis Rams,1,5,2,35,0,0,0,0,Away,Detroit Lions,14
+Roddy White,Atlanta Falcons,1,5,4,35,0,0,0,0,Home,Carolina Panthers,14
+T.J. Jones,Detroit Lions,1,8,4,33,0,0,0,0,Home,St. Louis Rams,14
+Brandon Coleman,New Orleans Saints,1,3,3,32,0,0,0,0,Home,Tampa Bay Buccaneers,14
+Brandon LaFell,New England Patriots,1,8,5,32,0,0,0,0,Home,Houston Texans,14
+Bradley Marquez,St. Louis Rams,1,3,3,32,0,0,0,0,Away,Detroit Lions,14
+Brandin Cooks,New Orleans Saints,1,5,3,29,0,0,0,0,Home,Tampa Bay Buccaneers,14
+Riley Cooper,Philadelphia Eagles,1,6,3,28,0,0,0,0,Away,Buffalo Bills,14
+Josh Huff,Philadelphia Eagles,1,3,2,28,0,0,0,0,Away,Buffalo Bills,14
+Rashad Ross,Washington Redskins,1,2,2,27,0,0,0,0,Home,Chicago Bears,14
+Cole Beasley,Dallas Cowboys,1,4,3,25,0,0,0,0,Home,Green Bay Packers,14
+Devin Funchess,Carolina Panthers,1,5,3,25,0,0,0,0,Away,Atlanta Falcons,14
+Andrew Turzilli,Tennessee Titans,1,2,2,25,0,0,0,0,Home,New York Jets,14
+Mohamed Sanu,Cincinnati Bengals,1,5,2,24,0,0,0,0,Away,Pittsburgh Steelers,14
+Marlon Moore,Cleveland Browns,1,3,2,23,0,0,0,0,Away,San Francisco 49ers,14
+Anquan Boldin,San Francisco 49ers,1,3,2,22,0,0,0,0,Home,Cleveland Browns,14
+Vincent Brown,San Diego Chargers,1,2,1,22,0,0,0,0,Home,Kansas City Chiefs,14
+Marqise Lee,Jacksonville Jaguars,1,4,1,21,0,0,0,0,Away,Indianapolis Colts,14
+Chris Matthews,Baltimore Ravens,1,2,1,21,0,0,0,0,Away,Seattle Seahawks,14
+Chris Hogan,Buffalo Bills,1,5,2,20,0,0,0,0,Home,Philadelphia Eagles,14
+Michael Crabtree,Oakland Raiders,1,5,4,19,0,0,0,0,Home,Denver Broncos,14
+Andre Johnson,Indianapolis Colts,1,5,3,19,0,0,0,0,Home,Jacksonville Jaguars,14
+Jordan Matthews,Philadelphia Eagles,1,5,3,19,0,0,0,0,Away,Buffalo Bills,14
+Rashad Greene,Jacksonville Jaguars,1,4,1,18,0,0,0,0,Away,Indianapolis Colts,14
+Emmanuel Sanders,Denver Broncos,1,6,2,17,0,0,0,0,Away,Oakland Raiders,14
+Torrey Smith,San Francisco 49ers,1,2,1,17,0,0,0,0,Home,Cleveland Browns,14
+Donteea Dye,Tampa Bay Buccaneers,1,3,1,16,0,0,0,0,Away,New Orleans Saints,14
+Calvin Johnson,Detroit Lions,1,5,1,16,0,0,0,0,Home,St. Louis Rams,14
+DeVante Parker,Miami Dolphins,1,5,2,16,0,0,0,0,Away,New York Giants,14
+Eddie Royal,Chicago Bears,1,2,1,15,0,0,0,0,Away,Washington Redskins,14
+Jamison Crowder,Washington Redskins,1,1,1,13,0,0,0,0,Home,Chicago Bears,14
+Davante Adams,Green Bay Packers,1,3,2,12,0,0,0,0,Away,Dallas Cowboys,14
+Stefon Diggs,Minnesota Vikings,1,7,2,12,0,0,0,0,Home,Arizona Cardinals,14
+Bennie Fowler,Denver Broncos,1,1,1,12,0,0,0,0,Away,Oakland Raiders,14
+Greg Jennings,Miami Dolphins,1,3,2,12,0,0,0,0,Away,New York Giants,14
+Wes Welker,St. Louis Rams,1,2,1,11,0,0,0,0,Away,Detroit Lions,14
+Jerricho Cotchery,Carolina Panthers,1,2,2,10,0,0,0,0,Away,Atlanta Falcons,14
+Quincy Enunwa,New York Jets,1,3,1,10,0,0,0,0,Away,Tennessee Titans,14
+Dez Bryant,Dallas Cowboys,1,6,1,9,0,0,0,0,Home,Green Bay Packers,14
+Justin Hardy,Atlanta Falcons,1,7,1,9,0,0,0,0,Home,Carolina Panthers,14
+Cecil Shorts,Houston Texans,1,3,2,9,0,2,0,0,Away,New England Patriots,14
+Adam Thielen,Minnesota Vikings,1,1,1,7,0,0,0,0,Home,Arizona Cardinals,14
+Jaelen Strong,Houston Texans,1,1,1,6,0,0,0,0,Away,New England Patriots,14
+Vincent Jackson,Tampa Bay Buccaneers,1,1,1,5,0,0,0,0,Away,New Orleans Saints,14
+Hakeem Nicks,New York Giants,1,1,1,5,0,0,0,0,Home,Miami Dolphins,14
+Jordan Norwood,Denver Broncos,1,1,1,5,0,0,0,0,Away,Oakland Raiders,14
+Kevin Smith,Seattle Seahawks,1,1,1,5,0,0,0,0,Home,Baltimore Ravens,14
+Lucky Whitehead,Dallas Cowboys,1,1,1,2,0,1,3,0,Home,Green Bay Packers,14
+Jaron Brown,Arizona Cardinals,1,1,1,1,0,0,0,0,Away,Minnesota Vikings,14
+Jared Abbrederis,Green Bay Packers,1,1,0,0,0,0,0,0,Away,Dallas Cowboys,14
+Seyi Ajirotutu,Philadelphia Eagles,1,1,0,0,0,0,0,0,Away,Buffalo Bills,14
+Amari Cooper,Oakland Raiders,1,8,0,0,0,0,0,0,Home,Denver Broncos,14
+Phillip Dorsett,Indianapolis Colts,1,2,0,0,0,0,0,0,Home,Jacksonville Jaguars,14
+Bruce Ellington,San Francisco 49ers,1,1,0,0,0,0,0,0,Home,Cleveland Browns,14
+Chris Givens,Baltimore Ravens,1,5,0,0,0,0,0,0,Away,Seattle Seahawks,14
+Ryan Grant,Washington Redskins,1,1,0,0,0,0,0,0,Home,Chicago Bears,14
+J.J. Nelson,Arizona Cardinals,1,1,0,0,0,0,0,0,Away,Minnesota Vikings,14
+Devin Smith,New York Jets,1,3,0,0,0,0,0,0,Away,Tennessee Titans,14
+Devin Street,Dallas Cowboys,1,1,0,0,0,0,0,0,Home,Green Bay Packers,14
+Cody Latimer,Denver Broncos,1,0,0,0,0,1,-4,0,Away,Oakland Raiders,14

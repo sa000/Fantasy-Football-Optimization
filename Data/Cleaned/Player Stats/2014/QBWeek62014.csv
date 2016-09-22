@@ -1,33 +1,33 @@
-Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
-Cam Newton,Carolina Panthers,1,29,46,284,2,1,17,107,1,Home,Cincinnati Bengals
-Joe Flacco,Baltimore Ravens,1,21,29,306,5,0,0,0,0,Home,Tampa Bay Buccaneers
-Tom Brady,New England Patriots,1,27,37,361,4,0,4,3,0,Home,Buffalo Bills
-Colin Kaepernick,San Francisco 49ers,1,22,36,343,3,0,3,37,0,Home,St. Louis Rams
-Andrew Luck,Indianapolis Colts,1,25,44,370,3,1,7,18,0,Home,Houston Texans
-Derek Carr,Oakland Raiders,1,18,34,282,4,1,1,2,0,Away,San Diego Chargers
-Philip Rivers,San Diego Chargers,1,22,34,313,3,0,5,13,0,Home,Oakland Raiders
-Aaron Rodgers,Green Bay Packers,1,24,42,264,3,0,7,34,0,Home,Miami Dolphins
-Andy Dalton,Cincinnati Bengals,1,34,44,323,2,2,4,25,0,Away,Carolina Panthers
-Kirk Cousins,Washington Redskins,1,24,38,354,2,3,0,0,0,Home,Arizona Cardinals
-Ryan Tannehill,Miami Dolphins,1,20,31,244,2,2,3,49,0,Away,Green Bay Packers
-Blake Bortles,Jacksonville Jaguars,1,32,46,336,1,1,5,38,0,Home,Tennessee Titans
-Jay Cutler,Chicago Bears,1,26,38,381,1,0,5,11,0,Home,Atlanta Falcons
-Peyton Manning,Denver Broncos,1,22,33,237,3,0,1,0,0,Home,New York Jets
-Mike Glennon,Tampa Bay Buccaneers,1,24,44,314,2,1,0,0,0,Away,Baltimore Ravens
-Kyle Orton,Buffalo Bills,1,24,38,299,2,1,0,0,0,Away,New England Patriots
-Nick Foles,Philadelphia Eagles,1,21,34,248,2,2,2,5,0,Away,New York Giants
-Tony Romo,Dallas Cowboys,1,21,32,250,2,0,2,-1,0,Home,Seattle Seahawks
-Carson Palmer,Arizona Cardinals,1,28,44,250,2,0,1,-3,0,Away,Washington Redskins
-Geno Smith,New York Jets,1,23,43,190,2,1,2,11,0,Away,Denver Broncos
-Matt Ryan,Atlanta Falcons,1,19,37,271,1,1,1,-1,0,Away,Chicago Bears
-Ben Roethlisberger,Pittsburgh Steelers,1,21,42,228,1,1,1,7,0,Home,Cleveland Browns
-Austin Davis,St. Louis Rams,1,21,42,236,1,1,1,-1,0,Away,San Francisco 49ers
-Ryan Fitzpatrick,Houston Texans,1,15,23,212,1,0,1,5,0,Away,Indianapolis Colts
-Brian Hoyer,Cleveland Browns,1,8,17,217,1,0,1,0,0,Away,Pittsburgh Steelers
-Russell Wilson,Seattle Seahawks,1,14,28,126,0,1,2,12,1,Away,Dallas Cowboys
-Matthew Stafford,Detroit Lions,1,19,33,185,1,0,1,1,0,Home,Minnesota Vikings
-Charlie Whitehurst,Tennessee Titans,1,17,28,233,0,0,2,1,0,Away,Jacksonville Jaguars
-Teddy Bridgewater,Minnesota Vikings,1,23,37,188,0,3,3,11,0,Away,Detroit Lions
-Eli Manning,New York Giants,1,13,23,151,0,0,2,3,0,Home,Philadelphia Eagles
-Ryan Nassib,New York Giants,1,4,5,60,0,0,0,0,0,Home,Philadelphia Eagles
-Tyrod Taylor,Baltimore Ravens,1,0,0,0,0,0,4,-3,0,Home,Tampa Bay Buccaneers
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent,Week
+Cam Newton,Carolina Panthers,1,29,46,284,2,1,17,107,1,Home,Cincinnati Bengals,6
+Joe Flacco,Baltimore Ravens,1,21,29,306,5,0,0,0,0,Home,Tampa Bay Buccaneers,6
+Tom Brady,New England Patriots,1,27,37,361,4,0,4,3,0,Home,Buffalo Bills,6
+Colin Kaepernick,San Francisco 49ers,1,22,36,343,3,0,3,37,0,Home,St. Louis Rams,6
+Andrew Luck,Indianapolis Colts,1,25,44,370,3,1,7,18,0,Home,Houston Texans,6
+Derek Carr,Oakland Raiders,1,18,34,282,4,1,1,2,0,Away,San Diego Chargers,6
+Philip Rivers,San Diego Chargers,1,22,34,313,3,0,5,13,0,Home,Oakland Raiders,6
+Aaron Rodgers,Green Bay Packers,1,24,42,264,3,0,7,34,0,Home,Miami Dolphins,6
+Andy Dalton,Cincinnati Bengals,1,34,44,323,2,2,4,25,0,Away,Carolina Panthers,6
+Kirk Cousins,Washington Redskins,1,24,38,354,2,3,0,0,0,Home,Arizona Cardinals,6
+Ryan Tannehill,Miami Dolphins,1,20,31,244,2,2,3,49,0,Away,Green Bay Packers,6
+Blake Bortles,Jacksonville Jaguars,1,32,46,336,1,1,5,38,0,Home,Tennessee Titans,6
+Jay Cutler,Chicago Bears,1,26,38,381,1,0,5,11,0,Home,Atlanta Falcons,6
+Peyton Manning,Denver Broncos,1,22,33,237,3,0,1,0,0,Home,New York Jets,6
+Mike Glennon,Tampa Bay Buccaneers,1,24,44,314,2,1,0,0,0,Away,Baltimore Ravens,6
+Kyle Orton,Buffalo Bills,1,24,38,299,2,1,0,0,0,Away,New England Patriots,6
+Nick Foles,Philadelphia Eagles,1,21,34,248,2,2,2,5,0,Away,New York Giants,6
+Tony Romo,Dallas Cowboys,1,21,32,250,2,0,2,-1,0,Home,Seattle Seahawks,6
+Carson Palmer,Arizona Cardinals,1,28,44,250,2,0,1,-3,0,Away,Washington Redskins,6
+Geno Smith,New York Jets,1,23,43,190,2,1,2,11,0,Away,Denver Broncos,6
+Matt Ryan,Atlanta Falcons,1,19,37,271,1,1,1,-1,0,Away,Chicago Bears,6
+Ben Roethlisberger,Pittsburgh Steelers,1,21,42,228,1,1,1,7,0,Home,Cleveland Browns,6
+Austin Davis,St. Louis Rams,1,21,42,236,1,1,1,-1,0,Away,San Francisco 49ers,6
+Ryan Fitzpatrick,Houston Texans,1,15,23,212,1,0,1,5,0,Away,Indianapolis Colts,6
+Brian Hoyer,Cleveland Browns,1,8,17,217,1,0,1,0,0,Away,Pittsburgh Steelers,6
+Russell Wilson,Seattle Seahawks,1,14,28,126,0,1,2,12,1,Away,Dallas Cowboys,6
+Matthew Stafford,Detroit Lions,1,19,33,185,1,0,1,1,0,Home,Minnesota Vikings,6
+Charlie Whitehurst,Tennessee Titans,1,17,28,233,0,0,2,1,0,Away,Jacksonville Jaguars,6
+Teddy Bridgewater,Minnesota Vikings,1,23,37,188,0,3,3,11,0,Away,Detroit Lions,6
+Eli Manning,New York Giants,1,13,23,151,0,0,2,3,0,Home,Philadelphia Eagles,6
+Ryan Nassib,New York Giants,1,4,5,60,0,0,0,0,0,Home,Philadelphia Eagles,6
+Tyrod Taylor,Baltimore Ravens,1,0,0,0,0,0,4,-3,0,Home,Tampa Bay Buccaneers,6

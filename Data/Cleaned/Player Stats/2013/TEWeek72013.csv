@@ -1,51 +1,54 @@
-Player,Team,G,ReceivingTarget,ReceivingRec,ReceivingYard,ReceivingTD,Home or Away,Opponent
-Jordan Reed,Washington Redskins,1,9,9,134,1,Away,Chicago Bears
-Jermichael Finley,Green Bay Packers,1,5,5,72,1,Away,Cleveland Browns
-Jordan Cameron,Cleveland Browns,1,9,7,55,1,Home,Green Bay Packers
-Rob Gronkowski,New England Patriots,1,17,8,114,0,Home,New York Jets
-Delanie Walker,Tennessee Titans,1,5,3,52,1,Away,San Francisco 49ers
-Tyler Eifert,Cincinnati Bengals,1,4,3,45,1,Home,Detroit Lions
-Julius Thomas,Denver Broncos,1,6,5,41,1,Home,Indianapolis Colts
-Zach Miller,Seattle Seahawks,1,7,5,40,1,Home,Arizona Cardinals
-Coby Fleener,Indianapolis Colts,1,5,5,38,1,Away,Denver Broncos
-Heath Miller,Pittsburgh Steelers,1,4,2,17,1,Away,Baltimore Ravens
-Dallas Clark,Baltimore Ravens,1,4,3,9,1,Home,Pittsburgh Steelers
-Martellus Bennett,Chicago Bears,1,3,1,7,1,Home,Washington Redskins
-Charles Clay,Miami Dolphins,1,3,1,7,1,Away,Buffalo Bills
-Brandon Pettigrew,Detroit Lions,1,7,3,7,1,Away,Cincinnati Bengals
-Jermaine Gresham,Cincinnati Bengals,1,5,4,64,0,Home,Detroit Lions
-Vernon Davis,San Francisco 49ers,1,8,4,62,0,Home,Tennessee Titans
-Kellen Davis,Seattle Seahawks,1,1,1,1,1,Home,Arizona Cardinals
-Robert Housler,Arizona Cardinals,1,7,7,53,0,Away,Seattle Seahawks
-Jason Witten,Dallas Cowboys,1,6,4,48,0,Home,Philadelphia Eagles
-Greg Olsen,Carolina Panthers,1,4,4,47,0,Away,St. Louis Rams
-Jeff Cumberland,New York Jets,1,7,3,41,0,Away,New England Patriots
-Ladarius Green,San Diego Chargers,1,3,2,40,0,Home,Jacksonville Jaguars
-Garrett Graham,Houston Texans,1,8,3,38,0,Home,Kansas City Chiefs
-Jared Cook,St. Louis Rams,1,7,4,33,0,Home,Carolina Panthers
-Zach Ertz,Philadelphia Eagles,1,5,3,33,0,Away,Dallas Cowboys
-Antonio Gates,San Diego Chargers,1,6,6,31,0,Home,Jacksonville Jaguars
-Marcedes Lewis,Jacksonville Jaguars,1,3,1,31,0,Away,San Diego Chargers
-Tony Gonzalez,Atlanta Falcons,1,4,2,30,0,Away,Tampa Bay Buccaneers
-Anthony Fasano,Kansas City Chiefs,1,5,4,27,0,Away,Houston Texans
-Kyle Rudolph,Minnesota Vikings,1,9,3,27,0,Home,New York Giants
-Luke Willson,Seattle Seahawks,1,2,1,23,0,Home,Arizona Cardinals
-Vance McDonald,San Francisco 49ers,1,2,1,20,0,Home,Tennessee Titans
-Scott Chandler,Buffalo Bills,1,3,2,18,0,Home,Miami Dolphins
-Lee Smith,Buffalo Bills,1,1,1,18,0,Home,Miami Dolphins
-Ed Dickson,Baltimore Ravens,1,2,2,17,0,Home,Pittsburgh Steelers
-David Paulson,Pittsburgh Steelers,1,1,1,17,0,Away,Baltimore Ravens
-Joseph Fauria,Detroit Lions,1,4,1,15,0,Away,Cincinnati Bengals
-Brandon Myers,New York Giants,1,3,2,15,0,Away,Minnesota Vikings
-Tim Wright,Tampa Bay Buccaneers,1,3,2,15,0,Home,Atlanta Falcons
-Tom Crabtree,Tampa Bay Buccaneers,1,2,1,14,0,Home,Atlanta Falcons
-John Carlson,Minnesota Vikings,1,2,1,9,0,Home,New York Giants
-Brent Celek,Philadelphia Eagles,1,4,1,9,0,Away,Dallas Cowboys
-Jim Dray,Arizona Cardinals,1,2,1,8,0,Away,Seattle Seahawks
-Jack Doyle,Indianapolis Colts,1,2,1,7,0,Away,Denver Broncos
-Lance Kendricks,St. Louis Rams,1,3,2,7,0,Home,Carolina Panthers
-Jacob Tamme,Denver Broncos,1,1,1,7,0,Home,Indianapolis Colts
-John Phillips,San Diego Chargers,1,1,1,5,0,Home,Jacksonville Jaguars
-Bear Pascoe,New York Giants,1,2,1,4,0,Away,Minnesota Vikings
-Sean McGrath,Kansas City Chiefs,1,2,1,1,0,Away,Houston Texans
-Gary Barnidge,Cleveland Browns,1,1,0,0,0,Home,Green Bay Packers
+Player,Team,G,ReceivingTarget,ReceivingRec,ReceivingYard,ReceivingTD,Home or Away,Opponent,Week
+Jordan Reed,Washington Redskins,1,9,9,134,1,Away,Chicago Bears,7
+Jermichael Finley,Green Bay Packers,1,5,5,72,1,Away,Cleveland Browns,7
+Jordan Cameron,Cleveland Browns,1,9,7,55,1,Home,Green Bay Packers,7
+Rob Gronkowski,New England Patriots,1,17,8,114,0,Home,New York Jets,7
+Delanie Walker,Tennessee Titans,1,5,3,52,1,Away,San Francisco 49ers,7
+Tyler Eifert,Cincinnati Bengals,1,4,3,45,1,Home,Detroit Lions,7
+Julius Thomas,Denver Broncos,1,6,5,41,1,Home,Indianapolis Colts,7
+Zach Miller,Seattle Seahawks,1,7,5,40,1,Home,Arizona Cardinals,7
+Coby Fleener,Indianapolis Colts,1,5,5,38,1,Away,Denver Broncos,7
+Heath Miller,Pittsburgh Steelers,1,4,2,17,1,Away,Baltimore Ravens,7
+Dallas Clark,Baltimore Ravens,1,4,3,9,1,Home,Pittsburgh Steelers,7
+Martellus Bennett,Chicago Bears,1,3,1,7,1,Home,Washington Redskins,7
+Charles Clay,Miami Dolphins,1,3,1,7,1,Away,Buffalo Bills,7
+Brandon Pettigrew,Detroit Lions,1,7,3,7,1,Away,Cincinnati Bengals,7
+Jermaine Gresham,Cincinnati Bengals,1,5,4,64,0,Home,Detroit Lions,7
+Vernon Davis,San Francisco 49ers,1,8,4,62,0,Home,Tennessee Titans,7
+Kellen Davis,Seattle Seahawks,1,1,1,1,1,Home,Arizona Cardinals,7
+Robert Housler,Arizona Cardinals,1,7,7,53,0,Away,Seattle Seahawks,7
+Jason Witten,Dallas Cowboys,1,6,4,48,0,Home,Philadelphia Eagles,7
+Greg Olsen,Carolina Panthers,1,4,4,47,0,Away,St. Louis Rams,7
+Jeff Cumberland,New York Jets,1,7,3,41,0,Away,New England Patriots,7
+Ladarius Green,San Diego Chargers,1,3,2,40,0,Home,Jacksonville Jaguars,7
+Garrett Graham,Houston Texans,1,8,3,38,0,Home,Kansas City Chiefs,7
+Jared Cook,St. Louis Rams,1,7,4,33,0,Home,Carolina Panthers,7
+Zach Ertz,Philadelphia Eagles,1,5,3,33,0,Away,Dallas Cowboys,7
+Antonio Gates,San Diego Chargers,1,6,6,31,0,Home,Jacksonville Jaguars,7
+Marcedes Lewis,Jacksonville Jaguars,1,3,1,31,0,Away,San Diego Chargers,7
+Tony Gonzalez,Atlanta Falcons,1,4,2,30,0,Away,Tampa Bay Buccaneers,7
+Anthony Fasano,Kansas City Chiefs,1,5,4,27,0,Away,Houston Texans,7
+Kyle Rudolph,Minnesota Vikings,1,9,3,27,0,Home,New York Giants,7
+Luke Willson,Seattle Seahawks,1,2,1,23,0,Home,Arizona Cardinals,7
+Vance McDonald,San Francisco 49ers,1,2,1,20,0,Home,Tennessee Titans,7
+Scott Chandler,Buffalo Bills,1,3,2,18,0,Home,Miami Dolphins,7
+Lee Smith,Buffalo Bills,1,1,1,18,0,Home,Miami Dolphins,7
+Ed Dickson,Baltimore Ravens,1,2,2,17,0,Home,Pittsburgh Steelers,7
+David Paulson,Pittsburgh Steelers,1,1,1,17,0,Away,Baltimore Ravens,7
+Joseph Fauria,Detroit Lions,1,4,1,15,0,Away,Cincinnati Bengals,7
+Brandon Myers,New York Giants,1,3,2,15,0,Away,Minnesota Vikings,7
+Tim Wright,Tampa Bay Buccaneers,1,3,2,15,0,Home,Atlanta Falcons,7
+Tom Crabtree,Tampa Bay Buccaneers,1,2,1,14,0,Home,Atlanta Falcons,7
+John Carlson,Minnesota Vikings,1,2,1,9,0,Home,New York Giants,7
+Brent Celek,Philadelphia Eagles,1,4,1,9,0,Away,Dallas Cowboys,7
+Jim Dray,Arizona Cardinals,1,2,1,8,0,Away,Seattle Seahawks,7
+Jack Doyle,Indianapolis Colts,1,2,1,7,0,Away,Denver Broncos,7
+Lance Kendricks,St. Louis Rams,1,3,2,7,0,Home,Carolina Panthers,7
+Jacob Tamme,Denver Broncos,1,1,1,7,0,Home,Indianapolis Colts,7
+John Phillips,San Diego Chargers,1,1,1,5,0,Home,Jacksonville Jaguars,7
+Bear Pascoe,New York Giants,1,2,1,4,0,Away,Minnesota Vikings,7
+Sean McGrath,Kansas City Chiefs,1,2,1,1,0,Away,Houston Texans,7
+Gary Barnidge,Cleveland Browns,1,1,0,0,0,Home,Green Bay Packers,7
+Gavin Escobar,Dallas Cowboys,1,1,0,0,0,Home,Philadelphia Eagles,7
+Logan Paulsen,Washington Redskins,1,1,0,0,0,Away,Chicago Bears,7
+Andrew Quarless,Green Bay Packers,1,1,0,0,0,Away,Cleveland Browns,7

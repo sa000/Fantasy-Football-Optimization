@@ -1,29 +1,29 @@
-Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent
-Seattle Seahawks,1,3,2,1,1,39,363.0,117.0,0,0,Away,Arizona Cardinals
-Buffalo Bills,1,1,2,2,1,17,193.0,128.0,0,0,Home,New York Jets
-Kansas City Chiefs,1,5,0,5,0,13,181.0,69.0,0,0,Home,Denver Broncos
-Minnesota Vikings,1,2,0,2,0,14,302.0,84.0,0,1,Home,Oakland Raiders
-Washington Redskins,1,2,0,2,1,14,209.0,158.0,0,0,Away,New Orleans Saints
-Pittsburgh Steelers,1,6,2,1,0,9,372.0,15.0,0,0,Away,Cleveland Browns
-Philadelphia Eagles,1,4,0,0,0,20,217.0,99.0,1,0,Away,Miami Dolphins
-Arizona Cardinals,1,2,0,1,0,32,240.0,115.0,1,0,Home,Seattle Seahawks
-Houston Texans,1,3,1,1,0,6,197.0,73.0,0,0,Home,Cincinnati Bengals
-Jacksonville Jaguars,1,1,2,2,0,20,316.0,89.0,0,0,Home,Baltimore Ravens
-Miami Dolphins,1,4,0,1,0,19,392.0,83.0,0,0,Home,Philadelphia Eagles
-Tennessee Titans,1,5,0,0,0,27,217.0,119.0,0,0,Away,Carolina Panthers
-New York Giants,1,3,1,1,0,27,334.0,77.0,0,0,Away,New England Patriots
-Baltimore Ravens,1,3,0,1,0,22,188.0,90.0,0,0,Away,Jacksonville Jaguars
-St. Louis Rams,1,2,2,0,0,37,258.0,153.0,0,0,Away,Chicago Bears
-Tampa Bay Buccaneers,1,3,0,1,0,6,186.0,42.0,0,0,Away,Dallas Cowboys
-Cincinnati Bengals,1,3,0,1,0,10,192.0,82.0,0,0,Away,Houston Texans
-New England Patriots,1,3,1,0,0,26,361.0,80.0,0,0,Home,New York Giants
-Dallas Cowboys,1,2,0,2,0,10,264.0,81.0,0,0,Home,Tampa Bay Buccaneers
-New York Jets,1,4,0,0,0,22,158.0,148.0,0,0,Away,Buffalo Bills
-Oakland Raiders,1,4,0,0,0,30,140.0,263.0,0,0,Away,Minnesota Vikings
-Carolina Panthers,1,1,1,1,0,10,185.0,64.0,0,0,Home,Tennessee Titans
-Chicago Bears,1,1,1,1,0,13,200.0,94.0,0,0,Home,St. Louis Rams
-Cleveland Browns,1,1,1,1,0,30,402.0,60.0,0,0,Home,Pittsburgh Steelers
-New Orleans Saints,1,3,0,0,0,47,324.0,225.0,0,0,Home,Washington Redskins
-Detroit Lions,1,3,0,0,0,16,333.0,47.0,0,0,Home,Green Bay Packers
-Denver Broncos,1,2,0,0,0,29,204.0,106.0,0,0,Away,Kansas City Chiefs
-Green Bay Packers,1,0,0,1,0,18,242.0,45.0,0,0,Away,Detroit Lions
+Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent,Week
+Seattle Seahawks,1,3,2,1,1,39,363.0,117.0,0,0,Away,Arizona Cardinals,10
+Buffalo Bills,1,1,2,2,1,17,193.0,128.0,0,0,Home,New York Jets,10
+Kansas City Chiefs,1,5,0,5,0,13,181.0,69.0,0,0,Home,Denver Broncos,10
+Minnesota Vikings,1,2,0,2,0,14,302.0,84.0,0,1,Home,Oakland Raiders,10
+Washington Redskins,1,2,0,2,1,14,209.0,158.0,0,0,Away,New Orleans Saints,10
+Pittsburgh Steelers,1,6,2,1,0,9,372.0,15.0,0,0,Away,Cleveland Browns,10
+Philadelphia Eagles,1,4,0,0,0,20,217.0,99.0,1,0,Away,Miami Dolphins,10
+Arizona Cardinals,1,2,0,1,0,32,240.0,115.0,1,0,Home,Seattle Seahawks,10
+Houston Texans,1,3,1,1,0,6,197.0,73.0,0,0,Home,Cincinnati Bengals,10
+Jacksonville Jaguars,1,1,2,2,0,20,316.0,89.0,0,0,Home,Baltimore Ravens,10
+Miami Dolphins,1,4,0,1,0,19,392.0,83.0,0,0,Home,Philadelphia Eagles,10
+Tennessee Titans,1,5,0,0,0,27,217.0,119.0,0,0,Away,Carolina Panthers,10
+New York Giants,1,3,1,1,0,27,334.0,77.0,0,0,Away,New England Patriots,10
+Baltimore Ravens,1,3,0,1,0,22,188.0,90.0,0,0,Away,Jacksonville Jaguars,10
+St. Louis Rams,1,2,2,0,0,37,258.0,153.0,0,0,Away,Chicago Bears,10
+Tampa Bay Buccaneers,1,3,0,1,0,6,186.0,42.0,0,0,Away,Dallas Cowboys,10
+Cincinnati Bengals,1,3,0,1,0,10,192.0,82.0,0,0,Away,Houston Texans,10
+New England Patriots,1,3,1,0,0,26,361.0,80.0,0,0,Home,New York Giants,10
+Dallas Cowboys,1,2,0,2,0,10,264.0,81.0,0,0,Home,Tampa Bay Buccaneers,10
+New York Jets,1,4,0,0,0,22,158.0,148.0,0,0,Away,Buffalo Bills,10
+Oakland Raiders,1,4,0,0,0,30,140.0,263.0,0,0,Away,Minnesota Vikings,10
+Carolina Panthers,1,1,1,1,0,10,185.0,64.0,0,0,Home,Tennessee Titans,10
+Chicago Bears,1,1,1,1,0,13,200.0,94.0,0,0,Home,St. Louis Rams,10
+Cleveland Browns,1,1,1,1,0,30,402.0,60.0,0,0,Home,Pittsburgh Steelers,10
+New Orleans Saints,1,3,0,0,0,47,324.0,225.0,0,0,Home,Washington Redskins,10
+Detroit Lions,1,3,0,0,0,16,333.0,47.0,0,0,Home,Green Bay Packers,10
+Denver Broncos,1,2,0,0,0,29,204.0,106.0,0,0,Away,Kansas City Chiefs,10
+Green Bay Packers,1,0,0,1,0,18,242.0,45.0,0,0,Away,Detroit Lions,10

@@ -1,39 +1,39 @@
-Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent
-Marcus Mariota,Tennessee Titans,1,20,29,268,3,1,9,112,1,Away,Jacksonville Jaguars
-Cam Newton,Carolina Panthers,1,28,41,331,5,1,10,49,0,Home,New Orleans Saints
-Russell Wilson,Seattle Seahawks,1,21,27,274,3,0,9,51,1,Home,Minnesota Vikings
-Blake Bortles,Jacksonville Jaguars,1,24,36,322,5,0,2,-1,0,Home,Tennessee Titans
-Ben Roethlisberger,Pittsburgh Steelers,1,24,39,364,4,0,1,13,0,Away,Indianapolis Colts
-Tom Brady,New England Patriots,1,29,56,312,3,2,6,17,1,Away,Philadelphia Eagles
-Tyrod Taylor,Buffalo Bills,1,11,21,211,3,0,7,28,1,Away,Houston Texans
-Aaron Rodgers,Green Bay Packers,1,24,36,273,2,1,4,27,1,Home,Detroit Lions
-Ryan Fitzpatrick,New York Jets,1,36,50,390,2,0,5,22,0,Home,New York Giants
-Brian Hoyer,Houston Texans,1,26,43,293,3,1,3,15,0,Home,Buffalo Bills
-Drew Brees,New Orleans Saints,1,24,42,282,3,1,1,12,0,Away,Carolina Panthers
-Blaine Gabbert,San Francisco 49ers,1,18,32,196,1,0,6,75,1,Home,Chicago Bears
-Andy Dalton,Cincinnati Bengals,1,14,19,220,2,0,4,11,1,Home,Cleveland Browns
-Carson Palmer,Arizona Cardinals,1,26,40,356,2,0,0,0,0,Home,St. Louis Rams
-Alex Smith,Kansas City Chiefs,1,16,22,162,2,0,5,23,1,Home,Oakland Raiders
-Jameis Winston,Tampa Bay Buccaneers,1,18,27,227,1,1,5,15,1,Away,Atlanta Falcons
-Derek Carr,Oakland Raiders,1,31,48,283,2,3,0,0,0,Away,Kansas City Chiefs
-Matthew Stafford,Detroit Lions,1,23,35,220,2,0,2,22,0,Away,Green Bay Packers
-Matt Schaub,Baltimore Ravens,1,32,46,308,1,2,1,0,0,Home,Miami Dolphins
-Eli Manning,New York Giants,1,18,34,297,1,1,1,2,0,Away,New York Jets
-Matt Ryan,Atlanta Falcons,1,30,45,269,1,1,1,4,0,Home,Tampa Bay Buccaneers
-Kirk Cousins,Washington Redskins,1,22,31,219,1,0,1,6,0,Away,Dallas Cowboys
-Sam Bradford,Philadelphia Eagles,1,14,24,120,2,0,1,-1,0,Home,New England Patriots
-Matt Hasselbeck,Indianapolis Colts,1,16,26,169,1,2,2,1,0,Home,Pittsburgh Steelers
-Brock Osweiler,Denver Broncos,1,16,26,166,1,1,3,1,0,Home,San Diego Chargers
-Austin Davis,Cleveland Browns,1,25,38,230,0,1,3,4,0,Away,Cincinnati Bengals
-Jay Cutler,Chicago Bears,1,18,31,202,0,1,4,10,0,Away,San Francisco 49ers
-Matt Cassel,Dallas Cowboys,1,16,29,222,0,0,2,-3,0,Home,Washington Redskins
-Philip Rivers,San Diego Chargers,1,18,35,202,0,1,0,0,0,Away,Denver Broncos
-Ryan Tannehill,Miami Dolphins,1,9,19,86,1,0,1,11,0,Away,Baltimore Ravens
-Nick Foles,St. Louis Rams,1,15,35,146,0,1,2,-2,0,Away,Arizona Cardinals
-Teddy Bridgewater,Minnesota Vikings,1,17,28,118,0,1,1,2,0,Away,Seattle Seahawks
-Charlie Whitehurst,Indianapolis Colts,1,4,8,51,0,0,0,0,0,Home,Pittsburgh Steelers
-AJ McCarron,Cincinnati Bengals,1,2,3,19,0,0,0,0,0,Home,Cleveland Browns
-B.J. Daniels,Seattle Seahawks,1,0,0,0,0,0,0,0,0,Home,Minnesota Vikings
-Drew Stanton,Arizona Cardinals,1,1,1,6,0,0,3,-3,0,Home,St. Louis Rams
-Landry Jones,Pittsburgh Steelers,1,0,0,0,0,0,1,-1,0,Away,Indianapolis Colts
-Tarvaris Jackson,Seattle Seahawks,1,0,1,0,0,0,2,-2,0,Home,Minnesota Vikings
+Player,Team,G,PassingComp,PassingAtt,PassingYard,PassingTD,PassingINT,RushingAtt,RushingYard,RushingTD,Home or Away,Opponent,Week
+Marcus Mariota,Tennessee Titans,1,20,29,268,3,1,9,112,1,Away,Jacksonville Jaguars,13
+Cam Newton,Carolina Panthers,1,28,41,331,5,1,10,49,0,Home,New Orleans Saints,13
+Russell Wilson,Seattle Seahawks,1,21,27,274,3,0,9,51,1,Home,Minnesota Vikings,13
+Blake Bortles,Jacksonville Jaguars,1,24,36,322,5,0,2,-1,0,Home,Tennessee Titans,13
+Ben Roethlisberger,Pittsburgh Steelers,1,24,39,364,4,0,1,13,0,Away,Indianapolis Colts,13
+Tom Brady,New England Patriots,1,29,56,312,3,2,6,17,1,Away,Philadelphia Eagles,13
+Tyrod Taylor,Buffalo Bills,1,11,21,211,3,0,7,28,1,Away,Houston Texans,13
+Aaron Rodgers,Green Bay Packers,1,24,36,273,2,1,4,27,1,Home,Detroit Lions,13
+Ryan Fitzpatrick,New York Jets,1,36,50,390,2,0,5,22,0,Home,New York Giants,13
+Brian Hoyer,Houston Texans,1,26,43,293,3,1,3,15,0,Home,Buffalo Bills,13
+Drew Brees,New Orleans Saints,1,24,42,282,3,1,1,12,0,Away,Carolina Panthers,13
+Blaine Gabbert,San Francisco 49ers,1,18,32,196,1,0,6,75,1,Home,Chicago Bears,13
+Andy Dalton,Cincinnati Bengals,1,14,19,220,2,0,4,11,1,Home,Cleveland Browns,13
+Carson Palmer,Arizona Cardinals,1,26,40,356,2,0,0,0,0,Home,St. Louis Rams,13
+Alex Smith,Kansas City Chiefs,1,16,22,162,2,0,5,23,1,Home,Oakland Raiders,13
+Jameis Winston,Tampa Bay Buccaneers,1,18,27,227,1,1,5,15,1,Away,Atlanta Falcons,13
+Derek Carr,Oakland Raiders,1,31,48,283,2,3,0,0,0,Away,Kansas City Chiefs,13
+Matthew Stafford,Detroit Lions,1,23,35,220,2,0,2,22,0,Away,Green Bay Packers,13
+Matt Schaub,Baltimore Ravens,1,32,46,308,1,2,1,0,0,Home,Miami Dolphins,13
+Eli Manning,New York Giants,1,18,34,297,1,1,1,2,0,Away,New York Jets,13
+Matt Ryan,Atlanta Falcons,1,30,45,269,1,1,1,4,0,Home,Tampa Bay Buccaneers,13
+Kirk Cousins,Washington Redskins,1,22,31,219,1,0,1,6,0,Away,Dallas Cowboys,13
+Sam Bradford,Philadelphia Eagles,1,14,24,120,2,0,1,-1,0,Home,New England Patriots,13
+Matt Hasselbeck,Indianapolis Colts,1,16,26,169,1,2,2,1,0,Home,Pittsburgh Steelers,13
+Brock Osweiler,Denver Broncos,1,16,26,166,1,1,3,1,0,Home,San Diego Chargers,13
+Austin Davis,Cleveland Browns,1,25,38,230,0,1,3,4,0,Away,Cincinnati Bengals,13
+Jay Cutler,Chicago Bears,1,18,31,202,0,1,4,10,0,Away,San Francisco 49ers,13
+Matt Cassel,Dallas Cowboys,1,16,29,222,0,0,2,-3,0,Home,Washington Redskins,13
+Philip Rivers,San Diego Chargers,1,18,35,202,0,1,0,0,0,Away,Denver Broncos,13
+Ryan Tannehill,Miami Dolphins,1,9,19,86,1,0,1,11,0,Away,Baltimore Ravens,13
+Nick Foles,St. Louis Rams,1,15,35,146,0,1,2,-2,0,Away,Arizona Cardinals,13
+Teddy Bridgewater,Minnesota Vikings,1,17,28,118,0,1,1,2,0,Away,Seattle Seahawks,13
+Charlie Whitehurst,Indianapolis Colts,1,4,8,51,0,0,0,0,0,Home,Pittsburgh Steelers,13
+AJ McCarron,Cincinnati Bengals,1,2,3,19,0,0,0,0,0,Home,Cleveland Browns,13
+B.J. Daniels,Seattle Seahawks,1,0,0,0,0,0,0,0,0,Home,Minnesota Vikings,13
+Drew Stanton,Arizona Cardinals,1,1,1,6,0,0,3,-3,0,Home,St. Louis Rams,13
+Landry Jones,Pittsburgh Steelers,1,0,0,0,0,0,1,-1,0,Away,Indianapolis Colts,13
+Tarvaris Jackson,Seattle Seahawks,1,0,1,0,0,0,2,-2,0,Home,Minnesota Vikings,13

@@ -1,29 +1,29 @@
-Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent
-Jacksonville Jaguars,1,4,2,2,2,31,298.0,115.0,0,0,Away,Buffalo Bills
-New York Giants,1,1,1,3,1,20,227.0,233.0,0,1,Away,Dallas Cowboys
-St. Louis Rams,1,4,4,0,1,6,297.0,82.0,0,0,Away,Cleveland Browns
-Miami Dolphins,1,4,0,1,1,26,273.0,71.0,0,0,Away,Houston Texans
-Buffalo Bills,1,2,0,1,1,34,182.0,120.0,0,0,Home,Jacksonville Jaguars
-Tampa Bay Buccaneers,1,1,1,0,1,31,317.0,50.0,0,0,Home,Washington Redskins
-San Francisco 49ers,1,5,0,2,0,20,235.0,176.0,0,0,Away,Seattle Seahawks
-Minnesota Vikings,1,7,0,0,0,19,256.0,77.0,0,0,Home,Detroit Lions
-New Orleans Saints,1,4,1,2,0,21,333.0,75.0,0,0,Home,Indianapolis Colts
-Detroit Lions,1,4,1,0,0,28,316.0,140.0,1,0,Away,Minnesota Vikings
-Seattle Seahawks,1,6,0,0,0,3,124.0,61.0,0,0,Home,San Francisco 49ers
-Carolina Panthers,1,5,0,1,0,16,205.0,177.0,0,0,Away,Philadelphia Eagles
-Arizona Cardinals,1,3,1,1,0,18,252.0,55.0,0,0,Away,Baltimore Ravens
-Kansas City Chiefs,1,2,1,2,0,13,209.0,147.0,0,0,Away,Pittsburgh Steelers
-Houston Texans,1,4,1,0,0,44,296.0,248.0,0,0,Home,Miami Dolphins
-Philadelphia Eagles,1,1,0,3,0,27,197.0,204.0,0,0,Home,Carolina Panthers
-Atlanta Falcons,1,1,0,2,0,7,187.0,77.0,0,0,Home,Tennessee Titans
-New England Patriots,1,2,1,0,0,23,295.0,89.0,0,0,Away,New York Jets
-Cleveland Browns,1,2,1,0,0,24,163.0,158.0,0,0,Home,St. Louis Rams
-New York Jets,1,3,0,0,0,30,355.0,16.0,0,0,Home,New England Patriots
-Oakland Raiders,1,1,0,2,0,29,336.0,90.0,0,0,Home,San Diego Chargers
-Indianapolis Colts,1,2,0,1,0,27,280.0,183.0,0,0,Away,New Orleans Saints
-Baltimore Ravens,1,2,0,0,0,26,275.0,150.0,0,0,Home,Arizona Cardinals
-Tennessee Titans,1,0,0,2,0,10,251.0,127.0,0,0,Away,Atlanta Falcons
-Washington Redskins,1,1,1,0,0,30,297.0,190.0,0,0,Away,Tampa Bay Buccaneers
-Dallas Cowboys,1,2,0,0,0,27,170.0,132.0,0,0,Home,New York Giants
-Pittsburgh Steelers,1,2,0,0,0,23,251.0,138.0,0,0,Home,Kansas City Chiefs
-San Diego Chargers,1,1,0,0,0,37,289.0,130.0,0,0,Away,Oakland Raiders
+Team,G,Sack,FR,INT,DefTD,PA,PaYd/G,RuYd/G,Safety,KickTD,Home or Away,Opponent,Week
+Jacksonville Jaguars,1,4,2,2,2,31,298.0,115.0,0,0,Away,Buffalo Bills,7
+New York Giants,1,1,1,3,1,20,227.0,233.0,0,1,Away,Dallas Cowboys,7
+St. Louis Rams,1,4,4,0,1,6,297.0,82.0,0,0,Away,Cleveland Browns,7
+Miami Dolphins,1,4,0,1,1,26,273.0,71.0,0,0,Away,Houston Texans,7
+Buffalo Bills,1,2,0,1,1,34,182.0,120.0,0,0,Home,Jacksonville Jaguars,7
+Tampa Bay Buccaneers,1,1,1,0,1,31,317.0,50.0,0,0,Home,Washington Redskins,7
+San Francisco 49ers,1,5,0,2,0,20,235.0,176.0,0,0,Away,Seattle Seahawks,7
+Minnesota Vikings,1,7,0,0,0,19,256.0,77.0,0,0,Home,Detroit Lions,7
+New Orleans Saints,1,4,1,2,0,21,333.0,75.0,0,0,Home,Indianapolis Colts,7
+Detroit Lions,1,4,1,0,0,28,316.0,140.0,1,0,Away,Minnesota Vikings,7
+Seattle Seahawks,1,6,0,0,0,3,124.0,61.0,0,0,Home,San Francisco 49ers,7
+Carolina Panthers,1,5,0,1,0,16,205.0,177.0,0,0,Away,Philadelphia Eagles,7
+Arizona Cardinals,1,3,1,1,0,18,252.0,55.0,0,0,Away,Baltimore Ravens,7
+Kansas City Chiefs,1,2,1,2,0,13,209.0,147.0,0,0,Away,Pittsburgh Steelers,7
+Houston Texans,1,4,1,0,0,44,296.0,248.0,0,0,Home,Miami Dolphins,7
+Philadelphia Eagles,1,1,0,3,0,27,197.0,204.0,0,0,Home,Carolina Panthers,7
+Atlanta Falcons,1,1,0,2,0,7,187.0,77.0,0,0,Home,Tennessee Titans,7
+New England Patriots,1,2,1,0,0,23,295.0,89.0,0,0,Away,New York Jets,7
+Cleveland Browns,1,2,1,0,0,24,163.0,158.0,0,0,Home,St. Louis Rams,7
+New York Jets,1,3,0,0,0,30,355.0,16.0,0,0,Home,New England Patriots,7
+Oakland Raiders,1,1,0,2,0,29,336.0,90.0,0,0,Home,San Diego Chargers,7
+Indianapolis Colts,1,2,0,1,0,27,280.0,183.0,0,0,Away,New Orleans Saints,7
+Baltimore Ravens,1,2,0,0,0,26,275.0,150.0,0,0,Home,Arizona Cardinals,7
+Tennessee Titans,1,0,0,2,0,10,251.0,127.0,0,0,Away,Atlanta Falcons,7
+Washington Redskins,1,1,1,0,0,30,297.0,190.0,0,0,Away,Tampa Bay Buccaneers,7
+Dallas Cowboys,1,2,0,0,0,27,170.0,132.0,0,0,Home,New York Giants,7
+Pittsburgh Steelers,1,2,0,0,0,23,251.0,138.0,0,0,Home,Kansas City Chiefs,7
+San Diego Chargers,1,1,0,0,0,37,289.0,130.0,0,0,Away,Oakland Raiders,7

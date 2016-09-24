@@ -5,19 +5,20 @@ import urllib
 from bs4 import BeautifulSoup
 import csv
 import os
+import pandas as pd
+import shutil
 
-
-def generate_urls():
-	weeks=[str(i+1) for i in xrange(17)]
+def generate_urls(week):
 	positions=['QB', 'RB', 'WR', 'TE', 'DEF']
 	pos_urls=['10','20', '30', '40', '99']
 	years=['2016']
 	for index, pos_url in enumerate(pos_urls):
 		for year in years:
 			pos=positions[index]
-			url='http://fftoday.com/stats/playerstats.php?Season='+year+'&GameWeek='+'1'+'&PosID='+pos_url+'&LeagueID=1&order_by=FFPts&sort_order=DESC&cur_page='
-			grab_data(url, year, '1', pos)
-
+			url='http://fftoday.com/stats/playerstats.php?Season='+year+'&GameWeek='+week+'&PosID='+pos_url+'&LeagueID=1&order_by=FFPts&sort_order=DESC&cur_page='
+			print url
+			grab_data(url, year, week, pos)
+ 
 def grab_data(url, year, week, pos):
 	filename=pos+'Week'+week+year+'.csv'
 	print(filename)
@@ -76,9 +77,88 @@ def grab_data(url, year, week, pos):
 				stats=player.xpath('td/text()')[1:]
 				row=name+stats
 				csvwriter.writerow(row)
+	shutil.move(filename, '../Actual/%s' %filename)		
 
+def clean_headers():
+	files=os.listdir('../Preprocessing/Actual/')
+	print files
+	for index, file in enumerate(files):
+		new_cols=[]
+
+		df=pd.read_csv('../Preprocessing/Actual/%s' %file)
+		first_row=df.columns
+		sec_row=df.iloc[0]
+		for index, entry in enumerate(first_row):
+			if 'Unnamed' in entry:
+				new_cols.append(' ')
+			else:
+				new_cols.append(entry)	
+		new_cols=new_cols+sec_row
+		df.columns=new_cols
+		df.to_csv('new'+file)
+
+def merge_actual(week):
+	path='../Preprocessing/Actual/'
+	files=os.listdir(path)
+	dataframes=[]
+	for index, file in enumerate(files):
+		df=pd.read_csv(path+file)
+		dataframes.append(df)
+	merged=pd.concat(dataframes)
+	merged.to_csv('merged_actual_week%d.csv'%week)
+	# for col in merged.columns:
+	# 	if 'Unnamed' in col:
+	# 		del merged[col]
+
+	merged.to_csv('merged_offense.csv')
+
+def clean_merged_actual():
+	df=pd.read_csv('merged_offense.csv')
+	for index, row in df.iterrows():
+		if row[1]=='FPts' and index>2:
+			df.drop(index, inplace=True) 
+			print "deleting"
+	df.to_csv('mergx.csv')
+
+def recalculate():
+	files=os.listdir('actual/')
+	for file in files:
+		print file
+		if 'DEF' in file or '.DS_' in file:
+			continue
+		df=pd.read_csv('actual/'+file,skiprows=[1])
+		if 'QB' in file:
+			ffpoints=4*df['Passing.3']+.04*df['Passing.2']-df['Passing.4']+.1*df['Rushing.1']+6*df['Rushing.2']
+			passing_bonus=np.where(df['Passing.2']>=300, 3,0)
+			total_pts=ffpoints+passing_bonus
+			print 'c1'
+		elif 'RB' in file:
+			rushing_bonus=np.where(df['Rushing.1']>=100,3,0)
+			receiving_bonus=np.where(df['Receiving.2']>=100,3,0)
+			total_pts=.1*df['Rushing.1']+6*df['Rushing.2']+df['Receiving.1']+.1*df['Receiving']+rushing_bonus+receiving_bonus
+			print 'c2'
+		elif 'WR' in file:
+			print 'wr'
+			rushing_bonus=np.where(df['Rushing.2']>=100,3,0)
+			receiving_bonus=np.where(df['Receiving.2']>=100,3,0)
+			total_pts=.1*df['Rushing.2']+6*df['Receiving.3']+df['Receiving.1']+.1*df['Receiving']+rushing_bonus+receiving_bonus
+			print 'c3'
+
+		else:
+			receiving_bonus=np.where(df['Receiving.2']>=100,3,0)
+ 			total_pts=df['Receiving.1']+.1*df['Receiving.2']+6*df['Receiving.3']+receiving_bonus
+		df['Fantasy']=total_pts
+		del df['Fantasy.1']
+		df.to_csv('Edited'+file)
+		print 'Done'
+
+def poop():
+	print 'hey'
 if __name__ == '__main__':
-	generate_urls()
+	# generate_urls('1')
+	# merge_actual(1)
+	# clean_merged_actual()
+	poop
 
 
 

@@ -9,6 +9,7 @@ import pandas as pd
 import shutil
 
 def generate_urls(week):
+	week=str(week)
 	positions=['QB', 'RB', 'WR', 'TE', 'DEF']
 	pos_urls=['10','20', '30', '40', '99']
 	years=['2016']
@@ -80,29 +81,38 @@ def grab_data(url, year, week, pos):
 	shutil.move(filename, '../Actual/%s' %filename)		
 
 def clean_headers():
-	files=os.listdir('../Preprocessing/Actual/')
+	files=os.listdir('../Actual/')
 	print files
+
 	for index, file in enumerate(files):
+		if '.DS' in file:
+			continue
 		new_cols=[]
 
-		df=pd.read_csv('../Preprocessing/Actual/%s' %file)
+		df=pd.read_csv('../Actual/%s' %file)
 		first_row=df.columns
 		sec_row=df.iloc[0]
-		for index, entry in enumerate(first_row):
-			if 'Unnamed' in entry:
-				new_cols.append(' ')
-			else:
-				new_cols.append(entry)	
-		new_cols=new_cols+sec_row
-		df.columns=new_cols
-		df.to_csv('new'+file)
+		# for index, entry in enumerate(first_row):
+		# 	if 'Unnamed' in entry:
+		# 		new_cols.append(' ')
+		# 	else:
+		# 		new_cols.append(entry)	
+		# print new_cols, sec_row
+		# new_cols=new_cols+sec_row
+		#df.columns=new_cols
+		df.to_csv(file)
+		os.rename(file, '../Actual/%s' %file)
 
 def merge_actual(week):
-	path='../Preprocessing/Actual/'
+	path='../Actual/'
 	files=os.listdir(path)
 	dataframes=[]
+	print files
+
 	for index, file in enumerate(files):
-		df=pd.read_csv(path+file)
+		if '.DS' in file:
+			continue
+		df=pd.read_csv('../Actual/%s'%file)
 		dataframes.append(df)
 	merged=pd.concat(dataframes)
 	merged.to_csv('merged_actual_week%d.csv'%week)
@@ -110,24 +120,28 @@ def merge_actual(week):
 	# 	if 'Unnamed' in col:
 	# 		del merged[col]
 
-	merged.to_csv('merged_offense.csv')
 
-def clean_merged_actual():
-	df=pd.read_csv('merged_offense.csv')
+def clean_merged_actual(week):
+	df=pd.read_csv('merged_actual_week%d.csv'%week)
 	for index, row in df.iterrows():
 		if row[1]=='FPts' and index>2:
 			df.drop(index, inplace=True) 
 			print "deleting"
-	df.to_csv('mergx.csv')
+	df.to_csv('merged_actual_%d.csv'%week)
+	#os.rename('merged_actual_%d.csv'%week)
 
 def recalculate():
-	files=os.listdir('actual/')
+	files=os.listdir('../Actual/')
 	for file in files:
 		print file
-		if 'DEF' in file or '.DS_' in file:
+		if '.DS_' in file:
 			continue
-		df=pd.read_csv('actual/'+file,skiprows=[1])
-		if 'QB' in file:
+		df=pd.read_csv('../Actual/'+file,skiprows=[1])
+		if 'DEF' in file:
+			total_pts=df['Unnamed: 11']
+			del df['Unnamed: 11']
+			del df['Unnamed: 12']
+		elif 'QB' in file:
 			ffpoints=4*df['Passing.3']+.04*df['Passing.2']-df['Passing.4']+.1*df['Rushing.1']+6*df['Rushing.2']
 			passing_bonus=np.where(df['Passing.2']>=300, 3,0)
 			total_pts=ffpoints+passing_bonus
@@ -143,22 +157,45 @@ def recalculate():
 			receiving_bonus=np.where(df['Receiving.2']>=100,3,0)
 			total_pts=.1*df['Rushing.2']+6*df['Receiving.3']+df['Receiving.1']+.1*df['Receiving']+rushing_bonus+receiving_bonus
 			print 'c3'
-
 		else:
 			receiving_bonus=np.where(df['Receiving.2']>=100,3,0)
  			total_pts=df['Receiving.1']+.1*df['Receiving.2']+6*df['Receiving.3']+receiving_bonus
 		df['Fantasy']=total_pts
-		del df['Fantasy.1']
-		df.to_csv('Edited'+file)
+		if 'DEF' not in file:
+			print file
+			del df['Fantasy.1']
+		df.to_csv(file)
 		print 'Done'
+		os.rename(file, '../Actual/%s' %file)
 
+def accumulate_csv():
+	files=os.listdir('../Actual')
+	merged_csvs=[]
+	week=1
+	print files
+	for file in files:
+		if '.csv' not in file:
+			continue
+		print file
+		df=pd.read_csv('../Actual/'+file)
+		df['Week']=week
+		merged_csvs.append(df)
+		week+=1
+	print len(merged_csvs)
+	merged=pd.concat(merged_csvs)
+	merged.to_csv('Accumulated_actual_data.csv')
 def poop():
 	print 'hey'
 if __name__ == '__main__':
-	# generate_urls('1')
-	# merge_actual(1)
-	# clean_merged_actual()
-	poop
+	# week=3
 
+	# generate_urls(week)
+	# # merge_actual(1)
+	# # clean_merged_actual()
+	# recalculate()
+	# #clean_headers()
+	# merge_actual(week)
+	# #clean_merged_actual(week)
+	accumulate_csv()
 
 

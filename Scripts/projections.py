@@ -19,14 +19,14 @@ def add_salary():
 	salary.to_csv('new_salary.csv')
 
 def merge(week):
-	files=os.listdir('Week%d/data' %week)
+	files=os.listdir('../Preprocessing/Week%d/data' %week)
 	dataframes=[]
 	if '.DS_Store' in files:
 		files.pop(0)
 	for file in files:
 		position=file[0:file.index('.')]
 		print position
-		df=pd.read_csv('Week%d/data/%s' % (week,file))
+		df=pd.read_csv('../Preprocessing/Week%d/data/%s' % (week,file))
 		df.fillna(0, inplace=True)
 		print "Merging data for " + position
 		if position=='QB':
@@ -100,15 +100,15 @@ def merge(week):
  	merged[stat_columns]=np.round(merged[stat_columns].astype(float), decimals=2)
 	merged.to_csv('merged_projections_Week%d_corrected_newstats.csv' %week, columns=columns, index=False )
 
-def merge_merges():
-	files=os.listdir('Week3/')
+def merge_merges(week):
+	files=os.listdir('../Preprocessing/Week%d/'%week)
 	dataframes=[]
 	print "building"
 	columns=['player', 'position', 'Fantasy Points', 'FP deviation', 'Floor', 'Ceiling', 'Geometric mean', 'Median']
 	headers=['Player', 'Position', 'Fantasy Points', 'FP Deviation']
 	for file in files:
 		if 'smaller' in file:
- 			df=pd.read_csv('Week3/'+file)
+ 			df=pd.read_csv('Week%d/%s'%(week,file))
 			dataframes.append(df)
 	merged = pd.concat(dataframes)
 	for col in merged.columns:
@@ -136,9 +136,8 @@ def accumulate_csv():
 	merged.to_csv('Accumulated_projections.csv')
 
 if __name__ == '__main__':
-	#merge(1)
+	#merge(5)
 	accumulate_csv()
-	#merge_merges()
-	#clean_merged_actual()
+
  
  

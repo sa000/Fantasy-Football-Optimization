@@ -98,8 +98,8 @@ def clean_headers():
 		# 	else:
 		# 		new_cols.append(entry)	
 		# print new_cols, sec_row
-		# new_cols=new_cols+sec_row
-		#df.columns=new_cols
+		new_cols=new_cols+sec_row
+		df.columns=new_cols
 		df.to_csv(file)
 		os.rename(file, '../Actual/%s' %file)
 
@@ -114,7 +114,11 @@ def merge_actual(week):
 			continue
 		df=pd.read_csv('../Actual/%s'%file)
 		dataframes.append(df)
+		print len(dataframes)
+		print file
 	merged=pd.concat(dataframes)
+
+	
 	merged.to_csv('merged_actual_week%d.csv'%week)
 	# for col in merged.columns:
 	# 	if 'Unnamed' in col:
@@ -187,15 +191,13 @@ def accumulate_csv():
 def poop():
 	print 'hey'
 if __name__ == '__main__':
-	# week=3
+	week=3
 
-	# generate_urls(week)
-	# # merge_actual(1)
-	# # clean_merged_actual()
-	# recalculate()
-	# #clean_headers()
-	# merge_actual(week)
+	generate_urls(week)
+	# #recalculate()
+	# # #clean_headers()
+	# #merge_actual(week)
 	# #clean_merged_actual(week)
-	accumulate_csv()
+	# accumulate_csv()
 
 
